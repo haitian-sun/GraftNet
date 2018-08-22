@@ -5,11 +5,26 @@ This is the implementation of GraftNet described in EMNLP 2018 paper "Open Domai
 ### Demo
 This repo contains pretrained models with the full text corpus and knowledge base, and generated datasets with incomplete knowledge base (10%, 30%, 50%). The default folder structure is shown as followed:
 
+```
+GraftNet
+├── *.py
+├── config
+├── datasets
+    ├── webqsp
+    └── wikimovie
+└── model
+    ├── webqsp
+    └── wikimovie
+
+```
+
  - ./config: configuration files for Wikimovies and WebQuestionsSP
- - ./model: pretrained models on full text corpus and knowledge base
- - ./datasets: retrieved text from full text corpus and sampled knowledge base
+ - ./model: pretrained models on full text corpus and knowledge base 
+ - ./datasets: retrieved text from full text corpus and sampled knowledge base 
+
+
  
-To reproduce the result, change the following values in the *.yml file:
+To reproduce the result, (1) download data ([WikiMovies](https://drive.google.com/file/d/1EI8iaHZGuhNGriO94Y-3IxkbSeNUHOxy/view?usp=sharing) [WebQuestionsSP](https://drive.google.com/file/d/1bgTKxnpDeZnt6sILrgLmu9yiZzdfwDbQ/view?usp=sharing)) and pre-trained model ([WikiMovies](https://drive.google.com/file/d/1eHjDJjXRmuWp04CIKJWF7Giivsiz1H9I/view?usp=sharing) [WebQuestionsSP](https://drive.google.com/file/d/1epH4MjM7R2yVzNiXbBeyyEolM9nD8mxT/view?usp=sharing)), and save them under ./model and ./datasets folders respectively, and (2) change the following values in the *.yml file:
 
  - data_folder: Folder in ./datasets you would like to run
  - to_save_model: True if you would like to save the best model
