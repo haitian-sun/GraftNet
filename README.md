@@ -2,6 +2,17 @@
 
 This is the implementation of GraftNet described in EMNLP 2018 paper [Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text](https://arxiv.org/abs/1809.00782).
 
+### Prerequisites
+The recommended way to install the required packages is using Conda and the provided `environment.yml` file. See [this](https://conda.io/docs/user-guide/install/index.html) page on how to install conda. Create the environment by running the following command:
+```
+conda env create --name=graftnet --file=environment.yml
+```
+
+Then activate the environment using:
+```
+source activate graftnet
+```
+
 ### Demo
 This repo contains pretrained models with the full text corpus and knowledge base, and generated datasets with incomplete knowledge base (10%, 30%, 50%). The default folder structure is as follows:
 
@@ -54,7 +65,7 @@ python script.py webqsp KB_PRED DOC_PRED HYBRID_PRED
 ```
 where *_PRED are the "pred_file" in the .yml file under different settings (with different combinations of "use_doc" and "use_kb").
 
-## Contributors
+### Contributors
 If you use this code please cite the following:
 
 Sun, H., Dhingra, B., Zaheer, M., Mazaitis, K., Salakhutdinov, R., & Cohen, W. W. (2018). Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text. EMNLP.
