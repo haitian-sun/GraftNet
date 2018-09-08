@@ -1,9 +1,9 @@
 # GraftNet
 
-This is the implementation of GraftNet described in EMNLP 2018 paper "Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text".
+This is the implementation of GraftNet described in EMNLP 2018 paper [Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text](https://arxiv.org/abs/1809.00782).
 
 ### Demo
-This repo contains pretrained models with the full text corpus and knowledge base, and generated datasets with incomplete knowledge base (10%, 30%, 50%). The default folder structure is shown as followed:
+This repo contains pretrained models with the full text corpus and knowledge base, and generated datasets with incomplete knowledge base (10%, 30%, 50%). The default folder structure is as follows:
 
 ```
 GraftNet
@@ -54,3 +54,15 @@ python script.py webqsp KB_PRED DOC_PRED HYBRID_PRED
 ```
 where *_PRED are the "pred_file" in the .yml file under different settings (with different combinations of "use_doc" and "use_kb").
 
+## Contributors
+If you use this code please cite the following:
+
+Sun, H., Dhingra, B., Zaheer, M., Mazaitis, K., Salakhutdinov, R., & Cohen, W. W. (2018). Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text. EMNLP.
+```
+@article{sun2018open,
+  title={Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text},
+  author={Sun, Haitian and Dhingra, Bhuwan and Zaheer, Manzil and Mazaitis, Kathryn and Salakhutdinov, Ruslan and Cohen, William W},
+  journal={EMNLP},
+  year={2018}
+}
+```
