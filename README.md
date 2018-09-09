@@ -13,6 +13,15 @@ Then activate the environment using:
 source activate graftnet
 ```
 
+### Downloads
+Pre-processed datasets:
+1. [WikiMovies](http://curtis.ml.cmu.edu/datasets/graftnet/data_wikimovie.zip)
+2. [WebQuestionsSP](http://curtis.ml.cmu.edu/datasets/graftnet/data_webqsp.zip)
+
+Pre-trained models:
+1. [WikiMovies](http://curtis.ml.cmu.edu/datasets/graftnet/model_wikimovie.zip)
+2. [WebQuestionsSP](http://curtis.ml.cmu.edu/datasets/graftnet/model_webqsp.zip)
+
 ### Demo
 This repo contains pretrained models with the full text corpus and knowledge base, and generated datasets with incomplete knowledge base (10%, 30%, 50%). The default folder structure is as follows:
 
@@ -35,7 +44,7 @@ GraftNet
 
 
  
-To reproduce the result, (1) download data ([WikiMovies](http://curtis.ml.cmu.edu/datasets/graftnet/data_wikimovie.zip) [WebQuestionsSP](http://curtis.ml.cmu.edu/datasets/graftnet/data_webqsp.zip)) and pre-trained model ([WikiMovies](http://curtis.ml.cmu.edu/datasets/graftnet/model_wikimovie.zip) [WebQuestionsSP](http://curtis.ml.cmu.edu/datasets/graftnet/model_webqsp.zip)), and save them under ./model and ./datasets folders respectively, and (2) change the following values in the *.yml file:
+To reproduce the result, (1) download data and pre-trained model, and save them under ./model and ./datasets folders respectively, and (2) change the following values in the *.yml file:
 
  - data_folder: Folder in ./datasets you would like to run
  - to_save_model: True if you would like to save the best model
