@@ -8,6 +8,7 @@ To run the pipeline simply call `./run_pipeline` from a bash terminal. The scrip
 - Glove embeddings
 - Entity links for the questions from [STAGG](https://raw.githubusercontent.com/scottyih/STAGG)
 - Our preprocessed version of the Freebase data.
+
 All the downloads plus the pipeline takes upwards of 1 hour to complete.
 
 The preprocessed Freebase data includes a subset for each question with only the relations and entities reachable within 2 hops from the seed entities mentioned in the question (from the entity linked data). Further this subset is pre-processed to include only relations which are mentioned in the semantic parse of at least one of the questions.
