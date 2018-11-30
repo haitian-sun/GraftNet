@@ -1,0 +1,37 @@
+#!/bin/bash -e
+
+mkdir -p scratch
+mkdir -p downloads
+
+# Download
+# WebQuestionsSP data
+wget -nd https://download.microsoft.com/download/F/5/0/F5012144-A4FB-4084-897F-CFDA99C60BDF/WebQSP.zip
+unzip WebQSP.zip -d downloads/
+rm -f WebQSP.zip
+ln -s downloads/WebQSP/data/WebQSP.train.json webqsp_train
+ln -s downloads/WebQSP/data/WebQSP.test.json webqsp_test
+## Glove embeddings
+wget -nd http://nlp.stanford.edu/data/glove.840B.300d.zip
+unzip glove.840B.300d.zip -d downloads/
+rm -f glove.840B.300d.zip
+ln -s downloads/glove.840B.300d.txt glove
+# Entity links from S-MART
+wget -nd https://raw.githubusercontent.com/scottyih/STAGG/master/webquestions.examples.train.e2e.top10.filter.tsv
+wget -nd https://raw.githubusercontent.com/scottyih/STAGG/master/webquestions.examples.test.e2e.top10.filter.tsv
+mv webquestions.examples.* downloads/
+ln -s downloads/webquestions.examples.train.e2e.top10.filter.tsv train_links_raw
+ln -s downloads/webquestions.examples.test.e2e.top10.filter.tsv test_links_raw
+# Preprocessed Freebase data
+wget -nd http://curtis.ml.cmu.edu/datasets/graftnet/freebase_prepro.tgz
+tar -xvf freebase_prepro.tgz
+
+# Run
+# Preprocess WebQSP data
+python step0_preprocess_webqsp.py
+# Preprocess entity linking data
+python step1_process_entity_links.py
+# Extract relation and question embeddings for weighted PPR
+python step2_relation_embeddings.py
+python step3_question_embeddings.py
+# Run PPR to get subgraphs
+python step4_extract_subgraphs.py
