@@ -63,7 +63,7 @@ def _read_facts(fact_file, relation_embeddings, question_embedding,
     with open(fact_file) as f:
         entity_map = {}
         relation_map = {}
-        row_ones, col_ones = [], []
+        all_row_ones, all_col_ones = [], []
         num_entities = 0
         num_facts = 0
         for line in f:
@@ -82,10 +82,10 @@ def _read_facts(fact_file, relation_embeddings, question_embedding,
                 relation_map[rel] = [[], []]
             if e1 in seeds: seeds_found.add(e1)
             if e2 in seeds: seeds_found.add(e2)
-            row_ones.append(entity_map[e1])
-            col_ones.append(entity_map[e2])
-            row_ones.append(entity_map[e2])
-            col_ones.append(entity_map[e1])
+            all_row_ones.append(entity_map[e1])
+            all_col_ones.append(entity_map[e2])
+            all_row_ones.append(entity_map[e2])
+            all_col_ones.append(entity_map[e1])
             relation_map[rel][0].append(entity_map[e1])
             relation_map[rel][1].append(entity_map[e2])
             num_facts += 1
@@ -111,7 +111,7 @@ def _read_facts(fact_file, relation_embeddings, question_embedding,
         adj_mat = sum(relation_map.values()) / len(relation_map)
     else:
         adj_mat = csr_matrix(
-            (np.ones((len(row_ones),)), (np.array(row_ones), np.array(col_ones))),
+            (np.ones((len(all_row_ones),)), (np.array(all_row_ones), np.array(all_col_ones))),
             shape=(num_entities, num_entities))
     return entity_map, relation_map, normalize(adj_mat, norm="l1", axis=1)
 
