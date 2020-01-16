@@ -1,0 +1,53 @@
+<project name="SSquad" default="dist" basedir=".">
+    <description>
+        Project Description
+    </description>
+
+  <!-- set global properties for this build -->
+  <property name="projectName" value="SSquad"/>
+  <property name="src" location="src"/>
+  <property name="build" location="bin"/>
+  <property name="dist"  location="dist"/>
+  <path id="classpath">
+      <fileset dir="lib">
+        <include name="**/*.jar"/>
+      </fileset>
+      <dirset dir="${build}">
+        <include name="**/*.class"/>
+      </dirset>
+  </path>
+
+  <target name="init">
+    <!-- Create the time stamp -->
+     <tstamp/>
+     <!-- Create the build directory structure used by compile -->
+     <mkdir dir="${build}"/>
+  </target>
+
+  <target name="compile" depends="init"
+	  description="compile the source " >
+    <!-- Compile the java code from ${src} into ${build} -->
+    <javac srcdir="${src}" destdir="${build}">
+    <classpath refid="classpath"/>
+    </javac>
+  </target>
+
+  <target name="dist" depends="compile"
+	  description="generate the distribution" >
+
+    <!-- Create the distribution directory -->
+    <mkdir dir="${dist}"/>
+
+    <!-- Put everything in ${build} into the {$projectName}-${DSTAMP}.jar file -->
+    <jar jarfile="${dist}/${projectName}.jar" basedir="${build}"/>
+  </target>
+
+
+  <target name="clean"
+	  description="clean up" >
+
+    <!-- Delete the ${build} and ${dist} directory trees -->
+    <delete dir="${build}"/>
+    <delete dir="${dist}"/>
+  </target>
+</project>
