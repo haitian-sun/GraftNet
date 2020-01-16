@@ -3,4 +3,5 @@
 *.xlsx
 datasets
 model
+*.class
 
