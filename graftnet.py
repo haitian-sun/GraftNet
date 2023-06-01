@@ -27,6 +27,10 @@ class GraftNet(nn.Module):
         self.use_kb = use_kb
         self.use_doc = use_doc
 
+        # print("---NUM EMB---")
+        # print(num_entity)
+        # print("-------")
+
         # initialize entity embedding
         self.entity_embedding = nn.Embedding(num_embeddings=num_entity + 1, embedding_dim=word_dim, padding_idx=num_entity)
         if pretrained_entity_emb_file is not None:
@@ -193,11 +197,18 @@ class GraftNet(nn.Module):
             document_node_emb = (document_node_emb[0, :, :] + document_node_emb[1, :, :]).view(batch_size, max_relevant_doc, self.entity_dim) # batch_size, max_relevant_doc, entity_dim
 
         # load entity embedding
+
+        # print("---LOCAL ENTITY---")
+        # print(local_entity)
+        # print("------")
+
         local_entity_emb = self.entity_embedding(local_entity) # batch_size, max_local_entity, word_dim
         if self.has_entity_kge:
             local_entity_emb = torch.cat((local_entity_emb, self.entity_kge(local_entity)), dim=2) # batch_size, max_local_entity, word_dim + kge_dim
         if self.word_dim != self.entity_dim:
             local_entity_emb = self.entity_linear(local_entity_emb) # batch_size, max_local_entity, entity_dim
+        
+        # torch.save(local_entity_emb, 'initial_embs.pt')
 
         # label propagation on entities
         for i in range(self.num_layer):
@@ -273,16 +284,28 @@ class GraftNet(nn.Module):
             # update entity
             local_entity_emb = self.relu(e2e_linear(self.linear_drop(next_local_entity_emb))) # batch_size, max_local_entity, entity_dim
 
+        # torch.save(local_entity_emb, 'final_embs.pt')
+        # print(local_entity_emb)
+
+        # torch.save(document_textual_emb, 'final_embs_docs.pt')
+        # torch.save(document_node_emb, 'final_embs_docs_nodes.pt')
+        # print(local_entity_emb)
 
         # calculate loss and make prediction
         score = self.score_func(self.linear_drop(local_entity_emb)).squeeze(dim=2) # batch_size, max_local_entity
+        score2 = self.score_func(self.linear_drop(document_node_emb)).squeeze(dim=2)
+
         loss = self.bce_loss_logits(score, answer_dist)
 
         score = score + (1 - local_entity_mask) * VERY_NEG_NUMBER
+        # print("SCORE")
+        # print(score)
+        # print("----")
+
         pred_dist = self.sigmoid(score) * local_entity_mask
         pred = torch.max(score, dim=1)[1]
 
-        return loss, pred, pred_dist
+        return loss, pred, pred_dist, score2
 
 
     def init_hidden(self, num_layer, batch_size, hidden_size):

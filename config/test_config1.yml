@@ -1,0 +1,47 @@
+name: 'wikimovie'
+data_folder: 'datasets/wikimovie/10k_train_kb_03/'
+train_data: 'train.json'
+train_documents: 'documents.json'
+dev_data: 'dev.json'
+dev_documents: 'documents.json'
+test_data: 'test_try1.json'
+test_documents: 'documents.json'
+
+word2id: 'vocab.txt'
+relation2id: 'relations.txt'
+entity2id: 'entities.txt'
+word_emb_file: null 
+entity_emb_file: null 
+entity_kge_file: null 
+relation_emb_file: null 
+relation_kge_file: null 
+
+to_save_model: True
+save_model_file: "model/repro/wikimovie/testrunmovies1"
+pred_file: "model/repro/wikimovie/predmovies1"
+load_model_file: "model/repro/wikimovie/best_model_hybrid"
+
+# graph options
+fact_dropout: 0.0
+use_kb: True
+use_doc: True
+
+num_layer: 3
+max_query_word: 10
+max_document_word: 40
+
+entity_dim: 80
+word_dim: 80
+kge_dim: 80
+pagerank_lambda: 0.8
+fact_scale: 1
+use_inverse_relation: True
+
+# optimization
+num_epoch: 1
+batch_size: 120
+gradient_clip: 1
+learning_rate: 0.01
+lstm_dropout: 0.3
+linear_dropout: 0.2
+is_debug: False

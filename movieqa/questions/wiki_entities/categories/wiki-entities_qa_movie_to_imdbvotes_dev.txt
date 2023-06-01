@@ -1,0 +1,8 @@
+1 how popular was Les Misérables?	famous
+1 how popular of a movie was Almost Famous?	famous
+1 how popular is Assault on Precinct 13?	famous
+1 how popular of a movie was Ivan's Childhood?	famous
+1 how popular was My Man Godfrey?	famous
+1 what was the popularity rating of Who Framed Roger Rabbit?	famous
+1 how famous of a film was Massacre at Central High?	unknown
+1 how popular of a movie is Jay and Silent Bob Strike Back?	famous

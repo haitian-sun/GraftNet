@@ -193,6 +193,7 @@ class DataLoader():
         :answer_dist: an distribution over local_entity (batch_size, max_local_entity)
         """
         sample_ids = self.batches[batch_size * iteration: batch_size * (iteration + 1)]
+
         
         return self.local_entities[sample_ids], \
                self.q2e_adj_mats[sample_ids], \

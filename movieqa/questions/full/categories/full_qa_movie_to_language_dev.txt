@@ -1,0 +1,826 @@
+1 what is the language spoken in the movie Supernova?	English
+1 what is the primary language in the film Mary of Scotland?	English
+1 what is the primary language in the film All-Star Superman?	English
+1 what is the primary language in Life with Mikey?	English
+1 what is the language spoken in Krippendorf's Tribe?	English
+1 what language is the movie Boca in?	Portuguese
+1 what language is the movie Humanity and Paper Balloons in?	Japanese
+1 what language is the movie American Pop in?	English, Russian, Hebrew, Yiddish
+1 what is the main language in Rambling Rose?	English
+1 what is the language spoken in the movie Going Hollywood?	English, French
+1 what is the main language in Class?	English
+1 what language is Close-Up in?	Persian, Azerbaijani
+1 what is the language spoken in the movie Nuts?	English
+1 what language is the movie Double Indemnity in?	English
+1 what language is Boogie Nights in?	English
+1 what language is Killer Condom in?	German
+1 what language is Resurrecting the Champ in?	English
+1 what language is the movie The Merchant of Four Seasons in?	German, Arabic
+1 what is the language spoken in the film Quills?	English, Latin
+1 what is the language spoken in the movie Shrek 2?	English
+1 what is the primary language in The Boob?	English
+1 what language is The Hidden Face in?	Spanish
+1 what is the primary language in the film Pickpocket?	French
+1 what is the language spoken in the movie City of Ghosts?	English, French, Russian, Khmer
+1 what is the language spoken in What Have They Done to Your Daughters??	Italian
+1 what is the language spoken in Gung Ho?	English
+1 what language is Journeys with George in?	English
+1 what language is Pootie Tang in?	English
+1 what is the primary language in Mike's New Car?	English
+1 what is the primary language in the film The First Power?	English
+1 what language is The L-Shaped Room in?	English
+1 what language is the movie I Want to Live! in?	English
+1 what is the primary language in The Chipmunk Adventure?	English
+1 what language is The Journey of August King in?	English
+1 what is the language spoken in the film The Human Factor?	English
+1 what is the language spoken in the film Wit?	English
+1 what is the primary language in Two Girls and a Sailor?	English
+1 what is the language spoken in the film Chasers?	English
+1 what language is the movie Our Man Flint in?	English, Italian
+1 what is the primary language in Lion of the Desert?	English
+1 what language is the movie Breakdown in?	English
+1 what language is Crazy Safari in?	English, Cantonese, Ungwatsi
+1 what is the language spoken in the movie Humboldt County?	English
+1 what is the primary language in the film The To Do List?	English, Sanskrit
+1 what is the language spoken in the movie The Southerner?	English
+1 what is the primary language in the film The Hi-Lo Country?	English
+1 what language is The Parent Trap in?	English
+1 what is the primary language in the film Marion Bridge?	English
+1 what is the primary language in the film Edison?	English
+1 what language is The Enforcer in?	English
+1 what is the main language in Stars and Stripes Forever?	English
+1 what language is The Gypsy Moths in?	English
+1 what is the primary language in the film Out for a Kill?	English
+1 what is the language spoken in The Fiendish Plot of Dr. Fu Manchu?	English
+1 what is the language spoken in the movie The Divorcee?	English, French
+1 what is the primary language in Enchanted?	English
+1 what is the language spoken in the film Happy, Texas?	English
+1 what is the language spoken in the movie Jewel Robbery?	English
+1 what language is Unknown in?	English, German, Arabic, Turkish
+1 what is the language spoken in the film Troubled Water?	Danish, Norwegian
+1 what language is Trash Humpers in?	English
+1 what language is Fire and Ice in?	English
+1 what language is Shotgun Stories in?	English
+1 what language is The Opposite of Sex in?	English
+1 what is the language spoken in Revenge of the Zombies?	English
+1 what language is Caramel in?	French, Arabic
+1 what language is the movie Special 26 in?	Hindi
+1 what language is the movie I Still Know What You Did Last Summer in?	English
+1 what language is the movie Never a Dull Moment in?	English
+1 what is the language spoken in the movie Neptune's Daughter?	English
+1 what language is Mindhunters in?	English
+1 what is the primary language in Alice in Murderland?	English
+1 what language is What! No Beer? in?	English
+1 what language is For the Boys in?	English
+1 what language is American Gun in?	English
+1 what is the language spoken in the film The Shining?	English
+1 what is the language spoken in Starry Eyes?	English
+1 what is the language spoken in the film Philadelphia?	English
+1 what is the language spoken in the film Lawman?	English
+1 what is the main language in The Hourglass Sanatorium?	Latin, Hebrew, Polish, Yiddish
+1 what is the language spoken in the movie Blue Streak?	English
+1 what is the language spoken in the film 12 Storeys?	English, Mandarin, Cantonese, Tagalog, Malay, Hokkien
+1 what is the language spoken in the movie Tough Guys Don't Dance?	English
+1 what is the primary language in the film A Countess from Hong Kong?	English, French
+1 what language is the movie The Love Guru in?	English
+1 what language is Mitt in?	English
+1 what is the language spoken in the movie The Three Musketeers?	English
+1 what language is Millennium in?	English
+1 what is the language spoken in the movie Romper Stomper?	English, German, Japanese, Portuguese, Vietnamese
+1 what is the language spoken in the movie The Twilight of the Golds?	English
+1 what language is Caught Up in?	English
+1 what is the language spoken in the film Hurry Sundown?	English
+1 what is the language spoken in the movie Love Streams?	English
+1 what is the main language in Hope Floats?	English
+1 what language is Catch a Fire in?	English, Portuguese, Afrikaans, Zulu
+1 what is the language spoken in Late Marriage?	Hebrew, Georgian
+1 what is the primary language in the film The Oblong Box?	English
+1 what is the primary language in the film Supernova?	English, French
+1 what is the language spoken in the movie A Christmas Carol?	English
+1 what is the language spoken in the film Scenes from a Mall?	English
+1 what language is I'm All Right Jack in?	English
+1 what is the language spoken in the film The Fighting Prince of Donegal?	English
+1 what language is Steam of Life in?	Finnish
+1 what is the primary language in Some Kind of Hero?	English
+1 what is the main language in Clockers?	English
+1 what is the language spoken in the film Man of the World?	English, French
+1 what is the primary language in Wind?	English
+1 what language is Blast of Silence in?	English
+1 what language is The Drowning Pool in?	English, French
+1 what is the primary language in the film Hard Ticket to Hawaii?	English
+1 what is the language spoken in A Letter from Death Row?	English
+1 what language is the movie Madame Bovary in?	English
+1 what is the language spoken in Zodiac?	English
+1 what is the language spoken in The Ballad of Little Jo?	English
+1 what is the primary language in the film The Anniversary?	English
+1 what is the primary language in Desperate Living?	English
+1 what is the primary language in Blue Steel?	English
+1 what is the primary language in the film Sinbad of the Seven Seas?	English
+1 what is the primary language in the film The Edge of Love?	English, Welsh
+1 what language is Charley Varrick in?	English
+1 what is the language spoken in the film Back to the Future Part III?	English
+1 what is the language spoken in the movie Lady Windermere's Fan?	English
+1 what language is Doomsday Prophecy in?	English
+1 what is the language spoken in the movie We Are Marshall?	English
+1 what is the language spoken in the movie Goodbye, Columbus?	English
+1 what language is Your Vice Is a Locked Room and Only I Have the Key in?	Italian
+1 what is the main language in Lord of Tears?	English
+1 what is the language spoken in Aqua Teen Hunger Force Colon Movie Film for Theaters?	English
+1 what is the language spoken in the film Marked for Death?	English
+1 what is the main language in The Star Maker?	Spanish, Italian, Sicilian
+1 what language is The Dark Mirror in?	English
+1 what is the primary language in the film It All Starts Today?	French
+1 what is the primary language in Art School Confidential?	English
+1 what language is the movie Separate Lies in?	English, French
+1 what is the main language in Encounter in the Third Dimension?	English
+1 what language is Mirrors 2 in?	English
+1 what is the primary language in the film The Bird People in China?	English, Japanese, Chinese
+1 what is the primary language in Sound City?	English
+1 what is the language spoken in the film Counsellor at Law?	English, Italian, Yiddish
+1 what is the main language in Mimic?	English, Italian
+1 what is the primary language in the film A Blueprint for Murder?	English
+1 what is the language spoken in They Live by Night?	English
+1 what is the main language in Blade?	English, Russian
+1 what is the language spoken in The Sons of Katie Elder?	English
+1 what language is Inescapable in?	English, Arabic
+1 what is the language spoken in the movie Karan Arjun?	Hindi
+1 what is the primary language in the film Scars of Dracula?	English
+1 what language is the movie Highly Dangerous in?	English
+1 what is the language spoken in the film Martha Marcy May Marlene?	English
+1 what language is The House Bunny in?	English
+1 what is the primary language in Serenity?	English, Mandarin
+1 what is the primary language in the film Alambrista!?	English, Spanish
+1 what language is the movie The Private War of Major Benson in?	English
+1 what is the primary language in the film The Body?	English, Arabic, Hebrew
+1 what is the language spoken in the movie Belle Starr?	English
+1 what is the primary language in Fateless?	English, German, Hebrew, Hungarian, Polish, Yiddish
+1 what language is Soup to Nuts in?	English
+1 what is the language spoken in Naked Weapon?	English, Cantonese
+1 what is the language spoken in the movie Window to Paris?	French, Russian
+1 what language is the movie The Dark Horse in?	English
+1 what is the primary language in the film Jackass Number Two?	English
+1 what language is the movie Veer-Zaara in?	Hindi, Urdu, Panjabi
+1 what is the primary language in the film Over the Edge?	English
+1 what language is Shanghai Knights in?	English, Mandarin
+1 what is the main language in A Free Soul?	English
+1 what language is Everybody Wins in?	English
+1 what is the main language in Miss Congeniality?	English, French, Spanish, Russian, Hawaiian
+1 what is the language spoken in the movie Not on the Lips?	French
+1 what is the main language in Crazy Love?	English
+1 what is the language spoken in the movie Random Hearts?	English
+1 what language is At Midnight I'll Take Your Soul in?	Portuguese
+1 what is the primary language in the film Borrowed Hearts?	English
+1 what language is Fear City in?	English
+1 what is the language spoken in the film The Big Country?	English, Spanish
+1 what is the primary language in Rio Sex Comedy?	English, French, Portuguese
+1 what is the language spoken in the movie Napoleon?	English
+1 what is the primary language in the film The Family Stone?	English, American Sign Language
+1 what is the language spoken in Blast from the Past?	English, French, German, Latin
+1 what is the language spoken in Northfork?	English
+1 what is the primary language in Two Family House?	English
+1 what is the main language in The Killer Shrews?	English, Spanish
+1 what is the main language in Things You Can Tell Just by Looking at Her?	English
+1 what is the primary language in Unfaithfully Yours?	English
+1 what language is Wishful Drinking in?	English
+1 what is the language spoken in the movie The Slumber Party Massacre?	English
+1 what is the language spoken in Maniac?	English
+1 what is the main language in Misunderstood?	English
+1 what is the language spoken in the movie The American Astronaut?	English
+1 what is the primary language in Melvin Goes to Dinner?	English
+1 what is the primary language in the film We'll Never Have Paris?	English, French
+1 what is the language spoken in Air Force One?	English, Russian
+1 what language is the movie Goats in?	English
+1 what is the language spoken in A Promise?	English
+1 what language is House on Haunted Hill in?	English
+1 what is the primary language in The Amityville Curse?	English
+1 what language is Sgt. Bilko in?	English
+1 what is the language spoken in Ride with the Devil?	English
+1 what is the primary language in Stalker?	Russian
+1 what is the main language in Student Bodies?	English
+1 what is the language spoken in the film The Thorn in the Heart?	French
+1 what is the language spoken in King Kong Lives?	English
+1 what is the main language in Demolition Man?	English
+1 what is the language spoken in the movie Amy Foster?	English
+1 what is the language spoken in the movie Carrie?	English
+1 what language is Les Misérables in?	French
+1 what is the primary language in the film My Summer of Love?	English
+1 what language is the movie Waiting... in?	English, German
+1 what language is Love Me If You Dare in?	French
+1 what language is the movie Jersey Boys in?	English
+1 what is the language spoken in Trust Me?	English
+1 what is the language spoken in the movie Metropia?	English
+1 what is the language spoken in the movie Problem Child 2?	English
+1 what language is Kinetta in?	Greek
+1 what is the language spoken in the movie The Bucket List?	English
+1 what language is Rio 2 in?	English, Portuguese
+1 what language is the movie The Winning of Barbara Worth in?	English, Spanish
+1 what is the main language in The Babymakers?	English
+1 what is the primary language in Ladies in Retirement?	English
+1 what language is the movie Carlito's Way in?	English, Spanish
+1 what is the language spoken in the movie Some Folks Call It a Sling Blade?	English
+1 what language is August Rush in?	English
+1 what is the primary language in the film The Princess Diaries?	English
+1 what language is Son of Lassie in?	English, German
+1 what is the language spoken in Postman Blues?	English, French, Japanese
+1 what is the primary language in Australia?	English, Japanese, Chinese, Aboriginal
+1 what language is the movie The Fifth Cord in?	Italian
+1 what is the primary language in King Kong Escapes?	Japanese
+1 what is the language spoken in the film Inside Daisy Clover?	English
+1 what is the primary language in Why Did I Get Married??	English
+1 what is the primary language in the film Hellraiser?	English
+1 what language is Goodbye, Mr. Chips in?	English
+1 what is the main language in The Little Fox?	Hungarian
+1 what is the language spoken in the movie The Return of a Man Called Horse?	English
+1 what is the language spoken in the film From Here to Eternity?	English
+1 what is the language spoken in Terror Train?	English
+1 what is the primary language in the film The NeverEnding Story?	English
+1 what language is the movie Gran Torino in?	English, Hmong
+1 what is the primary language in The Devil's Rejects?	English, Spanish
+1 what is the primary language in The Carey Treatment?	English
+1 what is the main language in Jersey Girl?	English
+1 what language is the movie American Gun in?	English
+1 what language is My Son the Fanatic in?	English
+1 what language is Eden Log in?	French
+1 what language is Violet Tendencies in?	English
+1 what is the primary language in Margin Call?	English
+1 what language is Train in?	English
+1 what is the primary language in the film Everybody's Fine?	Italian
+1 what is the primary language in the film The Murderer Lives at Number 21?	French
+1 what language is Stark Raving Mad in?	English
+1 what is the primary language in the film Brief Interviews with Hideous Men?	English
+1 what is the primary language in Moon?	English, Spanish
+1 what language is Dead End in?	English
+1 what is the primary language in Godzilla vs. King Ghidorah?	Japanese
+1 what is the language spoken in the movie Hour of the Gun?	English
+1 what is the main language in Drona?	Hindi
+1 what language is the movie The Solitude of Prime Numbers in?	English, German, Italian
+1 what is the language spoken in La Luna?	English
+1 what language is Outcast of the Islands in?	English
+1 what is the primary language in Amistad?	English, Spanish, Mende
+1 what language is Warning from Space in?	Japanese
+1 what is the language spoken in Hopscotch?	English, French, German, Russian
+1 what is the primary language in Young Mr. Lincoln?	English
+1 what language is Scanners in?	English
+1 what language is the movie Odd Man Out in?	English
+1 what is the primary language in the film The Ultimate Warrior?	English
+1 what is the language spoken in A Clockwork Orange?	English
+1 what is the main language in Rosa Luxemburg?	French, German, Polish
+1 what is the language spoken in the movie Zero Hour!?	English
+1 what language is A Very Potter Sequel in?	English
+1 what is the language spoken in Spinning Boris?	English
+1 what is the language spoken in the film News from Home?	French
+1 what language is the movie Grassroots in?	English
+1 what is the main language in Submerged?	English
+1 what language is the movie Real Women Have Curves in?	English, Spanish
+1 what language is the movie 127 Hours in?	English, Italian
+1 what is the primary language in the film The Expert?	English
+1 what is the primary language in Open Season 2?	English
+1 what language is Macario in?	Spanish
+1 what is the language spoken in the film 'Neath the Arizona Skies?	English
+1 what is the main language in The German Doctor?	Spanish, German, Hebrew
+1 what is the language spoken in the film Extreme Prejudice?	English, Spanish
+1 what is the primary language in the film The Shop on Main Street?	Yiddish, Slovak
+1 what is the main language in Parade?	English, French, Swedish
+1 what is the language spoken in Pearl Jam Twenty?	English
+1 what language is Divine Secrets of the Ya-Ya Sisterhood in?	English
+1 what is the primary language in Destination Gobi?	English
+1 what language is the movie The New Guy in?	English
+1 what is the primary language in Chatroom?	English
+1 what language is The Long Day Closes in?	English
+1 what is the primary language in the film That's My Boy?	English
+1 what is the language spoken in Meet the Fockers?	English, Spanish, Hebrew
+1 what language is the movie Air Hawks in?	English
+1 what is the language spoken in the film The Snake Pit?	English, German
+1 what language is One Chance in?	English
+1 what is the language spoken in the film Blue Sky?	English
+1 what language is Rebellion in?	French
+1 what language is the movie The Mask of Zorro in?	English
+1 what language is Courage Under Fire in?	English
+1 what is the primary language in The Party?	English, French, Italian, Russian, Chinese
+1 what is the language spoken in the film Jacob's Ladder?	English
+1 what is the primary language in the film Camille Claudel?	French
+1 what is the primary language in Stella Dallas?	English
+1 what is the language spoken in the movie The Giant Spider Invasion?	English
+1 what is the language spoken in Demons 2?	English, Italian
+1 what language is the movie The Harder They Fall in?	English, Spanish
+1 what is the language spoken in the film The House of the Spirits?	English, Spanish
+1 what language is Sitting Bull in?	English
+1 what is the primary language in Man of Tai Chi?	English, Mandarin, Cantonese
+1 what language is I Remember Mama in?	English, French, Latin, Norwegian
+1 what is the language spoken in Lucy?	English
+1 what is the language spoken in the movie The End of Poverty??	English, French, Spanish, Portuguese
+1 what is the language spoken in the film Telling Lies in America?	English
+1 what is the main language in Dragnet?	English
+1 what language is Butterfly in?	English
+1 what language is Jamesy Boy in?	English
+1 what is the primary language in the film The Incite Mill?	Japanese
+1 what is the language spoken in the movie Autumn Spring?	Czech, Slovak
+1 what language is All Things Fair in?	English, German, Swedish
+1 what is the language spoken in Fanny?	English
+1 what is the primary language in the film Marjorie Morningstar?	English
+1 what is the language spoken in the movie Chances Are?	English
+1 what language is Love and Anarchy in?	Italian
+1 what language is The Equalizer in?	English, Spanish, Russian
+1 what is the language spoken in the film A Perfect Getaway?	English
+1 what language is the movie Buchanan Rides Alone in?	English
+1 what is the language spoken in the film Yellow Sky?	English
+1 what language is the movie The Great Race in?	English
+1 what language is Marriage Italian Style in?	Italian
+1 what language is the movie The Late Shift in?	English
+1 what is the primary language in the film The Nines?	English
+1 what is the language spoken in the film The Buddy Holly Story?	English
+1 what language is the movie Priest in?	English
+1 what is the language spoken in the film Sunday Bloody Sunday?	English, French, Italian, Hebrew
+1 what is the language spoken in Two Weeks Notice?	English
+1 what is the language spoken in Critical Care?	English
+1 what is the language spoken in the film Drugstore Cowboy?	English
+1 what is the language spoken in the movie Jawbreaker?	English
+1 what is the primary language in the film Red Dawn?	English, Korean
+1 what is the language spoken in the film The Trial of Lee Harvey Oswald?	English
+1 what is the language spoken in the movie Let's Talk About the Rain?	French
+1 what language is The Grass Harp in?	English
+1 what is the language spoken in the film Solitary Man?	English, Spanish
+1 what is the language spoken in the movie To the Devil a Daughter?	English
+1 what is the language spoken in the movie Child Bride?	English
+1 what is the language spoken in the movie A Little Romance?	English, French, Italian
+1 what is the language spoken in the movie James and the Giant Peach?	English
+1 what is the primary language in The Cobbler?	English, Yiddish
+1 what is the language spoken in the movie Kolberg?	French, German
+1 what is the primary language in The Maze Runner?	English
+1 what is the primary language in Knocked Up?	English
+1 what is the language spoken in The Oxford Murders?	English
+1 what is the main language in The Opportunists?	English, Polish
+1 what is the language spoken in Beverly Hills Cop III?	English
+1 what language is the movie Barbarella in?	English
+1 what language is Igor in?	English
+1 what is the language spoken in the movie Shriek of the Mutilated?	English
+1 what language is Daniel in?	English
+1 what is the language spoken in the movie The Moon-Spinners?	English
+1 what is the primary language in Vixen!?	English
+1 what is the main language in Shrek?	English
+1 what language is Titus in?	English, Latin
+1 what language is The Cat and the Canary in?	English
+1 what is the primary language in The Thompsons?	English
+1 what is the main language in Rear Window?	English
+1 what is the language spoken in the film Easy A?	English
+1 what is the language spoken in Footloose?	English
+1 what is the language spoken in the movie Botched?	English, Russian
+1 what is the main language in She Cried No?	English
+1 what is the language spoken in the movie Top of the Food Chain?	English
+1 what is the language spoken in the film Charlie Chan at the Circus?	English
+1 what language is Hairspray in?	English
+1 what language is the movie Supercondriaque in?	English, French, Ukrainian
+1 what is the language spoken in the film Flight?	English
+1 what is the language spoken in The Young Philadelphians?	English
+1 what is the language spoken in the movie On Moonlight Bay?	English
+1 what language is The Terror in?	English
+1 what language is I Married a Monster from Outer Space in?	English
+1 what language is the movie Daisies in?	Czech
+1 what language is Airbag in?	Spanish, Portuguese
+1 what language is Caprice in?	English
+1 what language is Insidious in?	English
+1 what is the language spoken in The Land Unknown?	English
+1 what language is the movie Children of the Living Dead in?	English
+1 what language is the movie Reagan in?	English
+1 what is the language spoken in Blindman?	English
+1 what language is Troy in?	English
+1 what language is the movie Ernest Saves Christmas in?	English
+1 what language is the movie Lahore in?	English, Hindi, Urdu
+1 what is the primary language in Naked Souls?	English
+1 what is the primary language in Samsara?	Hindi, Tibetan, Ladakhi
+1 what is the main language in Girls in Prison?	English
+1 what is the language spoken in Babes in Toyland?	English
+1 what language is King of Hearts in?	English, French, German
+1 what language is Quarantine in?	English
+1 what is the primary language in the film Angel Heart?	English, French
+1 what language is the movie Tango in?	Spanish
+1 what is the language spoken in the film Management?	English, Mandarin
+1 what language is The Reckoning in?	English, Latin
+1 what is the language spoken in the film Drop Zone?	English
+1 what language is the movie The Man Who Planted Trees in?	French
+1 what is the primary language in the film Luster?	English
+1 what is the primary language in The Hole?	English
+1 what is the primary language in Pinocchio?	English
+1 what is the main language in 633 Squadron?	English, German
+1 what language is Criminal Lovers in?	French
+1 what is the language spoken in Royal Flash?	English
+1 what is the language spoken in the movie Pride?	English
+1 what is the primary language in Jimmy's Hall?	English
+1 what is the primary language in The Legend of Sleepy Hollow?	English
+1 what is the primary language in the film The Clique?	English
+1 what is the language spoken in the film Any Number Can Win?	English, French
+1 what language is Child's Play 2 in?	English
+1 what language is the movie Moonrise in?	English
+1 what is the primary language in Rurouni Kenshin?	Japanese
+1 what language is The Age of Innocence in?	English, Italian
+1 what is the language spoken in the film Walker?	English, American Sign Language
+1 what is the primary language in the film Deliverance?	English
+1 what language is Wrecked in?	English
+1 what is the primary language in Cradle Will Rock?	English, Italian
+1 what is the primary language in The Glass Menagerie?	English
+1 what is the language spoken in the film The Invisible War?	English
+1 what is the language spoken in the film Oklahoma!?	English
+1 what language is The Blue Bird in?	English
+1 what language is the movie The Man Without a Past in?	Finnish
+1 what is the main language in While You Were Sleeping?	English
+1 what is the primary language in the film The Scarecrow?	English
+1 what is the language spoken in Night Moves?	English
+1 what language is Village of the Giants in?	English
+1 what is the language spoken in the film Road House?	English, Portuguese
+1 what is the language spoken in the movie Cabin in the Sky?	English
+1 what is the language spoken in the movie Thank You a Lot?	English
+1 what is the language spoken in the film Intimate Strangers?	French
+1 what language is Reflections in a Golden Eye in?	English
+1 what language is Wayne's World in?	English, Cantonese
+1 what is the main language in Santa's Slay?	English
+1 what is the language spoken in The Case of the Scorpion's Tail?	Italian
+1 what is the main language in Straw Dogs?	English
+1 what is the primary language in The Hanging Tree?	English
+1 what is the language spoken in Redbelt?	English, Japanese, Portuguese
+1 what is the main language in Cradle 2 the Grave?	English, Mandarin, Korean
+1 what language is Kapò in?	German, Italian, Russian, Polish
+1 what is the language spoken in the film The Million Dollar Duck?	English
+1 what is the primary language in the film Bread, Love and Dreams?	Italian
+1 what is the main language in Into the Blue?	English
+1 what language is the movie The Secret in Their Eyes in?	Spanish
+1 what language is Matewan in?	English, Italian
+1 what language is the movie Kadosh in?	Hebrew
+1 what is the primary language in the film Galaxy of Terror?	English
+1 what is the main language in With Love... from the Age of Reason?	English, French
+1 what language is Shirin in Love in?	English
+1 what language is The Redhead from Wyoming in?	English
+1 what is the language spoken in the film Stonehenge Apocalypse?	English
+1 what is the language spoken in the movie American Roulette?	English
+1 what is the language spoken in the movie Blackfish?	English, Spanish
+1 what is the language spoken in the movie Executive Action?	English
+1 what language is As Cool as I Am in?	English
+1 what language is Pushover in?	English
+1 what is the language spoken in Appointment with Death?	English
+1 what is the primary language in the film So Dear to My Heart?	English
+1 what language is Desperate Hours in?	English
+1 what is the main language in A Separation?	Persian
+1 what is the main language in Tifosi?	Italian
+1 what is the primary language in The Open Road?	English
+1 what is the primary language in the film The Americanization of Emily?	English
+1 what is the language spoken in the movie Winter Sleep?	English, Turkish
+1 what is the primary language in The In-Laws?	English, Spanish, Mandarin
+1 what language is The Star Chamber in?	English
+1 what is the main language in Once Upon a Time in Shanghai?	Cantonese
+1 what language is CSNY/Déjà Vu in?	English
+1 what is the primary language in the film Odd Girl Out?	English
+1 what language is The Card Player in?	English, Italian
+1 what language is the movie Judy Berlin in?	English
+1 what is the primary language in the film California Suite?	English
+1 what language is the movie The Other Son in?	English, French, Arabic, Hebrew
+1 what language is the movie The Salvation in?	English, Spanish, Danish
+1 what language is the movie Dirty Filthy Love in?	English
+1 what is the primary language in the film Hobo with a Shotgun?	English
+1 what language is Heart and Souls in?	English
+1 what is the language spoken in the movie The Beguiled?	English
+1 what language is An Innocent Man in?	English
+1 what is the primary language in the film Cinematographer Style?	English
+1 what is the language spoken in the movie Sinbad and the Eye of the Tiger?	English, Arabic
+1 what language is Shadowboxer in?	English
+1 what is the primary language in Cop Land?	English
+1 what language is A Grand Day Out in?	English
+1 what is the language spoken in the film Such Good Friends?	English
+1 what is the primary language in Free Willy?	English
+1 what language is the movie Death Wish in?	English, German, Italian
+1 what language is Attila Marcel in?	French
+1 what is the primary language in Factotum?	English
+1 what is the primary language in Lockout?	English
+1 what is the language spoken in Bloodsport?	English
+1 what language is Strangers When We Meet in?	English
+1 what is the language spoken in the movie Big Girls Don't Cry?	German
+1 what language is Billy's Hollywood Screen Kiss in?	English
+1 what is the main language in After Hours?	English
+1 what is the language spoken in Gertie the Dinosaur?	English
+1 what language is Airborne in?	English
+1 what language is Chain Lightning in?	English
+1 what language is A Song Is Born in?	English
+1 what is the language spoken in Stroszek?	English, German, Turkish
+1 what is the primary language in the film Andy Hardy's Blonde Trouble?	English
+1 what is the language spoken in the movie Tetro?	English, French, Spanish
+1 what is the language spoken in The Baby of Mâcon?	English
+1 what language is The Rage in?	English
+1 what language is Bad Luck Love in?	Finnish
+1 what language is The Cannonball Run in?	English, Japanese, Arabic, Cantonese
+1 what language is the movie Summer and Smoke in?	English
+1 what is the primary language in the film Made in Dagenham?	English
+1 what is the language spoken in the film King of New York?	English, Spanish
+1 what is the language spoken in Aakrosh?	English, Hindi
+1 what is the main language in The New Centurions?	English, Spanish
+1 what is the language spoken in the film Death in Love?	English, French, German
+1 what language is A Good Man in Africa in?	English
+1 what language is the movie The Wages of Fear in?	English, French, Spanish, German, Italian, Russian
+1 what is the main language in Baarìa?	English, Italian, Sicilian
+1 what is the language spoken in the film Tokyo-Ga?	English, German, Japanese
+1 what is the language spoken in The Ipcress File?	English, Albanian
+1 what language is The Trespasser in?	English
+1 what language is the movie The Long Dark Hall in?	English
+1 what language is Just Add Water in?	English
+1 what is the language spoken in the film The Big Sleep?	English
+1 what is the language spoken in the film The Wiz?	English
+1 what is the primary language in Zoom?	English
+1 what language is Devil Girl from Mars in?	English
+1 what is the primary language in the film Guess Who's Coming to Dinner?	English
+1 what is the main language in Dead Man Walking?	English
+1 what is the main language in The 24th Day?	English
+1 what is the primary language in the film Meet Me at the Fair?	English
+1 what language is Internes Can't Take Money in?	English
+1 what language is Hitch in?	English
+1 what is the language spoken in the film Surviving Christmas?	English
+1 what language is The Town in?	English
+1 what language is Chasing Ice in?	English
+1 what language is Waterloo Bridge in?	English
+1 what language is Chad Hanna in?	English
+1 what is the language spoken in Genevieve?	English
+1 what is the primary language in the film Titanic?	English, French, German, Italian, Russian, Swedish
+1 what language is The Immature in?	Italian
+1 what is the primary language in The Machine Girl?	Japanese
+1 what language is the movie Captain Kidd in?	English
+1 what is the language spoken in the film The Locusts?	English
+1 what language is the movie Hexed in?	English
+1 what language is the movie Run, Man, Run in?	Spanish, Italian
+1 what is the language spoken in the film Little Criminals?	English
+1 what is the language spoken in Ninja Cheerleaders?	English
+1 what is the language spoken in A Man Called Adam?	English
+1 what is the primary language in Graduation Day?	English
+1 what is the language spoken in The Talented Mr. Ripley?	English, Italian
+1 what is the language spoken in the movie Kokowääh?	German
+1 what is the main language in I'm Not Rappaport?	English
+1 what language is The Sundowners in?	English
+1 what is the language spoken in Monkey Trouble?	English
+1 what is the language spoken in Wetherby?	English
+1 what is the primary language in the film Fun in Acapulco?	English
+1 what is the language spoken in the movie The Cremator?	Czech
+1 what language is Woyzeck in?	German
+1 what is the primary language in the film Win Win?	English
+1 what is the primary language in Close to Home?	Hebrew
+1 what is the primary language in Game of Death?	English
+1 what is the language spoken in the movie Pauline at the Beach?	French
+1 what is the language spoken in Made?	English
+1 what is the primary language in The Barkleys of Broadway?	English, French
+1 what is the language spoken in the film Children of the Corn?	English
+1 what is the main language in Men in War?	English
+1 what is the language spoken in the film Saving Sarah Cain?	English
+1 what is the primary language in the film Dancer, Texas Pop. 81?	English
+1 what language is Izo in?	English, Japanese
+1 what is the main language in Original Sin?	English, Spanish, German, Japanese, Latin
+1 what is the primary language in the film The Pirates of Penzance?	English
+1 what is the language spoken in The Million Dollar Hotel?	English
+1 what language is Lilies in?	English
+1 what is the language spoken in the film Nightmare Man?	English
+1 what is the language spoken in Poolhall Junkies?	English
+1 what is the primary language in Dragon?	Mandarin
+1 what is the primary language in Wheel of Time?	English, German, Tibetan
+1 what language is the movie The Burning Bed in?	English
+1 what language is the movie Polish Wedding in?	English
+1 what is the main language in The Walking Hills?	English
+1 what is the main language in Death to Smoochy?	English
+1 what is the language spoken in The Searchers?	English, Spanish, Navajo
+1 what language is Turistas in?	English, Portuguese
+1 what language is The Awakening in?	English
+1 what language is the movie Down Argentine Way in?	English
+1 what is the primary language in Les Biches?	French
+1 what is the language spoken in the film The Professionals?	English, Spanish
+1 what is the language spoken in Alice Adams?	English
+1 what is the main language in Amar Akbar Anthony?	English, Hindi
+1 what is the language spoken in the film Standing Up?	English
+1 what is the language spoken in the movie License to Wed?	English
+1 what language is The Exorcism of Emily Rose in?	English, German, Latin, Hebrew, Greek, Aramaic, Syriac
+1 what is the language spoken in the film Déjà Vu?	English
+1 what language is St. Ives in?	English
+1 what language is Doctor Bull in?	English
+1 what language is The Long, Hot Summer in?	English
+1 what is the language spoken in American Soldiers?	English
+1 what language is The School of Flesh in?	French
+1 what is the language spoken in the movie The Whistleblower?	English, Russian, Romanian, Serbian
+1 what is the main language in Cadillac Man?	English
+1 what is the primary language in A Summer in La Goulette?	French, Italian, Arabic
+1 what is the language spoken in the film Ugetsu?	Japanese
+1 what is the primary language in the film Boyz n the Hood?	English
+1 what is the language spoken in the film Dark Night of the Scarecrow?	English
+1 what language is In Their Skin in?	English
+1 what is the language spoken in the movie Indecent Proposal?	English
+1 what is the primary language in the film Great Balls of Fire!?	English
+1 what language is the movie Dream with the Fishes in?	English
+1 what is the primary language in Daddy-Long-Legs?	English
+1 what language is Paradise in?	English
+1 what language is Lo in?	English
+1 what is the language spoken in the movie Mamma Roma?	Italian
+1 what language is the movie Anything for Her in?	French, Spanish
+1 what is the language spoken in the movie Silk?	English, Japanese, Latin
+1 what is the language spoken in the film Grotesque?	English
+1 what language is Passionada in?	English, Portuguese
+1 what is the primary language in the film American Son?	English
+1 what is the language spoken in the film Hideaway?	English
+1 what language is The Terrorizers in?	Mandarin, Min Nan
+1 what is the language spoken in the movie A Fistful of Dollars?	English, Spanish, Italian
+1 what language is Babes in Arms in?	English
+1 what language is the movie Warriors of Virtue in?	English, Mandarin
+1 what is the main language in Holiday Engagement?	English
+1 what language is Space Jam in?	English
+1 what is the primary language in the film The Newest Pledge?	English
+1 what is the primary language in Cheaper by the Dozen?	English
+1 what language is the movie A River Runs Through It in?	English
+1 what is the main language in The Invisible Circus?	English
+1 what is the language spoken in the movie Camp X-Ray?	English
+1 what is the language spoken in Scream?	English
+1 what language is I Am Comic in?	English
+1 what is the language spoken in the movie The Ritz?	English
+1 what is the primary language in War of the Buttons?	English
+1 what is the language spoken in the movie The Eagle Has Landed?	English, German, Polish
+1 what is the primary language in Mahler?	English
+1 what is the language spoken in the movie Tiny Furniture?	English
+1 what language is the movie Bellflower in?	English
+1 what language is the movie The Game in?	English, German, Cantonese
+1 what is the main language in Girls! Girls! Girls!?	English
+1 what language is A Pigeon Sat on a Branch Reflecting on Existence in?	English, Swedish
+1 what language is the movie Divorce American Style in?	English
+1 what is the language spoken in Scandal Sheet?	English
+1 what is the primary language in the film Movie 43?	English
+1 what language is Bright Days Ahead in?	English, French
+1 what is the language spoken in the movie Golden Gate?	English
+1 what is the primary language in the film Meatballs Part II?	English
+1 what language is The Two Jakes in?	English
+1 what language is The Waiting Room in?	English
+1 what is the primary language in the film The Dresser?	English
+1 what language is Runaway Train in?	English
+1 what language is Whiteout in?	English, Russian
+1 what is the language spoken in the film Consenting Adults?	English
+1 what is the primary language in the film Curly Sue?	English
+1 what language is Mr. Sardonicus in?	English
+1 what language is Soldier Blue in?	English
+1 what is the language spoken in The Savage Innocents?	English
+1 what is the language spoken in the movie Mr. Belvedere Goes to College?	English, Norwegian
+1 what language is the movie Long John Silver in?	English
+1 what is the language spoken in the film Evil Dead?	English
+1 what is the primary language in They?	English
+1 what is the primary language in First Sunday?	English
+1 what language is Aquamarine in?	English
+1 what is the language spoken in The Sicilian?	English
+1 what is the primary language in Audrey Rose?	English
+1 what is the main language in Grand Theft Auto?	English
+1 what is the primary language in the film The Quiller Memorandum?	English, German
+1 what language is the movie Welcome to the Jungle in?	English
+1 what is the primary language in the film Rat Pfink a Boo Boo?	English
+1 what is the main language in Day Watch?	Russian
+1 what language is Blended in?	English
+1 what language is the movie Pumpkinhead in?	English
+1 what is the language spoken in the movie Vampire in Venice?	Italian
+1 what is the primary language in the film Just One of the Guys?	English
+1 what is the language spoken in the film Hero and the Terror?	English
+1 what is the primary language in Meet John Doe?	English
+1 what language is the movie Funny Farm in?	English
+1 what is the language spoken in The Way?	English, French, Spanish
+1 what is the language spoken in the movie Hedwig and the Angry Inch?	English, German
+1 what is the primary language in the film The Hole?	English
+1 what is the language spoken in the movie The Emperor's New Groove?	English
+1 what language is the movie The Childhood of Maxim Gorky in?	Russian
+1 what is the main language in Vigilante?	English
+1 what language is Shaolin Soccer in?	Mandarin, Cantonese
+1 what is the primary language in Albatross?	English
+1 what language is Much Ado About Nothing in?	English
+1 what is the language spoken in Four Men and a Prayer?	English
+1 what is the primary language in the film American Scary?	English
+1 what language is the movie Jesus of Montreal in?	English, French, Italian
+1 what is the language spoken in the film The Clairvoyant?	English
+1 what is the primary language in Passion?	English, German
+1 what is the language spoken in Hot Fuzz?	English
+1 what language is Twin Sitters in?	English
+1 what language is Days of Glory in?	French, Arabic
+1 what is the primary language in the film Mystery of the 13th Guest?	English
+1 what language is the movie The Red Pony in?	English
+1 what language is Ernest Goes to Camp in?	English
+1 what is the primary language in the film The Lorax?	English
+1 what language is Farewell, My Lovely in?	English
+1 what is the language spoken in the movie The Bride Came C.O.D.?	English
+1 what language is None But the Brave in?	English, Japanese
+1 what language is Cold Prey 3 in?	Norwegian
+1 what is the primary language in the film Casino Royale?	English, French
+1 what language is Rabid Grannies in?	English, French
+1 what is the primary language in the film Sound of the Mountain?	Japanese
+1 what is the main language in Cattle Queen of Montana?	English
+1 what is the main language in Sharktopus vs. Pteracuda?	English
+1 what is the main language in The Trotsky?	English, French, German, Russian, Hebrew
+1 what is the main language in Sweet Home?	Japanese
+1 what language is The Tough Ones in?	Finnish
+1 what language is the movie The Winning Team in?	English
+1 what is the language spoken in the movie The Names of Love?	English, French, Arabic, Greek
+1 what language is Habit in?	English
+1 what language is The Beaver in?	English
+1 what language is the movie The Sea Wolves in?	English, German, Portuguese
+1 what is the primary language in Colorado Territory?	English
+1 what is the language spoken in the movie Friday the 13th Part 2?	English
+1 what language is the movie Maledetto il giorno che t'ho incontrato in?	Italian
+1 what is the main language in Desert Saints?	English, Latin
+1 what is the language spoken in the film They Call Me Bruce??	English
+1 what is the primary language in the film The Hills Have Eyes?	English
+1 what is the language spoken in the movie The Amazing Catfish?	Spanish
+1 what is the language spoken in the film Dark House?	English
+1 what is the primary language in the film Belle?	English
+1 what language is the movie The Inheritance in?	French, Swedish, Danish, Norwegian
+1 what language is The Crowd Roars in?	English
+1 what is the primary language in the film The Rum Diary?	English, Spanish, German
+1 what is the language spoken in the movie Mother Wore Tights?	English
+1 what language is Motherhood in?	English
+1 what is the primary language in Morituri?	English
+1 what is the primary language in There Goes My Heart?	English
+1 what language is Date Movie in?	English
+1 what is the primary language in the film A Woman Under the Influence?	English, Italian
+1 what is the primary language in The World's End?	English
+1 what language is the movie A Film with Me in It in?	English
+1 what is the main language in Confidence?	English
+1 what is the primary language in Stardust?	English
+1 what language is Don't Deliver Us from Evil in?	French
+1 what is the primary language in the film Lullaby?	English
+1 what is the language spoken in They All Laughed?	English
+1 what language is The Cat Returns in?	Japanese
+1 what is the main language in The Awakening?	English, French
+1 what is the language spoken in the movie The Chosen One?	English
+1 what is the primary language in A Resurrection?	English, Spanish
+1 what language is the movie The World Unseen in?	English
+1 what is the primary language in Lone Star?	English, Spanish
+1 what is the language spoken in Cannibal Women in the Avocado Jungle of Death?	English
+1 what is the primary language in Army of Darkness?	English
+1 what is the main language in Sabah?	English, Arabic
+1 what language is the movie Outbreak in?	English, French, Korean
+1 what language is Reeker in?	English
+1 what is the main language in Dread?	English
+1 what language is Sweet Home Alabama in?	English
+1 what language is Russian Doll in?	English, Russian
+1 what is the primary language in the film American Dreamz?	English, Mandarin
+1 what is the main language in Something in the Air?	English, French, Italian
+1 what is the primary language in Out California Way?	English
+1 what is the language spoken in the film You Don't Know Jack?	English
+1 what is the language spoken in the film Higher Ground?	English
+1 what language is the movie The Tender Trap in?	English
+1 what is the primary language in the film Bad Words?	English
+1 what language is 12 Days of Terror in?	English
+1 what language is Rent-a-Cop in?	English
+1 what is the main language in Devil's Pond?	English
+1 what is the language spoken in Big Hero 6?	English
+1 what is the language spoken in the movie Step Up 3D?	English
+1 what is the language spoken in the film Beyond Hypothermia?	Cantonese, Korean
+1 what is the language spoken in the film The Aviator's Wife?	English, French, German
+1 what is the language spoken in the movie The Beast of the City?	English
+1 what is the primary language in the film Wrong Turn at Tahoe?	English
+1 what language is The Tango Lesson in?	English, French, Spanish
+1 what language is The Yellow Handkerchief in?	English
+1 what is the language spoken in Fish Tank?	English
+1 what is the language spoken in the film Graffiti Bridge?	English
+1 what language is Tunes of Glory in?	English
+1 what is the primary language in Knights of Badassdom?	English
+1 what is the primary language in the film The Lost Weekend?	English
+1 what language is Not Fade Away in?	English
+1 what is the language spoken in Eva?	English, Italian
+1 what is the language spoken in the movie Daylight?	English
+1 what is the language spoken in Passion Play?	English
+1 what language is The Bishop's Wife in?	English, French
+1 what is the primary language in Grace of My Heart?	English
+1 what is the main language in Below?	English
+1 what is the language spoken in the film Swing Kids?	English
+1 what is the main language in 12 Years a Slave?	English
+1 what language is the movie Juice in?	English
+1 what language is The Survivors in?	English, Spanish
+1 what language is The Hunting Party in?	English, Serbo-Croatian, Croatian
+1 what is the language spoken in the film Super 8?	English
+1 what is the primary language in Endangered Species?	English
+1 what is the main language in By the Sword?	English
+1 what language is the movie Contract Killers in?	English
+1 what language is Be Cool in?	English, Russian
+1 what is the language spoken in the movie Zack and Miri Make a Porno?	English
+1 what is the main language in Beautiful Girls?	English
+1 what is the language spoken in the film The Number 23?	English, Chinese
+1 what is the language spoken in the movie Miss Pettigrew Lives for a Day?	English
+1 what language is the movie The Tournament in?	English
+1 what is the language spoken in the film The Day?	English
+1 what is the language spoken in the film It Could Happen to You?	English
+1 what language is Only Yesterday in?	German, Japanese, Hungarian
+1 what is the primary language in the film Where's Marlowe??	English
+1 what is the language spoken in the movie Viva Villa!?	English
+1 what is the primary language in the film Hamlet?	English
+1 what is the language spoken in the movie Comanche Station?	English, North American Indian, Indian Sign Language
+1 what language is the movie Demoted in?	English
+1 what is the language spoken in the film Happiness Never Comes Alone?	English, French
+1 what is the language spoken in The Factory?	English
+1 what language is Mystery Date in?	English
+1 what is the primary language in the film Focus?	English
+1 what is the primary language in The Quiet Ones?	English
+1 what is the language spoken in Cashback?	English
+1 what language is Calling Bulldog Drummond in?	English, Italian
+1 what language is Sniper in?	English, Spanish
+1 what language is Cattle Call in?	English
+1 what is the language spoken in Red Scorpion?	English, Russian
+1 what is the primary language in the film Invincible?	English
+1 what is the primary language in the film The Sadist?	English
+1 what is the language spoken in the movie Together?	Swedish
+1 what is the language spoken in Prom?	English
+1 what language is Tom Jones in?	English
+1 what is the main language in Tomorrow, When the War Began?	English
+1 what is the language spoken in The Apple?	Persian
+1 what is the language spoken in the film Gambit?	English, French, Arabic
+1 what language is Sweethearts in?	English
+1 what is the primary language in Illegal Tender?	English
+1 what is the language spoken in Elevator to the Gallows?	French, German

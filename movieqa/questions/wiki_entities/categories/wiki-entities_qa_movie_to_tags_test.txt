@@ -1,0 +1,846 @@
+1 what terms are applicable to Miss Austen Regrets?	jane austen
+1 which topics is movie Burden of Dreams about?	bd-r, south america, werner herzog, jungle, 3
+1 what words describe Holiday Inn?	christmas, holiday, fred astaire, bing crosby, mark sandrich
+1 what topics is Free Willy about?	family
+1 what words describe Mystery Street?	bd-r, john sturges
+1 what are some words that  describe movie Linsanity?	basketball
+1 which topics is movie Tooth Fairy about?	dwayne johnson
+1 what words describe film Where the Boys Are?	bd-r, spring break
+1 which words describe movie The Frozen Ground?	murder
+1 can you give a few words describing what Jeff, Who Lives at Home is about?	jason segel, judy greer, mark duplass
+1 describe The Butcher Boy?	neil jordan
+1 which topics is Death Wish about?	vigilante, charles bronson, michael winner
+1 describe Octopussy?	james bond, bond, roger moore
+1 can you describe movie The Final Destination in a few words?	franchise
+1 which topics is The Expendables 3 about?	arnold schwarzenegger, mel gibson, sylvester stallone, jason statham, antonio banderas
+1 which words describe Accepted?	college
+1 can you give a few words describing The Iron Horse?	john ford, silent
+1 what topics is The Bad Seed about?	bd-r, murder, mervyn leroy
+1 can you give a few words describing The Son of the Sheik?	bd-r, national film registry
+1 what words describe The Vanishing?	bd-r, france, remade
+1 what terms are applicable to The Cameraman?	national film registry, buster keaton, edward sedgwick
+1 what are some words that  describe movie The Postman?	future, kevin costner, adaptation
+1 which words describe Beverly Hills Chihuahua?	comedy, drew barrymore, jamie lee curtis, andy garcia, piper perabo, raja gosnell
+1 which words describe movie Once?	music, r, musical, soundtrack, musicians, ireland, irish, dublin, musician, john carney
+1 describe Riot in Cell Block 11 in a few words?	don siegel
+1 which words describe Date Night?	comedy, steve carell, tina fey
+1 which words describe Barry Munday?	patrick wilson, judy greer
+1 which words describe Our Idiot Brother?	zooey deschanel, paul rudd, jesse peretz
+1 can you give a few words describing The Brotherhood?	martin ritt
+1 which topics is movie East Is East about?	r, british
+1 what are some words that  describe movie Blue Like Jazz?	college
+1 can you give a few words describing what Dennis the Menace is about?	nick castle
+1 what terms are applicable to Head of State?	chris rock, bernie mac
+1 what are some words that  describe movie The Perils of Pauline?	bd-r, george marshall
+1 which words describe The Warped Ones?	bd-r, koreyoshi kurahara
+1 can you give a few words describing what Dr. Jekyll and Mr. Hyde is about?	bd-r, robert louis stevenson
+1 can you give a few words describing what Everlasting Moments is about?	war, camera, jan troell
+1 describe the movie The Good Heart in a few words?	paul dano
+1 what words describe The Front Page?	billy wilder, jack lemmon, walter matthau
+1 what are some words that  describe movie The Vampire Bat?	fay wray, dwight frye
+1 can you give a few words describing what Dark Passage is about?	bd-r, humphrey bogart, noir, delmer daves
+1 can you give a few words describing My Man Godfrey?	remake, henry koster
+1 which words describe Europe '51?	roberto rossellini
+1 describe Forgetting Sarah Marshall in a few words?	comedy, r, mila kunis, jason segel, hawaii, kristen bell, russell brand, composer, nicholas stoller, apatow
+1 what words describe film My Friends?	mario monicelli
+1 what are some words that  describe movie Monsters?	bd-r, science fiction, mexico, gareth edwards
+1 describe The Honeymooners in a few words?	cedric the entertainer
+1 what words describe film Nicholas and Alexandra?	franklin j. schaffner
+1 which words describe film They Made Me a Criminal?	bd-r, busby berkeley
+1 which words describe Four Friends?	arthur penn
+1 describe What to Expect When You're Expecting?	pregnancy
+1 which words describe film America's Sweethearts?	john cusack, julia roberts, billy crystal, seth green, hank azaria
+1 which words describe film Ella Enchanted?	fairy tale, anne hathaway, hugh dancy
+1 which topics is movie Rules of Engagement about?	samuel l. jackson, tommy lee jones, william friedkin
+1 what terms are applicable to Metroland?	christian bale
+1 which words describe movie That Championship Season?	basketball
+1 what topics is The Good Shepherd about?	r, robert de niro, matt damon, angelina jolie, central intelligence agency
+1 describe Snow Dogs in a few words?	brian levant
+1 what are some words that  describe movie Shadow Dancer?	james marsh
+1 what terms are applicable to Naked Childhood?	maurice pialat
+1 describe the movie Loose Cannons in a few words?	gene hackman, richard matheson
+1 what are some words that  describe movie There's Something About Mary?	comedy, fun, ben stiller, cameron diaz, tv, funniest movies, 2, matt dillon, farrelly brothers
+1 which topics is Devil about?	horror, supernatural, m. night shyamalan, devil
+1 which words describe movie Disraeli?	bd-r
+1 which words describe Sicko?	documentary, france, michael moore, canada, united states, cuba, health care, insurance
+1 which words describe film The Cat and the Canary?	bd-r, bob hope, elliott nugent
+1 which words describe movie The Best Man?	henry fonda, franklin j. schaffner, gore vidal
+1 which topics is The Visit about?	bernhard wicki
+1 describe Blow in a few words?	cocaine, ted demme
+1 what words describe 1408?	horror, psychological, samuel l. jackson, stephen king, john cusack, hotel, drowning, manager, mikael håfström
+1 what are some words that  describe movie Secretary?	romance, sex, erotic, maggie gyllenhaal, james spader, secretary
+1 which words describe Ali G Indahouse?	sacha baron cohen
+1 what words describe The Chase?	police, charlie sheen, kristy swanson
+1 which words describe movie Titan A.E.?	animation, space, don bluth
+1 describe Persuasion in a few words?	jane austen, adaptation, roger michell
+1 can you give a few words describing what The Consequences of Love is about?	paolo sorrentino
+1 what are some words that  describe movie Revanche?	bank robbery
+1 describe Friday the 13th Part III in a few words?	horror, franchise, jason
+1 which topics is movie Ariel about?	bd-r, criterion, finnish, aki kaurismäki, proletariat trilogy
+1 which words describe film The Boston Strangler?	richard fleischer, tony curtis
+1 what words describe film Stop-Loss?	r
+1 describe Deterrence?	kevin pollak
+1 which topics is movie The Tailor of Panama about?	r, pierce brosnan, geoffrey rush, panama
+1 describe Groundhog Day?	comedy, fantasy, bill murray, national film registry, time loop, 3, time, harold ramis, pennsylvania, andie macdowell, weatherman, loop
+1 what are some words that  describe movie Machine Gun Preacher?	gerard butler, marc forster
+1 what words describe film Never Cry Wolf?	bd-r, wilderness, wolves, brian dennehy, carroll ballard
+1 which words describe film Gangster Squad?	action, ryan gosling, emma stone, sean penn, josh brolin, ruben fleischer
+1 describe Out for Justice in a few words?	steven seagal, john flynn
+1 what words describe film Yeh Jawaani Hai Deewani?	bollywood
+1 can you give a few words describing what The Benchwarmers is about?	rob schneider, david spade
+1 which topics is The Shining about?	horror, psychological, stanley kubrick, ghosts, jack nicholson, stephen king, hotel, writer, kubrick, psychological horror, psychic abilities, ghost, shelley duvall, nicholson, scatman crothers
+1 which words describe Gorillas in the Mist?	michael apted, gorilla
+1 describe Summer Interlude?	ingmar bergman
+1 what topics is Riding the Bullet about?	stephen king
+1 describe Awakenings in a few words?	true story, drama, robert de niro, robin williams, penny marshall
+1 which words describe movie The Switch?	comedy, new york, jennifer aniston, jason bateman, jeff goldblum, juliette lewis, patrick wilson, josh gordon, will speck
+1 which topics is movie Weekend about?	british
+1 can you give a few words describing The Tiger and the Snow?	italian, tom waits, roberto benigni
+1 describe Rubin and Ed?	cat, crispin glover, trent harris
+1 what terms are applicable to Best Foot Forward?	bd-r
+1 what topics is 12 Angry Men about?	drama, national film registry, sidney lumet, court, angry
+1 which words describe movie Up in Arms?	danny kaye, elliott nugent
+1 which topics is movie Tex about?	matt dillon
+1 can you give a few words describing what The Final Cut is about?	robin williams, memory, jim caviezel
+1 which topics is movie The Emigrants about?	max von sydow, jan troell
+1 which topics is movie The Last Circus about?	circus, Álex de la iglesia
+1 can you give a few words describing Five Star Final?	mervyn leroy
+1 describe Superman?	fantasy, superhero, comic book, franchise, super-hero, gene hackman, superheroes, marlon brando, dc comics, comics, superman, comic books, dc, christopher reeve, richard donner, ned beatty, glenn ford
+1 which words describe film All Fall Down?	john frankenheimer
+1 what are some words that  describe movie Frankenstein Meets the Wolf Man?	frankenstein's monster, frankenstein, ring
+1 what words describe film Howard the Duck?	action, funny, comic book, marvel, fun, anthropomorphic, lea thompson
+1 describe Circle of Iron?	kung fu, christopher lee, david carradine
+1 what topics is The Bitter Tea of General Yen about?	bd-r, frank capra, barbara stanwyck
+1 can you describe movie Yolanda and the Thief in a few words?	bd-r
+1 what terms are applicable to The Green Years?	victor saville
+1 describe The Triumph of Love?	18th century, fiona shaw
+1 describe Up the Yangtze in a few words?	china
+1 describe Simon?	euthanasia
+1 describe the movie La Vie en Rose in a few words?	french, marion cotillard
+1 what terms are applicable to The Pianist?	drama, world war ii, war, r, historical, roman polanski, adrien brody, jewish, poland
+1 which words describe Bullhead?	drama, matthias schoenaerts
+1 what words describe film Johnny Belinda?	jean negulesco
+1 which words describe film Casino?	robert de niro, martin scorsese, las vegas, casino, sharon stone, mob, joe pesci, vegas
+1 what topics is Daylight about?	sylvester stallone, rob cohen
+1 can you give a few words describing what Blankman is about?	superhero, mike binder
+1 which words describe movie Blue Crush?	hawaii, surfing, kate bosworth
+1 can you give a few words describing what Get Real is about?	gay, coming out
+1 what words describe An Extremely Goofy Movie?	disney
+1 which words describe movie Before Sunset?	r, sequel, paris, romantic, ethan hawke, richard linklater, julie delpy, screenplay, real time
+1 which words describe film The Sundowners?	fred zinnemann
+1 can you describe movie Moby Dick in a few words?	bd-r, gregory peck, john huston, ray bradbury, richard basehart, herman melville
+1 which words describe movie Kill Your Darlings?	beat generation
+1 which words describe movie Samurai Vendetta?	kazuo mori
+1 what topics is Scary Movie about?	comedy, horror, parody, spoof, keenen ivory wayans
+1 what are some words that  describe movie Shoot-Out at Medicine Bend?	bd-r
+1 what are some words that  describe movie Toys?	surreal, music, robin williams, joan cusack
+1 which words describe Sansho the Bailiff?	kenji mizoguchi
+1 can you describe movie Enigma in a few words?	world war ii, r, kate winslet, michael apted, saffron burrows
+1 what topics is Los Angeles Plays Itself about?	los angeles
+1 which topics is movie The Manchurian Candidate about?	bd-r, thriller, assassin, conspiracy, cold war, political, brainwashing, john frankenheimer, frank sinatra, angela lansbury, janet leigh
+1 what are some words that  describe movie Doctor Who?	doctor who
+1 what topics is Glengarry Glen Ross about?	al pacino, david mamet, jack lemmon, real estate, mamet, james foley
+1 what topics is Biker Boyz about?	motorcycle
+1 what topics is Fantastic Four about?	action, superhero, comic book, marvel, super-hero, get
+1 which topics is movie Now Is Good about?	dakota fanning
+1 describe 10 in a few words?	blake edwards, dudley moore
+1 what topics is The Falcon and the Snowman about?	secrets, john schlesinger
+1 describe the movie Gia in a few words?	angelina jolie, faye dunaway
+1 which words describe film The Cement Garden?	charlotte gainsbourg, ian mcewan
+1 which words describe The Lady Vanishes?	remake, herbert lom, cybill shepherd
+1 which words describe Justin and the Knights of Valour?	fantasy
+1 which words describe film Gone Baby Gone?	r, mystery, directorial debut, ben affleck, casey affleck
+1 describe Men in Black 3 in a few words?	action, will smith, 3d, tommy lee jones, josh brolin, barry sonnenfeld
+1 can you give a few words describing The Seagull's Laughter?	iceland
+1 which words describe movie Life with Father?	bd-r, family
+1 which topics is The Ring about?	disturbing, horror, remake, naomi watts, japanese, japanese horror, gore verbinski, videotape, mysterious
+1 can you give a few words describing How I Won the War?	bd-r
+1 what words describe Confessions?	japanese, tetsuya nakashima
+1 what words describe film The Page Turner?	french
+1 what topics is The Bourne Supremacy about?	action, sequel, assassin, matt damon, conspiracy, amnesia, cia, spy, julia stiles, robert ludlum, paul greengrass
+1 describe The Manxman in a few words?	bd-r
+1 which topics is movie Kabul Express about?	afghanistan
+1 what terms are applicable to The Magnificent Seven?	bd-r, remake, library, western, mexico, steve mcqueen, charles bronson, yul brynner, james coburn, john sturges, eli wallach, robert vaughn
+1 what words describe film Best Defense?	eddie murphy
+1 can you give a few words describing Tony?	serial killer
+1 describe Teen Beach Movie in a few words?	teen
+1 describe the movie Mountains of the Moon in a few words?	africa, bob rafelson
+1 can you describe movie Mars Needs Moms in a few words?	story, mars
+1 which words describe movie A Better Life?	chris weitz
+1 what words describe film This Means War?	spy, reese witherspoon, love triangle, chris pine
+1 describe the movie The Greatest Game Ever Played in a few words?	sports, golf, bill paxton
+1 can you describe movie Bolt in a few words?	animation, john travolta, dog, malcolm mcdowell, byron howard, miley cyrus, chris williams, walt disney
+1 can you describe movie Inherent Vice in a few words?	owen wilson, joaquin phoenix, paul thomas anderson, thomas pynchon
+1 what topics is The Falls about?	peter greenaway
+1 which topics is movie Under the Tuscan Sun about?	comedy, divorce, diane lane, tuscany
+1 describe the movie Nuns on the Run in a few words?	british, nuns, eric idle, jonathan lynn, robbie coltrane
+1 what words describe film Duel?	thriller, steven spielberg, spielberg, richard matheson, truck
+1 which words describe movie There Goes My Heart?	bd-r
+1 can you give a few words describing what Serving Sara is about?	bruce campbell
+1 what terms are applicable to Limelight?	dance, buster keaton, charlie chaplin, chaplin
+1 describe the movie Pale Cocoon in a few words?	anime, yasuhiro yoshiura
+1 what words describe The Set-Up?	boxing, robert wise
+1 can you describe movie The Lizard in a few words?	comedy, religion
+1 which topics is movie Smoking/No Smoking about?	alain resnais
+1 what terms are applicable to Safety Last!?	silent, harold lloyd
+1 can you give a few words describing what Rush Hour 2 is about?	comedy, action, martial arts, kung fu, jackie chan, chris tucker
+1 what words describe The Conversation?	psychological, harrison ford, library, national film registry, gene hackman, francis ford coppola
+1 can you give a few words describing what Alexander Nevsky is about?	13th century
+1 describe The Reivers in a few words?	william faulkner
+1 which words describe film The Old Maid?	edmund goulding
+1 describe the movie The Joy Luck Club in a few words?	women, chinese, culture, wayne wang
+1 describe San Francisco?	clark gable
+1 can you give a few words describing Holy Flying Circus?	monty python
+1 describe the movie The Winning of Barbara Worth in a few words?	henry king
+1 which topics is movie Picnic on the Grass about?	jean renoir
+1 what are some words that  describe movie Stolen Summer?	catholicism, chicago, jewish, catholic, project greenlight
+1 describe Clean?	olivier assayas
+1 which topics is movie Cimarron about?	bd-r, wesley ruggles
+1 can you give a few words describing what Four Weddings and a Funeral is about?	comedy, british, hugh grant, wedding, funeral, mike newell
+1 what terms are applicable to Girlhood?	céline sciamma
+1 can you describe movie The Matrix in a few words?	action, dystopia, thriller, r, martial arts, philosophical, cyberpunk, science fiction, keanu reeves, epic, own, science, effects, hugo weaving, visual, avi, visual effects, laurence fishburne, matrix, wachowski brothers, simulated reality, fiction, joe pantoliano, machines, action scenes, reality
+1 can you give a few words describing what Black Mask is about?	jet li
+1 can you describe movie Three Comrades in a few words?	frank borzage
+1 which topics is movie Disturbing Behavior about?	high school
+1 can you give a few words describing what Submerged is about?	steven seagal
+1 describe We Are What We Are in a few words?	horror
+1 which topics is Frankenweenie about?	black and white, tim burton, animated, 3d, homage, frankenstein
+1 what topics is The Kid about?	bd-r, library, charlie chaplin
+1 which words describe movie The Children?	children
+1 describe the movie The Curse of Frankenstein in a few words?	bd-r, horror, gothic, peter cushing, hammer film productions, hammer horror, terence fisher
+1 describe The Salt of the Earth?	wim wenders
+1 what words describe The Hurricane?	bd-r, john ford
+1 what words describe The Grand Budapest Hotel?	murder, wes anderson, ralph fiennes, hotel, 2014
+1 what topics is The Iceman Cometh about?	john frankenheimer
+1 which topics is movie Zorba the Greek about?	bd-r, anthony quinn
+1 can you give a few words describing Bitter Victory?	bd-r, nicholas ray
+1 which topics is movie Deathstalker about?	fantasy, roger corman
+1 which words describe film Confessions of a Teenage Drama Queen?	comedy, drama, lindsay lohan
+1 which words describe film It's Complicated?	meryl streep, steve martin, alec baldwin, john krasinski
+1 describe Johnny Handsome in a few words?	morgan freeman
+1 can you give a few words describing Avatar?	cinematography, war, science fiction, epic, science, 3d, technology, sigourney weaver, james cameron, effects, visual, mining, michelle rodriguez, sam worthington, art direction, imax, natives, giovanni ribisi, eco, zoe saldana
+1 can you describe movie Little Caesar in a few words?	bd-r, mervyn leroy, edward g. robinson
+1 describe Across the Bridge?	ken annakin
+1 can you describe movie Changing Lanes in a few words?	samuel l. jackson, roger michell
+1 can you give a few words describing what Powder Blue is about?	patrick swayze
+1 which words describe film The World's Fastest Indian?	anthony hopkins, 1960s, motorcycle, new zealand, utah, speed, roger donaldson, bonneville salt flats
+1 can you describe movie Water for Elephants in a few words?	reese witherspoon, christoph waltz, robert pattinson, elephants
+1 which words describe Mansfield Park?	england, jane austen
+1 what words describe film Harvey?	james stewart, henry koster
+1 which words describe film The Rover?	australia, guy pearce, robert pattinson
+1 which words describe movie Eat Drink Man Woman?	ang lee
+1 which words describe The Blue Dahlia?	george marshall
+1 which words describe film Space Cowboys?	space, clint eastwood, tommy lee jones, donald sutherland, james garner
+1 can you describe movie Flashbacks of a Fool in a few words?	r
+1 which words describe film Rawhead Rex?	clive barker
+1 can you describe movie Hanging Up in a few words?	meg ryan, diane keaton, walter matthau, lisa kudrow
+1 describe How I Live Now?	saoirse ronan
+1 which topics is Tim and Eric's Billion Dollar Movie about?	will ferrell, zach galifianakis, john c. reilly, will forte
+1 describe The Crucified Lovers in a few words?	kenji mizoguchi
+1 which words describe Needful Things?	stephen king
+1 which words describe movie Fanboys?	kristen bell, jay baruchel
+1 describe Cold Prey 2 in a few words?	slasher
+1 can you give a few words describing what RoboCop is about?	action, dystopia, police, future, corruption, television, paul verhoeven, detroit, peter weller
+1 what words describe film Amy Foster?	joseph conrad
+1 can you describe movie The Captain's Paradise in a few words?	british comedy, alec guinness
+1 what words describe film The Five-Year Engagement?	emily blunt, nicholas stoller
+1 which words describe movie Alias Betty?	claude miller
+1 which words describe movie Millennium Actress?	anime, japan, satoshi kon
+1 which words describe Pollock?	ed harris
+1 which topics is The Golden Child about?	eddie murphy, michael ritchie
+1 which words describe Romeo Must Die?	r, jet li, andrzej bartkowiak
+1 what terms are applicable to Fright?	bd-r
+1 what are some words that  describe movie I Am Legend?	horror, new york city, will smith, virus, mutants, last man on earth, richard matheson, matheson, i am legend, francis lawrence
+1 which words describe Adventures of Zatoichi?	zatoichi, kimiyoshi yasuda
+1 what words describe film Transcendence?	johnny depp, morgan freeman, directorial debut, rebecca hall
+1 can you give a few words describing Flags of Our Fathers?	world war ii, war, r, clint eastwood, american, iwo jima, flag
+1 which words describe film The Matchmaker?	joseph anthony
+1 what terms are applicable to Broken Arrow?	action, r, john travolta, john woo, christian slater
+1 what words describe film American Violet?	texas
+1 what words describe His Girl Friday?	bd-r, national film registry, screwball comedy, cary grant, howard hawks, screwball, rosalind russell
+1 what words describe Taps?	sean penn, george c. scott
+1 what words describe Delirious?	steve buscemi
+1 what topics is Fearless about?	jeff bridges, peter weir, isabella rossellini
+1 which words describe Wide Awake?	m. night shyamalan, rosie o'donnell, joseph cross
+1 can you give a few words describing what Looking for Richard is about?	al pacino, shakespeare
+1 describe Bernie?	albert dupontel
+1 can you give a few words describing what Wimbledon is about?	romantic, kirsten dunst, paul bettany, tennis
+1 what topics is Down by Law about?	slow, jim jarmusch, tom waits, roberto benigni, bayou
+1 what are some words that  describe movie Ride the High Country?	bd-r, national film registry, sam peckinpah, randolph scott
+1 what terms are applicable to Life Is Sweet?	mike leigh
+1 which words describe film My Father the Hero?	steve miner
+1 which topics is City of Joy about?	india
+1 can you give a few words describing what The Howards of Virginia is about?	bd-r
+1 can you give a few words describing Time Out?	laurent cantet
+1 describe the movie Red Lights in a few words?	french
+1 which topics is V/H/S about?	bd-r, horror, anthology, ti west, adam wingard, shorts, joe swanberg
+1 what topics is Little Secrets about?	secrets
+1 can you give a few words describing Arachnophobia?	comedy, horror, jeff daniels, spiders, frank marshall
+1 can you give a few words describing what Hana and Alice is about?	shunji iwai
+1 what are some words that  describe movie No Such Thing?	iceland, sarah polley, hal hartley
+1 describe the movie How to Succeed in Business Without Really Trying in a few words?	comedy, musical, business, broadway, david swift
+1 what are some words that  describe movie The Boss of It All?	lars von trier, danish, boss
+1 describe Dorian Gray in a few words?	colin firth, ben barnes
+1 which topics is The Hidden Face about?	thriller
+1 what terms are applicable to Secret Ceremony?	bd-r
+1 what topics is Pitfall about?	criterion, hiroshi teshigahara
+1 what topics is The Defiant Ones about?	old, sidney poitier, tony curtis, stanley kramer
+1 what topics is Dreams about?	dreams, akira kurosawa, kurosawa, life
+1 which words describe film The Canterbury Tales?	pier paolo pasolini
+1 which topics is Variety Lights about?	federico fellini, alberto lattuada
+1 can you describe movie Remember the Titans in a few words?	drama, high school, sports, racism, denzel washington, boaz yakin
+1 describe American Reunion in a few words?	franchise, reunion
+1 which words describe movie Kansas City Confidential?	film noir, noir, phil karlson
+1 which words describe The Flight Before Christmas?	christmas, flying, wolves
+1 what words describe film Cotton Comes to Harlem?	bd-r, harlem
+1 can you give a few words describing what The Holy Mountain is about?	alejandro jodorowsky, jodorowsky
+1 what topics is 1984 about?	george orwell, michael anderson
+1 what terms are applicable to The Guest?	adam wingard
+1 can you describe movie Daddy Day Camp in a few words?	camp
+1 can you give a few words describing what Wanderlust is about?	jennifer aniston, paul rudd
+1 can you describe movie Metallica Through the Never in a few words?	metallica
+1 describe The Quiet Room in a few words?	rolf de heer
+1 can you give a few words describing what Bad News Bears is about?	remake, greg kinnear
+1 which words describe film Trog?	bd-r
+1 what words describe Wide-Eyed and Legless?	richard loncraine
+1 describe the movie Street Scene in a few words?	king vidor
+1 can you describe movie The Tourist in a few words?	johnny depp, angelina jolie
+1 which words describe Blue Velvet?	surreal, mystery, david lynch, sexual, dennis hopper, lynch, isabella rossellini, kyle maclachlan
+1 can you describe movie Four Brothers in a few words?	mark wahlberg, brothers
+1 describe Jaws 3-D?	franchise, sequel, shark
+1 what are some words that  describe movie Volcano?	tommy lee jones, don cheadle, natural disaster, volcano, mick jackson
+1 can you give a few words describing No Country for Old Men?	drama, thriller, r, coen brothers, tommy lee jones, texas, javier bardem, josh brolin, landscape, cormac mccarthy
+1 can you describe movie Waxworks in a few words?	writer, jack the ripper, conrad veidt, stories
+1 what are some words that  describe movie My Name Is Bruce?	r, bruce campbell, b-movie
+1 which topics is movie Daybreakers about?	vampires, willem dafoe, ethan hawke, blood, australian, cure
+1 can you describe movie You Again in a few words?	kristen bell, betty white
+1 what terms are applicable to Outrageous Fortune?	bette midler
+1 describe Ironclad in a few words?	paul giamatti, kate mara
+1 what words describe Comanche Station?	budd boetticher
+1 what are some words that  describe movie Godzilla?	new york city, monster, jean reno, matthew broderick, godzilla, roland emmerich, hank azaria
+1 which words describe Sans Soleil?	chris marker
+1 which words describe The Ninth Gate?	roman polanski, devil
+1 which topics is movie Cold Souls about?	paul giamatti, emily watson
+1 what words describe Lemmy?	heavy metal
+1 can you give a few words describing what The Rose is about?	1960s, bette midler
+1 which words describe Stand Up and Cheer!?	shirley temple, hamilton macfadden
+1 which words describe The Love Letter?	peter chan
+1 which topics is Portrait of Jennie about?	fantasy, william dieterle
+1 describe the movie Hell Ride in a few words?	quentin tarantino, dennis hopper, vinnie jones
+1 what words describe film The Exorcist?	horror, franchise, scary, cult, possession, exorcism, priest, max von sydow, satan, gross, william friedkin, ellen burstyn
+1 which words describe movie The Big Bounce?	elmore leonard
+1 can you give a few words describing what Burn! is about?	bd-r, gillo pontecorvo
+1 which words describe movie Private Parts?	radio, betty thomas
+1 which topics is Oz the Great and Powerful about?	fantasy, mila kunis, james franco, rachel weisz, sam raimi, zach braff, oz
+1 which words describe The Den?	found footage
+1 which words describe Soul Surfer?	true story, faith
+1 what topics is Fist of the North Star about?	anime
+1 can you describe movie Ulee's Gold in a few words?	r, peter fonda
+1 describe High Heels and Low Lifes?	minnie driver
+1 which topics is movie Gross Anatomy about?	matthew modine, daphne zuniga
+1 can you describe movie Millions in a few words?	british, danny boyle
+1 can you describe movie Triumph of the Spirit in a few words?	holocaust
+1 what words describe Welcome to New York?	abel ferrara
+1 which topics is The Queen about?	bd-r, helen mirren, princess, stephen frears, grief, queen, michael sheen, monarchy, queen elizabeth
+1 which words describe Zero Effect?	ben stiller, private detective, bill pullman, portland, jake kasdan
+1 which topics is The Terminator about?	action, future, assassin, arnold schwarzenegger, arnold, james cameron, linda hamilton, michael biehn
+1 what words describe Another Earth?	writing, earth, brit marling
+1 can you describe movie Stolen Kisses in a few words?	françois truffaut
+1 which topics is Terror by Night about?	bd-r, sherlock holmes, arthur conan doyle, roy william neill
+1 what terms are applicable to Man Bites Dog?	violence, black comedy, serial killer, mockumentary, 1
+1 which words describe film Fright Night?	remake, vampire
+1 can you give a few words describing The Recruit?	al pacino, colin farrell, bridget moynahan
+1 can you describe movie Last Year at Marienbad in a few words?	enigmatic, alain resnais
+1 what topics is Revolution OS about?	documentary, open source, linux
+1 describe Stella Dallas in a few words?	barbara stanwyck, king vidor
+1 describe the movie The Sum of All Fears in a few words?	cia, tom clancy, jack ryan, phil alden robinson, jerry goldsmith
+1 what words describe 12 Angry Men?	william friedkin
+1 describe The War of the Worlds?	bd-r, classic, technicolor, byron haskin
+1 which topics is Looker about?	michael crichton, visual effects
+1 what words describe film Rocky II?	franchise, sylvester stallone, carl weathers, burt young, burgess meredith, talia shire, fight, stallone, tony burton, rocky
+1 describe P.S. I Love You in a few words?	richard lagravenese
+1 what words describe The Deceivers?	bd-r, nicholas meyer
+1 which words describe film The House That Dripped Blood?	bd-r
+1 can you describe movie The Long, Long Trailer in a few words?	vincente minnelli
+1 can you give a few words describing what The Phantom Carriage is about?	criterion
+1 which words describe The Cardinal?	bd-r
+1 what words describe film Dredd?	action, violence, 3d, cast, karl urban, olivia thirlby, lena headey
+1 what words describe The Maiden Heist?	morgan freeman, heist, christopher walken
+1 what words describe The Flame of New Orleans?	new orleans
+1 what words describe film Out of the Blue?	dennis hopper, punk rock
+1 what topics is Wonderland about?	michael winterbottom
+1 can you describe movie A Walk Among the Tombstones in a few words?	liam neeson
+1 what terms are applicable to Frank?	michael fassbender, maggie gyllenhaal, domhnall gleeson
+1 which words describe movie Fog City Mavericks?	san francisco
+1 what words describe film Elephant White?	bangkok
+1 describe Last Tango in Paris?	paris, sex, erotic, marlon brando, bernardo bertolucci
+1 describe the movie The Lost Patrol in a few words?	john ford
+1 what words describe The Young Poisoner's Handbook?	murder
+1 can you give a few words describing Bad Girls Go to Hell?	exploitation
+1 can you give a few words describing The Old Man and the Sea?	ernest hemingway, john sturges
+1 can you describe movie Brave in a few words?	animation, pixar, witch, emma thompson, visuals, princess, billy connolly
+1 describe Shrek the Halls in a few words?	christmas
+1 describe Jesse James?	henry king
+1 describe the movie It's Pat in a few words?	saturday night live
+1 which topics is movie Doom about?	horror, mars, monsters
+1 can you give a few words describing Just My Luck?	lindsay lohan, kiss, chris pine
+1 what words describe film Seven Days in May?	bd-r, thriller, military, john frankenheimer, rod serling
+1 describe Old School?	comedy, r, will ferrell, college, vince vaughn, fraternity, luke wilson, todd phillips
+1 what words describe film The Last Metro?	france, gérard depardieu, françois truffaut
+1 what words describe Blow Dry?	british, british comedy, alan rickman, josh hartnett, rachel griffiths
+1 what terms are applicable to Leila?	iran, dariush mehrjui
+1 describe The Front in a few words?	woody allen, martin ritt
+1 which topics is movie Seven Samurai about?	drama, japan, samurai, akira kurosawa, kurosawa, 4, seven
+1 which words describe Eraserhead?	surreal, national film registry, david lynch, lynch
+1 what topics is Salvatore Giuliano about?	francesco rosi
+1 what are some words that  describe movie Paisan?	world war ii, roberto rossellini
+1 what words describe film Mystery Men?	comedy, superhero, superheroes, william h. macy
+1 which words describe Only Old Men Are Going to Battle?	music
+1 what topics is Jab We Met about?	india, train, manic pixie dream girl, kareena kapoor
+1 which words describe movie Fled?	action
+1 which topics is movie Bulletproof Monk about?	seann william scott
+1 describe Lost Highway in a few words?	david lynch, patricia arquette, lynch
+1 which words describe Rebecca of Sunnybrook Farm?	shirley temple, allan dwan
+1 what topics is The Rabbi's Cat about?	algeria
+1 what words describe Lockout?	prison, guy pearce, maggie grace
+1 what topics is Mackenna's Gold about?	super panavision 70
+1 what words describe film Son of Rambow?	coming of age, 1980s, school, garth jennings
+1 describe the movie The Matriarch in a few words?	drama, finnish
+1 what topics is Dogville about?	drama, nicole kidman, lars von trier, james caan, grace
+1 what terms are applicable to Quest for Camelot?	animation
+1 which words describe film Romance?	unsimulated sex
+1 what terms are applicable to Why Worry??	harold lloyd
+1 which topics is movie The Assassination of Richard Nixon about?	sean penn, naomi watts, don cheadle, richard nixon
+1 what terms are applicable to The Lizzie McGuire Movie?	hilary duff
+1 which topics is movie The Harvest Month about?	matti kassila
+1 what topics is Once Upon a Time in Mexico about?	action, johnny depp, plot, robert rodriguez, antonio banderas, salma hayek, convoluted plot
+1 can you give a few words describing The Towering Inferno?	john guillermin, disaster film
+1 which topics is movie Things to Come about?	bd-r, alexander korda
+1 describe King Creole in a few words?	michael curtiz
+1 what topics is King Arthur about?	england, keira knightley, medieval, clive owen, arthurian legend, ice
+1 what are some words that  describe movie Jersey Boys?	music, history, new jersey
+1 which words describe movie Shaft?	remake, christian bale, samuel l. jackson, blaxploitation, john singleton
+1 what words describe Matilda?	comedy, fantasy, children, danny devito, roald dahl, embeth davidtz
+1 which topics is movie The Cable Guy about?	comedy, jim carrey, ben stiller, matthew broderick
+1 what terms are applicable to Following?	r, christopher nolan, noir
+1 what words describe Monte Carlo?	comedy
+1 what are some words that  describe movie Edward Scissorhands?	fantasy, dark, johnny depp, family, tim burton, winona ryder, dark fantasy, vincent price, hugo award, dianne wiest, burton, depp
+1 what words describe film Factotum?	r, matt dillon, charles bukowski
+1 what topics is Treasure Island about?	disney, island, robert louis stevenson
+1 what words describe St. Elmo's Fire?	brat pack, emilio estevez, rob lowe
+1 which words describe The Searchers?	bd-r, western, john wayne, vistavision, john ford
+1 describe Dutch?	john hughes
+1 describe the movie Author! Author! in a few words?	arthur hiller
+1 which words describe film The Fifth Musketeer?	bd-r
+1 which words describe movie The Mack?	blaxploitation, richard pryor
+1 what words describe Auto Focus?	greg kinnear, paul schrader
+1 which words describe film The Last House on the Left?	rape, remade
+1 can you describe movie The Last of Sheila in a few words?	stephen sondheim, herbert ross
+1 which words describe The Second Civil War?	joe dante
+1 which words describe The Butterfly?	french
+1 describe I Vitelloni?	bd-r, small town, italian, federico fellini
+1 describe the movie Class of Nuke 'Em High in a few words?	cult classic, troma
+1 can you give a few words describing Civil Brand?	prison
+1 what are some words that  describe movie Bright Star?	romantic, abbie cornish, ben whishaw, jane campion
+1 can you give a few words describing Nancy Drew?	emma roberts
+1 which topics is movie The Return of Doctor X about?	humphrey bogart
+1 which words describe Raising Helen?	helen mirren, kate hudson, abigail breslin, joan cusack, garry marshall, hayden panettiere, john corbett
+1 can you give a few words describing Go Fish?	lesbian, chicago
+1 describe Me and Orson Welles in a few words?	orson welles, richard linklater, claire danes, zac efron
+1 describe Jackie Brown in a few words?	quentin tarantino, samuel l. jackson, robert de niro, own, tarantino, cast, elmore leonard, pam grier, bridget fonda
+1 which topics is movie Drinking Buddies about?	drinking, chicago, anna kendrick, olivia wilde, jake johnson, joe swanberg
+1 which topics is movie Fat Kid Rules the World about?	directorial debut
+1 what are some words that  describe movie What Lies Beneath?	horror, harrison ford, supernatural, robert zemeckis
+1 what words describe The Last Drop?	romania
+1 what words describe film In Your Eyes?	paranormal
+1 can you give a few words describing Trouble in Paradise?	bd-r, national film registry, ernst lubitsch, miriam hopkins
+1 what words describe Disclosure?	michael douglas, michael crichton, demi moore, sexual harassment
+1 can you give a few words describing what Alien Nation is about?	police
+1 describe She's Out of My League in a few words?	jay baruchel, pittsburgh, alice eve
+1 can you describe movie Soul Food in a few words?	mekhi phifer
+1 what terms are applicable to Four Shades of Brown?	tomas alfredson
+1 which topics is movie Blood from the Mummy's Tomb about?	bd-r
+1 which topics is movie Air Force One about?	action, harrison ford, gary oldman, president, wolfgang petersen, glenn close
+1 can you give a few words describing The Unborn?	gary oldman, david s. goyer
+1 can you give a few words describing The Class?	french, french film, palme d'or, laurent cantet
+1 which topics is movie Killer Elite about?	action, robert de niro, jason statham, clive owen, yvonne strahovski
+1 what words describe Fever Pitch?	nick hornby
+1 which words describe movie Near Dark?	dark, vampires, western, vampire, kathryn bigelow
+1 which words describe film The Snow White Murder Case?	yoshihiro nakamura
+1 describe the movie Kronk's New Groove in a few words?	john goodman, david spade
+1 what terms are applicable to Sunday Bloody Sunday?	bd-r, john schlesinger
+1 what words describe The Clan of the Cave Bear?	prehistoric
+1 which topics is The Pebble and the Penguin about?	don bluth
+1 can you describe movie The Letter in a few words?	bd-r
+1 describe Vertical Limit?	action
+1 what words describe Hyde Park on Hudson?	bill murray, laura linney
+1 what are some words that  describe movie Scream of Stone?	werner herzog, mountains, climbing
+1 describe Shake Hands with the Devil in a few words?	genocide, united nations, rwanda
+1 which words describe film To End All Wars?	war, r
+1 which words describe Cutthroat Island?	action, adventure, geena davis, frank langella
+1 what words describe film Cool Hand Luke?	bd-r, drama, prison, national film registry, paul newman, george kennedy, stuart rosenberg
+1 can you give a few words describing The Happy Ending?	bd-r
+1 what terms are applicable to Cemetery Man?	zombies, zombie, cemetery
+1 what topics is Turbo about?	dreamworks
+1 can you give a few words describing what Soapdish is about?	comedy, television, michael hoffman
+1 can you give a few words describing what Gigi is about?	bd-r, musical, national film registry, courtesan, vincente minnelli
+1 which topics is movie A Smoky Mountain Christmas about?	henry winkler
+1 which topics is People Will Talk about?	joseph l. mankiewicz
+1 which topics is movie Rush about?	sports, racing, ron howard, rivalry
+1 describe The Wolverine in a few words?	superhero, japan, marvel, hugh jackman, x-men, wolverine, james mangold
+1 which words describe film The Apostle?	drama, robert duvall
+1 what words describe The Brother from Another Planet?	john sayles, harlem
+1 describe Underworld?	josef von sternberg
+1 which topics is The Alamo about?	war, revolution, texas, billy bob thornton
+1 which topics is The Wreck of the Mary Deare about?	bd-r
+1 which words describe Alps?	greek
+1 what terms are applicable to 3 Ninjas?	jon turteltaub
+1 describe the movie Places in the Heart in a few words?	robert benton
+1 which topics is movie Even Dwarfs Started Small about?	werner herzog
+1 what words describe Sex Is Comedy?	bd-r
+1 which words describe film Fist of the North Star?	bd-r
+1 which words describe film Ladybugs?	sidney j. furie
+1 which topics is The Place Beyond the Pines about?	ryan gosling, bradley cooper, derek cianfrance
+1 which topics is movie Sherlock Holmes Faces Death about?	sherlock holmes, basil rathbone, nigel bruce
+1 what words describe film Guns at Batasi?	john guillermin
+1 which words describe Lord of the Flies?	bd-r, library, island, boys
+1 what words describe Beyond the Sea?	kevin spacey
+1 which words describe The Hudsucker Proxy?	comedy, bd-r, business, tim robbins, f
+1 which topics is Zodiac about?	serial killer, crime, r, police, slow, jake gyllenhaal, david fincher, investigation, mark ruffalo
+1 what terms are applicable to 7th Heaven?	frank borzage
+1 can you give a few words describing The Way?	martin sheen, emilio estevez
+1 can you give a few words describing what The Big Boss is about?	martial arts, bruce lee
+1 can you describe movie Z in a few words?	bd-r, thriller, politics, greek, political thriller
+1 can you give a few words describing The Secret Life of Walter Mitty?	ben stiller
+1 which words describe movie 300?	comic book, war, r, historical, epic, gerard butler, visual, frank miller, zack snyder, graphic novel, comic, queen, king, thermopylae
+1 what words describe film At Play in the Fields of the Lord?	tom waits
+1 describe BlinkyTM?	short
+1 what topics is Aliens in the Attic about?	aliens
+1 describe the movie The Makioka Sisters in a few words?	kon ichikawa
+1 can you give a few words describing what Eight Crazy Nights is about?	adam sandler, jewish
+1 can you describe movie Who Killed the Electric Car? in a few words?	documentary, cars, california, oil, general motors
+1 what are some words that  describe movie The Fan?	baseball, tony scott
+1 what topics is The Hunt about?	drama, mads mikkelsen, danish, thomas vinterberg, kindergarten
+1 which topics is movie A Prayer for the Dying about?	liam neeson
+1 what are some words that  describe movie Saw?	horror, franchise, original, detective, twist, danny glover, cary elwes, james wan
+1 which words describe Forbidden Zone?	musical
+1 which words describe No One Knows About Persian Cats?	bahman ghobadi
+1 which words describe movie Tall Tale?	jeremiah s. chechik
+1 can you describe movie Whatever Works in a few words?	woody allen, evan rachel wood, patricia clarkson, larry david, michael mckean
+1 which topics is movie Ivanhoe about?	adaptation
+1 describe Farewell My Concubine?	r, china, opera, gong li, leslie cheung
+1 can you describe movie Catch and Release in a few words?	kevin smith, jennifer garner, timothy olyphant, mourning
+1 describe the movie Voices of a Distant Star in a few words?	space, anime, makoto shinkai
+1 what words describe The Town?	drama, crime, r, ben affleck, jeremy renner
+1 what words describe Spider-Man?	action, superhero, comic book, new york city, sequel, marvel, super-hero, new york, kirsten dunst, willem dafoe, superheroes, james franco, sam raimi, tobey maguire, comics, responsibility, power
+1 can you give a few words describing The Dark Crystal?	bd-r, fantasy, dark, jim henson, frank oz
+1 which topics is movie Mephisto about?	istván szabó
+1 can you give a few words describing what Sommersby is about?	jodie foster
+1 what terms are applicable to Battle Royale?	japan, school, takeshi kitano, game, kinji fukasaku
+1 can you give a few words describing The Trouble with Angels?	nuns, ida lupino
+1 what topics is Analyze This about?	comedy, robert de niro, gangster, billy crystal, harold ramis, psychiatrist
+1 what words describe film Hit and Run?	kristen bell, dax shepard
+1 which words describe movie Final Destination?	drama, horror, franchise, suspense, teen, death, premonition, james wong
+1 can you describe movie The Secret Six in a few words?	bd-r
+1 which words describe movie Shaft in Africa?	africa, blaxploitation
+1 describe The Book of Life in a few words?	hal hartley
+1 describe The Seventh Victim in a few words?	bd-r, val lewton, mark robson
+1 which words describe movie Planes?	disney
+1 describe Calamari Union?	comedy, surreal, aki kaurismäki
+1 can you give a few words describing Freddy vs. Jason?	franchise, slasher, robert englund, ronny yu
+1 describe Samurai Reincarnation?	samurai
+1 what topics is Chan Is Missing about?	wayne wang
+1 can you give a few words describing what Barefoot Gen is about?	war, anime, hiroshima
+1 which words describe film Wilson?	henry king
+1 which words describe movie Miracle on 34th Street?	remake, christmas, santa claus, richard attenborough, elizabeth perkins
+1 which topics is De-Lovely about?	cole porter
+1 which topics is A Face in the Crowd about?	bd-r, national film registry, elia kazan
+1 what words describe Blue City?	small town, florida
+1 which topics is movie Silent Running about?	environmental, environment
+1 describe The Mission in a few words?	johnnie to
+1 which words describe movie Rambling Rose?	great depression
+1 which words describe Trapped in Paradise?	george gallo
+1 describe the movie Giallo in a few words?	bd-r
+1 which words describe Nothing to Lose?	tim robbins, martin lawrence, steve oedekerk
+1 what words describe film The Illusionist?	magic, edward norton, paul giamatti, jessica biel, vienna, neil burger
+1 describe Zulu Dawn?	bd-r
+1 describe Radioland Murders in a few words?	george lucas, radio
+1 which topics is movie Domino about?	keira knightley
+1 which words describe movie Shame?	war, ingmar bergman, max von sydow, liv ullmann
+1 which words describe film Short Cuts?	ensemble cast, los angeles, julianne moore, tom waits, robert altman, altman
+1 can you give a few words describing Daisies?	strange, czech
+1 what words describe film Silk?	japan, keira knightley, michael pitt
+1 which topics is God Is Brazilian about?	comedy, brazil, god
+1 what terms are applicable to Riding Alone for Thousands of Miles?	zhang yimou
+1 describe Ferris Bueller's Day Off?	comedy, high school, john hughes, chicago, matthew broderick, breaks the fourth wall
+1 can you describe movie Samurai Rebellion in a few words?	japan, samurai, masaki kobayashi
+1 what words describe A Hard Day's Night?	comedy, bd-r, music, musical, beatles, the beatles, richard lester
+1 which topics is movie Ripley's Game about?	john malkovich
+1 what words describe film The Fountainhead?	king vidor, ayn rand
+1 which words describe film National Lampoon's Gold Diggers?	national lampoon
+1 which words describe movie The Opportunists?	christopher walken
+1 what terms are applicable to She's the Man?	teen, shakespeare, channing tatum, amanda bynes
+1 describe the movie Darkon in a few words?	fantasy, documentary, baltimore, maryland
+1 what words describe Leprechaun?	horror
+1 what terms are applicable to Beverly Hills Cop III?	comedy, eddie murphy, john landis
+1 can you describe movie The Congress in a few words?	ken burns
+1 what terms are applicable to Unstrung Heroes?	diane keaton
+1 describe the movie Captain Phillips in a few words?	true story, tom hanks, pirates, ocean, hostage, navy, hijacking, captain, paul greengrass, navy seals, seal
+1 what are some words that  describe movie Of Mice and Men?	bd-r, lewis milestone, john steinbeck
+1 can you give a few words describing what Youth of the Beast is about?	yakuza, seijun suzuki
+1 describe Mr. Freedom in a few words?	william klein
+1 can you give a few words describing what The Challenge is about?	john frankenheimer
+1 describe the movie Ride Lonesome in a few words?	budd boetticher
+1 which words describe movie Dawn of the Planet of the Apes?	sequel, emotional, andy serkis, matt reeves
+1 what terms are applicable to Cops?	short, buster keaton, edward f. cline
+1 can you describe movie Meet the Parents in a few words?	comedy, robert de niro, ben stiller, owen wilson, jay roach, teri polo
+1 which words describe Macabre?	bd-r
+1 which words describe film Godzilla, King of the Monsters!?	kaiju, godzilla, giant monster, raymond burr
+1 can you give a few words describing what The Hotel New Hampshire is about?	jodie foster
+1 what are some words that  describe movie Hans Christian Andersen?	ballet, charles vidor, hans christian andersen
+1 can you give a few words describing what Crouching Tiger, Hidden Dragon is about?	action, cinematography, martial arts, china, dragon, wuxia, ang lee, michelle yeoh
+1 which topics is movie Beyond a Reasonable Doubt about?	fritz lang
+1 describe The Lost Boys in a few words?	horror, vampires, vampire, brothers, kiefer sutherland
+1 which words describe movie Two-Lane Blacktop?	road movie, monte hellman
+1 which words describe Boiling Point?	takeshi kitano
+1 can you give a few words describing what Oldboy is about?	violence, r, story, conspiracy, vengeance, korean, trilogy, 2, korea
+1 describe the movie The Dawn Patrol in a few words?	edmund goulding
+1 what terms are applicable to Live from Baghdad?	gulf war, mick jackson
+1 what topics is Married to the Mob about?	mafia, fbi, michelle pfeiffer, jonathan demme, demme
+1 what terms are applicable to The Gorgon?	bd-r
+1 what words describe film Rollerball?	dystopia, norman jewison
+1 can you describe movie Enter the Void in a few words?	psychedelic, gaspar noé
+1 what topics is The Celebration about?	family, suicide, birthday, thomas vinterberg
+1 what words describe film Dersu Uzala?	friendship, 70mm, akira kurosawa, russia
+1 which words describe movie Predator?	action, arnold schwarzenegger, arnold, alien, carl weathers, predator, john mctiernan, jesse ventura, the story
+1 what topics is Timeline about?	medieval, gerard butler, michael crichton, billy connolly, david thewlis
+1 which words describe movie A History of Violence?	violence, violent, viggo mortensen, david cronenberg
+1 which topics is Whiplash about?	music, jazz, miles teller, damien chazelle, drummer
+1 which topics is Final Destination 3 about?	horror, franchise, james wong
+1 which words describe movie The First Wives Club?	revenge, women, divorce, goldie hawn
+1 what are some words that  describe movie Microcosmos?	documentary, insects
+1 which words describe Nine?	musical
+1 describe the movie Donovan's Reef in a few words?	john wayne, john ford
+1 which topics is The Train about?	bd-r, war, john frankenheimer
+1 which words describe movie True Confessions?	bd-r
+1 describe Pulse in a few words?	horror, japanese, kiyoshi kurosawa
+1 can you describe movie G.I. Jane in a few words?	ridley scott, demi moore
+1 can you give a few words describing what Amish Grace is about?	gregg champion
+1 can you give a few words describing what Novocaine is about?	helena bonham carter, steve martin
+1 what words describe Broadway Danny Rose?	woody allen
+1 can you describe movie Bambi in a few words?	classic, animation, disney, animated classic, deer, woods
+1 which words describe film Emmanuel's Gift?	ghana
+1 can you describe movie Kafka in a few words?	steven soderbergh, atmosphere, jeremy irons, franz kafka, kafkaesque
+1 which topics is movie Underworld about?	action, vampires, gothic, vampire, werewolf, kate beckinsale
+1 which topics is movie Career about?	joseph anthony
+1 which words describe Mikey and Nicky?	elaine may
+1 which topics is Soldier of Orange about?	paul verhoeven, dutch
+1 which topics is Exit Wounds about?	steven seagal, andrzej bartkowiak
+1 describe Dossier 51?	michel deville
+1 can you describe movie West Side Story in a few words?	music, musical, new york city, long, dance, shakespeare, new york, gangs, broadway, best picture, robert wise, super panavision 70, stephen sondheim, natalie wood, romeo and juliet, choreography
+1 can you give a few words describing Fear and Desire?	bd-r, stanley kubrick
+1 describe the movie The Hot Chick in a few words?	comedy
+1 which words describe Beat the Devil?	bd-r, crime, john huston
+1 which words describe Red Dust?	bd-r, national film registry, victor fleming
+1 what topics is Far Cry about?	til schweiger, uwe boll
+1 describe Juno?	comedy, soundtrack, original, teen, pregnancy, ellen page, michael cera, jason bateman, jennifer garner, teenager, jason reitman
+1 what are some words that  describe movie Don Jon?	scarlett johansson, julianne moore
+1 can you give a few words describing what Shakespeare in Love is about?	bd-r, drama, r, british, shakespeare, gwyneth paltrow, judi dench, romeo and juliet, joseph fiennes, john madden
+1 which words describe film Madhouse?	bd-r, vincent price
+1 can you give a few words describing PK?	comedy, god, aamir khan, rajkumar hirani
+1 describe The Bedford Incident in a few words?	bd-r, cold war, sidney poitier
+1 describe Remember Me?	drama, pierce brosnan, robert pattinson, emilie de ravin
+1 what are some words that  describe movie Sherlock Holmes and the Voice of Terror?	basil rathbone
+1 can you describe movie Nell in a few words?	liam neeson, jodie foster, natasha richardson
+1 which words describe movie Solaris?	bd-r, space, cinematography, psychological, slow, meditative, russian, memories, sf, andrei tarkovsky, space station, conscience, tarkovsky
+1 what are some words that  describe movie Old Yeller?	dog, robert stevenson
+1 can you describe movie Cypher in a few words?	r, lucy liu, vincenzo natali, jeremy northam
+1 describe the movie Deadly Friend in a few words?	wes craven
+1 which words describe film The Sacrifice?	andrei tarkovsky, erland josephson
+1 what words describe film Miracle?	sports, usa, olympics, hockey, gavin o'connor
+1 what words describe The Ladykillers?	comedy, tom hanks, coen brothers, ethan coen
+1 describe The Wrong Guy?	dave foley
+1 which words describe movie Heaven Can Wait?	ernst lubitsch, gene tierney, don ameche
+1 what are some words that  describe movie Ninja Scroll?	ninja, yoshiaki kawajiri
+1 which topics is movie Last Stop 174 about?	bruno barreto
+1 which words describe film Little Women?	classic, mervyn leroy, louisa may alcott
+1 what are some words that  describe movie Lassie Come Home?	bd-r
+1 what are some words that  describe movie Elysium?	dystopia, matt damon, science fiction, jodie foster, neill blomkamp
+1 can you give a few words describing Mamma Mia!?	musical, meryl streep, colin firth, broadway, pierce brosnan, amanda seyfried, single mother, abba
+1 describe the movie Easy Rider in a few words?	bd-r, drugs, library, marijuana, road movie, dennis hopper, united states, peter fonda, counterculture
+1 which topics is Godzilla vs. Gigan about?	kaiju, godzilla, toho, king ghidorah, gigan
+1 which topics is Anna Karenina about?	drama, jude law, russia, joe wright
+1 which words describe movie City Slickers?	billy crystal, colorado, daniel stern, jack palance, bruno kirby, ron underwood
+1 describe Shirley Valentine?	lewis gilbert
+1 what topics is Savior about?	dennis quaid
+1 can you give a few words describing Beyond All Boundaries?	world war ii, short film
+1 can you give a few words describing what Birthday Girl is about?	nicole kidman, vincent cassel, mathieu kassovitz
+1 can you describe movie Bombshell in a few words?	bd-r, victor fleming
+1 can you give a few words describing The Neon Bible?	1940s
+1 what words describe This Happy Breed?	bd-r, david lean
+1 can you give a few words describing what Barnyard is about?	animated
+1 which words describe Demon Seed?	science
+1 can you describe movie Invasion of the Body Snatchers in a few words?	science fiction, national film registry, don siegel
+1 which words describe Splinterheads?	carnival
+1 can you describe movie Love Potion No. 9 in a few words?	sandra bullock
+1 what terms are applicable to Knights of the Round Table?	bd-r
+1 what words describe Memoirs of an Invisible Man?	suspense
+1 describe Romeo + Juliet?	leonardo dicaprio, shakespeare, romantic, claire danes, baz luhrmann
+1 can you give a few words describing Zoo in Budapest?	rowland v. lee
+1 which topics is The Wedding Banquet about?	gay, wedding, ang lee, chinese, parents
+1 what topics is Trishna about?	india, thomas hardy, freida pinto
+1 describe Vampyros Lesbos?	vampire
+1 describe Stir Crazy in a few words?	comedy, gene wilder, sidney poitier, richard pryor
+1 can you give a few words describing The Kid with a Bike?	luc dardenne
+1 what topics is 20 Million Miles to Earth about?	ray harryhausen
+1 which words describe film Spare Parts?	high school
+1 can you describe movie Waterworld in a few words?	futuristic, kevin costner, water
+1 describe the movie Murder by Numbers in a few words?	sandra bullock, ryan gosling, michael pitt, barbet schroeder
+1 which words describe film Gidget?	surfing
+1 can you describe movie The Sorcerer and the White Snake in a few words?	china, jet li
+1 describe the movie The Lego Movie in a few words?	morgan freeman, liam neeson, chris pratt, phil lord, christopher miller
+1 what are some words that  describe movie How to Make Money Selling Drugs?	drugs, documentary
+1 what topics is Cashback about?	short
+1 which topics is movie Reckless about?	love
+1 what are some words that  describe movie I.Q.?	romantic, romantic comedy, meg ryan, tim robbins, walter matthau, fred schepisi
+1 what topics is Ninja Assassin about?	violence, dark, martial arts, ninja, rain
+1 what words describe The Debt?	israel, mossad
+1 what words describe film When Will I Be Loved?	neve campbell
+1 which topics is Warning from Space about?	aliens, japan
+1 can you give a few words describing Adventures of Don Juan?	bd-r, vincent sherman
+1 describe Scorched in a few words?	john cleese, alicia silverstone, rachael leigh cook
+1 can you give a few words describing And Then There Were None?	bd-r, mystery, agatha christie, rené clair
+1 describe Gypsy?	bd-r, mervyn leroy
+1 what terms are applicable to The Four Feathers?	heath ledger
+1 which words describe movie My Sassy Girl?	remake
+1 can you give a few words describing High Noon?	music, western, time, grace kelly, fred zinnemann, gary cooper
+1 describe Mighty Joe Young?	ernest b. schoedsack
+1 which words describe Rambo?	action, war, r, sylvester stallone
+1 describe the movie Requiem in a few words?	mental illness, possession, exorcism, epilepsy
+1 describe Derailed in a few words?	clive owen, vincent cassel
+1 describe the movie Quick Change in a few words?	new york city, bill murray, manhattan
+1 can you give a few words describing what Desert Hearts is about?	lesbian
+1 which words describe Head?	bob rafelson
+1 which words describe film Little Man Tate?	directorial debut, jodie foster
+1 what terms are applicable to A Tale of Two Cities?	bd-r
+1 describe Gerontophilia?	gay
+1 which words describe film The Traveler?	abbas kiarostami
+1 what topics is Sabrina about?	drama, remake, harrison ford, greg kinnear, julia ormond
+1 what words describe film Fortress?	dystopia, future, prison
+1 what words describe Drifting Clouds?	finnish, aki kaurismäki
+1 what terms are applicable to Arsenic and Old Lace?	bd-r, dark comedy, cary grant, frank capra
+1 which words describe film Away We Go?	r, maggie gyllenhaal, jeff daniels, sam mendes, maya rudolph, catherine o'hara, john krasinski
+1 what terms are applicable to The Honeymoon Killers?	criterion
+1 what topics is Bringing Out the Dead about?	drama, martin scorsese, nicolas cage, john goodman
+1 which words describe movie Tatie Danielle?	french
+1 can you give a few words describing what Kidulthood is about?	violence, british, london, teenagers
+1 which words describe Fun with Dick and Jane?	remake, jim carrey, robbery, dean parisot
+1 describe Gods of the Plague?	rainer werner fassbinder
+1 which words describe movie Bend It Like Beckham?	london, keira knightley, football
+1 can you give a few words describing what Holy Motors is about?	leos carax
+1 which topics is movie After.Life about?	liam neeson, christina ricci, justin long
+1 which topics is The World of Suzie Wong about?	richard quine
+1 which topics is Casablanca about?	bd-r, drama, war, nazis, love, africa, hollywood, humphrey bogart, ingrid bergman, michael curtiz, best picture, stage, nazi, claude rains, conrad veidt, bogart, play, paul henreid
+1 can you describe movie Khartoum in a few words?	basil dearden, ultra panavision 70
+1 what words describe Mrs. Parker and the Vicious Circle?	writers, manhattan
+1 can you give a few words describing The Decameron?	pier paolo pasolini
+1 describe Children of Nature in a few words?	friðrik Þór friðriksson
+1 describe the movie The Last Detail in a few words?	jack nicholson, hal ashby
+1 can you give a few words describing Sapphire?	basil dearden
+1 can you describe movie The White Sister in a few words?	henry king
+1 what topics is Heart and Souls about?	robert downey jr, ron underwood
+1 which words describe film Trial and Error?	charlize theron, jeff daniels, michael richards
+1 what are some words that  describe movie Harsh Times?	r, christian bale, david ayer
+1 can you describe movie Love Affair in a few words?	bd-r, remake, leo mccarey, charles boyer
+1 can you give a few words describing Copycat?	thriller, sigourney weaver
+1 can you describe movie Meeting Evil in a few words?	samuel l. jackson, luke wilson
+1 describe I'm Still Here in a few words?	mockumentary, joaquin phoenix, casey affleck
+1 what are some words that  describe movie The Son's Room?	nanni moretti
+1 can you give a few words describing what The Umbrellas of Cherbourg is about?	bd-r, musical, french, catherine deneuve, jacques demy
+1 what topics is The Farmer's Wife about?	bd-r
+1 which topics is Major League about?	comedy, baseball, david s. ward, cleveland
+1 which words describe One Crazy Summer?	demi moore
+1 which topics is The Blue Bird about?	shirley temple, walter lang
+1 which topics is Dead Poets Society about?	drama, story, robin williams, own, school, teacher, poetry, peter weir, teaching
+1 what words describe film The Ice Storm?	funny, criterion, drama, dvd, 1970s, sigourney weaver, moody, elijah wood, tobey maguire, christina ricci, ang lee, thanksgiving
+1 can you describe movie The Man from London in a few words?	béla tarr
+1 which words describe movie Knight Moves?	thriller
+1 what topics is The Salvation about?	western, mads mikkelsen, eva green
+1 can you give a few words describing The Thin Red Line?	criterion, world war ii, cinematography, war, ensemble cast, george clooney, seen, sean penn, john travolta, adrien brody, jared leto, terrence malick, nick nolte
+1 what words describe Asylum?	asylum
+1 what terms are applicable to Presumed Innocent?	harrison ford, brian dennehy, alan j. pakula
+1 which words describe Cold Sweat?	richard matheson
+1 describe the movie Nights in Rodanthe in a few words?	richard gere
+1 can you give a few words describing what Le Bonheur is about?	agnès varda
+1 describe Walker in a few words?	war, alex cox, nicaragua
+1 which words describe movie Hardware?	r, robot
+1 which words describe film Dial M for Murder?	bd-r, murder, alfred hitchcock, hitchcock, grace kelly, ray milland
+1 can you give a few words describing Our Fathers?	dan curtis
+1 describe the movie Face/Off in a few words?	action, nicolas cage, john travolta, john woo
+1 can you give a few words describing A Stranger in Town?	roy rowland
+1 describe the movie Iron Sky in a few words?	german, finnish, moon
+1 what words describe The Legend of Hell House?	bd-r, richard matheson, roddy mcdowall
+1 what words describe The Omen?	horror, suspense, gregory peck, antichrist, richard donner
+1 which words describe The Bravados?	henry king
+1 can you describe movie Roman Holiday in a few words?	comedy, bd-r, romantic comedy, audrey hepburn, rome, gregory peck, william wyler, princess
+1 can you describe movie Osaka Elegy in a few words?	japan, kenji mizoguchi
+1 which words describe movie Street Mobster?	kinji fukasaku
+1 can you give a few words describing what Spider-Man 2 is about?	superhero, new york city, sequel, marvel, super-hero, new york, kirsten dunst, sam raimi, tobey maguire, comics, octopus
+1 what topics is Eraser about?	action, arnold schwarzenegger, arnold, james caan, chuck russell, vanessa l. williams
+1 can you give a few words describing Flowers in the Attic?	kristy swanson
+1 what are some words that  describe movie Bye Bye Birdie?	bd-r, broadway
+1 what are some words that  describe movie The Golden Bowl?	henry james
+1 which words describe film Red Lights?	thriller, robert de niro, sigourney weaver, cillian murphy
+1 can you describe movie The Place Promised in Our Early Days in a few words?	anime, makoto shinkai
+1 describe The Unsuspected in a few words?	michael curtiz
+1 what words describe film Open Season 3?	comedy, animation
+1 which topics is Model Shop about?	bd-r
+1 what topics is Fathom about?	raquel welch
+1 what are some words that  describe movie The Song of Sparrows?	iran, majid majidi
+1 which words describe The Pope's Toilet?	uruguay
+1 what are some words that  describe movie The Wind Will Carry Us?	iran, abbas kiarostami
+1 which words describe movie Circle of Friends?	irish, pat o'connor
+1 what are some words that  describe movie Avenue Montaigne?	french
+1 can you give a few words describing Much Ado About Nothing?	comedy, keanu reeves, denzel washington, shakespeare, emma thompson, kate beckinsale, kenneth branagh, robert sean leonard
+1 describe the movie It's a Free World... in a few words?	ken loach
+1 which words describe movie Threesome?	comedy, lara flynn boyle
+1 can you describe movie Mystic Pizza in a few words?	julia roberts, vincent d'onofrio, lili taylor
+1 what terms are applicable to Prince Valiant?	king arthur, comic strip
+1 can you give a few words describing what On the Road is about?	jack kerouac
+1 describe The Boy Who Could Fly?	nick castle
+1 can you describe movie Sky High in a few words?	comedy, superhero, kurt russell
+1 can you give a few words describing what American Dreamz is about?	comedy, parody, paul weitz
+1 which words describe Guess Who?	remake, interracial romance
+1 describe Sands of Iwo Jima in a few words?	world war ii, john wayne, allan dwan
+1 can you describe movie Cast Away in a few words?	adventure, drama, tom hanks, stranded, island, robert zemeckis
+1 which words describe movie Departures?	japan, death
+1 what terms are applicable to Pride and Prejudice?	jane austen, adaptation, robert z. leonard
+1 what words describe It Started with Eve?	henry koster
+1 can you give a few words describing The Stratton Story?	sam wood
+1 what words describe The Teahouse of the August Moon?	occupation, okinawa
+1 what are some words that  describe movie The Navigators?	ken loach
+1 can you give a few words describing what Sky Captain and the World of Tomorrow is about?	story, jude law, dieselpunk
+1 which words describe The Wild One?	bd-r, marlon brando
+1 which words describe movie Descent?	rosario dawson
+1 which topics is Vamp about?	vampire
+1 which words describe film Timecop?	time travel, peter hyams, mia sara
+1 what topics is Nothing to Declare about?	comedy, dany boon
+1 what topics is Signs about?	story, mel gibson, script, m. night shyamalan, joaquin phoenix, shyamalan
+1 what terms are applicable to Images?	robert altman
+1 describe the movie Sid and Nancy in a few words?	gary oldman, punk, punk rock, alex cox
+1 which words describe Sandra?	italian, luchino visconti
+1 describe Twice Upon a Time?	bd-r, animation, john korty
+1 what words describe The Young Philadelphians?	vincent sherman
+1 can you describe movie Alice Adams in a few words?	george stevens, class
+1 what terms are applicable to One Potato, Two Potato?	larry peerce
+1 which words describe film May?	anna faris, jeremy sisto
+1 which words describe movie The Fountain?	space, religion, history, love, hugh jackman, rachel weisz, cancer, darren aronofsky, mortality
+1 can you give a few words describing what Monster is about?	drama, serial killer, crime, murder, charlize theron, christina ricci, 90s
+1 what topics is Tokyo-Ga about?	wim wenders
+1 can you give a few words describing what Kiss of Death is about?	bd-r, crime, henry hathaway
+1 describe The Man Who Loved Women in a few words?	bd-r, françois truffaut
+1 which topics is Fantasia about?	classic, music, disney, disney animated feature, classical music, classical, ben sharpsteen
+1 which words describe film Captain Newman, M.D.?	david miller
+1 what terms are applicable to Julius Caesar?	bd-r, shakespeare, marlon brando, james mason, joseph l. mankiewicz, deborah kerr, john gielgud, greer garson
+1 which words describe movie London Boulevard?	london, keira knightley, colin farrell
+1 what words describe Metropolis?	bd-r, dystopia, music, science fiction, fritz lang, silent film

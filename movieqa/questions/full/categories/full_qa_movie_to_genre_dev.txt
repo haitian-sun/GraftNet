@@ -1,0 +1,820 @@
+1 what film genre is The Puffy Chair?	Drama, Comedy, Romance
+1 what is the genre for the film The File on Thelma Jordon?	Drama, Crime, Film-Noir
+1 what type of movie is The Animal Kingdom?	Drama, Comedy
+1 what was the genre of Alice?	Comedy, Romance, Fantasy
+1 what was the genre of the film Ajantrik?	Drama
+1 what was the genre of A Very Potter Sequel?	Comedy, Musical
+1 what is the genre of the movie Tarzan, the Ape Man?	Adventure
+1 what genre does The Milk of Sorrow fall under?	Drama, Music
+1 what sort of film is Next Friday?	Comedy
+1 what genre is Blue in the Face in?	Comedy
+1 what sort of film is Queen of Blood?	Sci-Fi, Horror
+1 what is the genre for the film Hold That Ghost?	Comedy, Adventure, Music
+1 what genre does Kramer vs. Kramer fall under?	Drama
+1 what genre of movie is The Blind Side?	Drama, Biography, Sport
+1 what is the genre for the movie Murder in Coweta County?	Drama, Crime
+1 what genre of movie is Labor Day?	Drama
+1 what sort of movie is The Little Kidnappers?	Drama, Romance, Family
+1 what kind of movie is Murder by Numbers?	Drama, Thriller, Crime
+1 what is the genre of the film The Amazing Dr. Clitterhouse?	Drama, Crime, Film-Noir
+1 what genre of movie is Edvard Munch?	Drama, Fantasy, Biography
+1 what kind of film is The Love God??	Comedy
+1 what genre of film is Goodfellas?	Drama, Crime, Biography
+1 what is the genre for the movie Walkabout?	Drama, Adventure
+1 what was the genre of Cold in July?	Thriller, Crime
+1 what is the genre of the film Marci X?	Comedy, Music
+1 what sort of film is The Baby of Mâcon?	Drama, History
+1 what film genre is Book of Love?	Comedy, Romance
+1 what is the genre for the film Medea?	Drama, Fantasy
+1 what is the genre for Love Object?	Drama, Romance, Horror
+1 what was the genre of the film Love Meetings?	Documentary
+1 what is the genre for Darling?	Drama, Romance
+1 what genre is Little Accidents in?	Drama
+1 what is the genre of The Man from Beyond?	Mystery
+1 what genre of film is Comet?	Drama, Comedy, Romance
+1 what kind of movie is That's Entertainment! III?	Family, Musical, Documentary
+1 what type of film is Enough Said?	Drama, Comedy, Romance
+1 what was the genre of the film Visiting Hours?	Thriller, Horror
+1 what is the genre of the film The Citadel?	Drama
+1 what kind of film is Lolita?	Drama, Romance
+1 what was the genre of the film The Red Violin?	Drama, Romance, Mystery
+1 what kind of movie is Three of Hearts?	Comedy, Romance
+1 what was the genre of The Good Night?	Drama, Comedy, Fantasy
+1 what kind of film is Take My Eyes?	Drama, Romance
+1 what genre does The Jane Austen Book Club fall under?	Drama, Comedy, Romance
+1 what was the genre of the movie Affair in Trinidad?	Drama, Crime, Film-Noir
+1 what is the genre for Wishful Drinking?	Documentary
+1 what was the genre of the film Hart's War?	Drama, War
+1 what type of movie is About a Boy?	Drama, Comedy, Romance
+1 what was the genre of the movie Enemy?	Thriller, Mystery
+1 what genre of film is Opposite Day?	Comedy, Family
+1 what is the genre of Trial?	Drama
+1 what is the genre of the film Semi-Tough?	Comedy, Romance, Sport
+1 what is the genre of the film Freezer?	Action, Thriller
+1 what type of movie is Mudhoney?	Drama
+1 what is the genre of the movie Drop Zone?	Action, Adventure, Thriller
+1 what genre does Bye Bye Monkey fall under?	Drama, Comedy, Fantasy
+1 what genre of movie is Liar Liar?	Comedy
+1 what was the genre of Tom Jones?	Comedy, Adventure, History
+1 what is the genre of the film The Last Exorcism Part II?	Drama, Thriller, Horror
+1 what film genre is Illegal?	Drama, Crime, Film-Noir
+1 what is the genre of the film Stardust Memories?	Drama, Comedy
+1 what sort of movie is Wish Upon a Star?	Comedy, Fantasy, Family
+1 what kind of movie is Half Light?	Drama, Mystery, Horror
+1 what genre of film is Dead End?	Thriller, Mystery, Horror
+1 what genre does Romance on the High Seas fall under?	Comedy, Romance, Musical
+1 what sort of film is Walk Softly, Stranger?	Drama, Crime, Film-Noir
+1 what was the genre of Owning Mahowny?	Drama, Thriller, Crime
+1 what is the genre for The Wall?	Drama, Fantasy
+1 what sort of movie is Mad Love?	Drama, Biography, History
+1 what is the genre of the movie Taxi 2?	Comedy, Action, Crime
+1 what genre of film is Time Walker?	Sci-Fi, Horror
+1 what was the genre of the film Killer Klowns from Outer Space?	Comedy, Sci-Fi, Horror
+1 what genre is Mr. Moto's Gamble in?	Drama, Crime, Mystery
+1 what sort of movie is Come Blow Your Horn?	Comedy, Musical
+1 what is the genre for A Feast at Midnight?	Drama, Comedy, Family
+1 what was the genre of The Satan Bug?	Thriller, Sci-Fi
+1 what is the genre of the film The Trial?	Drama, Crime, Fantasy
+1 what sort of movie is Carve Her Name with Pride?	Drama, Biography, War
+1 what genre does Cloverfield fall under?	Action, Thriller, Sci-Fi
+1 what kind of movie is Home?	Comedy, Adventure, Animation
+1 what type of film is Night of the Demons?	Horror
+1 what sort of film is Abbott and Costello Go to Mars?	Comedy, Sci-Fi, Fantasy
+1 what was the genre of the movie The Detonator?	Action, Thriller
+1 what sort of movie is The Grand?	Comedy
+1 what kind of movie is State Fair?	Drama, Comedy, Romance
+1 what genre of film is The Story of Marie and Julien?	Drama, Fantasy, Mystery
+1 what was the genre of the movie Sophie's Revenge?	Comedy, Romance
+1 what kind of film is Woman in the Moon?	Drama, Comedy, Romance
+1 what genre is Oklahoma Crude in?	Drama, Comedy, Western
+1 what type of movie is Blue Velvet?	Drama, Crime, Mystery
+1 what is the genre of Ken Park?	Drama
+1 what is the genre of the movie The Signal?	Thriller, Sci-Fi
+1 what type of movie is The Plague Dogs?	Drama, Adventure, Animation
+1 what is the genre of the movie Like Dandelion Dust?	Drama
+1 what is the genre for the movie Salò, or the 120 Days of Sodom?	Drama, War
+1 what is the genre of the film This Sporting Life?	Drama, Sport
+1 what is the genre for the film He Who Gets Slapped?	Drama, Thriller, Romance
+1 what was the genre of the film The Pyx?	Thriller, Crime, Horror
+1 what is the genre for Intimate Relations?	Drama, Comedy
+1 what is the genre of Devil's Pond?	Drama, Thriller
+1 what sort of movie is Nil by Mouth?	Drama
+1 what is the genre for the film Crazy in Alabama?	Drama, Comedy, Crime
+1 what sort of movie is Assault on Precinct 13?	Drama, Action, Crime
+1 what genre of movie is Ghost Son?	Drama, Mystery, Horror
+1 what was the genre of All the Light in the Sky?	Drama
+1 what sort of film is The Birds, the Bees and the Italians?	Comedy
+1 what film genre is Attack on the Iron Coast?	Drama, Action, War
+1 what was the genre of the film King Solomon's Mines?	Action, Adventure, Romance
+1 what is the genre for the movie Passion Fish?	Drama
+1 what kind of movie is The Debut?	Drama, Comedy
+1 what is the genre of Quick Change?	Comedy, Crime
+1 what sort of movie is Paris Blues?	Drama, Romance, Music
+1 what type of movie is Once Upon a Forest?	Drama, Adventure, Animation
+1 what type of film is Beer for My Horses?	Comedy
+1 what type of film is Britannia Hospital?	Comedy
+1 what is the genre of Grindhouse?	Action, Thriller, Horror
+1 what genre does Lucía, Lucía fall under?	Comedy, Adventure, Crime
+1 what genre does Role Models fall under?	Comedy
+1 what is the genre of the film Jindabyne?	Drama, Crime, Mystery
+1 what was the genre of Blue Harvest?	Comedy, Animation
+1 what genre does Esther Kahn fall under?	Drama, Romance
+1 what is the genre for the movie Severe Clear?	Documentary
+1 what genre does For Your Eyes Only fall under?	Action, Adventure, Thriller
+1 what film genre is Good Morning, Night?	Drama
+1 what sort of movie is The Singing Detective?	Comedy, Crime, Musical
+1 what genre is Saving God in?	Drama, Crime
+1 what sort of movie is Passion of Love?	Drama, Romance
+1 what kind of movie is Leaving Normal?	Drama, Comedy
+1 what is the genre of the movie Talent for the Game?	Drama, Sport
+1 what kind of film is 12 Storeys?	Drama, Comedy
+1 what genre of movie is Space Station 76?	Drama, Comedy, Sci-Fi
+1 what type of movie is Breaking Away?	Drama, Comedy, Sport
+1 what was the genre of Palookaville?	Comedy, Crime
+1 what film genre is Chasing Amy?	Drama, Comedy, Romance
+1 what sort of movie is Girl Most Likely?	Comedy
+1 what was the genre of Blood and Wine?	Drama, Thriller, Crime
+1 what sort of movie is Focus?	Drama, Romance
+1 what genre of movie is Evan Almighty?	Comedy, Fantasy, Family
+1 what is the genre of the movie Funny Games?	Drama, Crime, Horror
+1 what type of film is Lisa Picard Is Famous?	Drama, Comedy
+1 what is the genre for the film Sunday Bloody Sunday?	Drama
+1 what is the genre of the movie Beasts of the Southern Wild?	Drama, Fantasy
+1 what is the genre for Santa Claus Conquers the Martians?	Comedy, Sci-Fi, Family
+1 what genre of film is Down Argentine Way?	Drama, Comedy, Musical
+1 what was the genre of Reckless?	Drama, Comedy, Fantasy
+1 what film genre is Dead Again?	Thriller, Fantasy, Mystery
+1 what type of film is DNA?	Action, Sci-Fi, Horror
+1 what kind of movie is Harvey?	Drama, Comedy
+1 what kind of film is Why Me??	Comedy, Action, Adventure
+1 what kind of film is Playing God?	Drama, Thriller, Crime
+1 what is the genre for the movie La Chienne?	Drama
+1 what is the genre of the movie Our Beloved Month of August?	Romance, Music
+1 what is the genre of Randy and the Mob?	Comedy, Crime
+1 what genre of movie is High Art?	Drama, Romance
+1 what sort of movie is Grand Isle?	Drama
+1 what is the genre of Three O'Clock High?	Comedy
+1 what is the genre for the movie The Ghost of Frankenstein?	Drama, Sci-Fi, Horror
+1 what is the genre of the movie The Secret of NIMH?	Drama, Animation, Family
+1 what genre does Just a Gigolo fall under?	Comedy, Romance
+1 what type of film is Young Guns II?	Western
+1 what genre of film is The Return of Frank James?	Crime, History, Western
+1 what sort of film is The Bourne Identity?	Action, Thriller, Mystery
+1 what is the genre for the film Vendetta?	Action, Thriller
+1 what genre of movie is Road, Movie?	Comedy, Adventure, Crime
+1 what is the genre of the movie In Love and War?	Drama, Romance, Biography
+1 what type of movie is Still Alice?	Drama
+1 what was the genre of Wedding Daze?	Comedy, Romance
+1 what kind of film is The Scarlet Empress?	Drama, Romance, History
+1 what genre of film is The Moment of Truth?	Drama
+1 what is the genre for the movie Lucie Aubrac?	Drama, Biography, War
+1 what kind of movie is The Magician?	Drama, Comedy
+1 what was the genre of the movie Confidentially Connie?	Comedy, Family
+1 what genre of film is City Streets?	Drama, Crime, Film-Noir
+1 what genre does Littlerock fall under?	Drama
+1 what genre of film is Soul Plane?	Comedy
+1 what was the genre of Downtown?	Comedy, Action, Crime
+1 what film genre is Eureka?	Drama
+1 what kind of movie is Who's Your Caddy??	Comedy, Sport
+1 what genre of movie is Race with the Devil?	Action, Thriller, Horror
+1 what sort of film is Assassination?	Drama, Action, Thriller
+1 what was the genre of the movie Beetlejuice?	Comedy
+1 what type of film is Small Time Crooks?	Comedy, Crime
+1 what sort of movie is Winning Streak?	Drama, Action
+1 what is the genre for Tribes?	Drama
+1 what is the genre for Sidekicks?	Action, Adventure
+1 what is the genre of the movie Scarface?	Drama, Crime
+1 what genre of movie is The Riddle of the Sands?	Drama, Adventure, Thriller
+1 what kind of movie is City by the Sea?	Drama, Crime, Mystery
+1 what type of movie is Samurai Reincarnation?	Action, Fantasy, Horror
+1 what is the genre for God Help the Girl?	Drama, Romance, Musical
+1 what is the genre of the movie Voodoo Dawn?	Horror
+1 what type of film is Cold Souls?	Drama, Comedy
+1 what is the genre for the film My Dog Skip?	Drama, Family, Sport
+1 what kind of film is House of Dark Shadows?	Drama, Romance, Horror
+1 what genre is Whistling in the Dark in?	Comedy, Mystery
+1 what genre of movie is Happy New Year?	Comedy, Crime, Romance
+1 what is the genre of A Map of the World?	Drama
+1 what was the genre of the film Princess?	Drama, Action, Animation
+1 what sort of film is Minnie and Moskowitz?	Drama, Comedy, Romance
+1 what sort of movie is The Son of No One?	Drama, Thriller, Crime
+1 what is the genre for Bronco Billy?	Comedy, Action, Adventure
+1 what is the genre of Night and the City?	Drama, Comedy, Crime
+1 what was the genre of the movie Student of the Year?	Comedy, Romance
+1 what genre of film is Swimming with Sharks?	Comedy, Crime
+1 what genre does Any Questions for Ben? fall under?	Comedy, Romance
+1 what is the genre for Son of Dracula?	Horror
+1 what is the genre of the movie Highly Dangerous?	Action, Thriller
+1 what is the genre of the movie Radio Flyer?	Drama
+1 what is the genre for Gunbuster?	Drama, Action, Animation
+1 what sort of film is Madea Goes to Jail?	Drama, Comedy, Crime
+1 what is the genre for the film Topaze?	Comedy
+1 what genre of film is A Date with Judy?	Comedy, Romance, Musical
+1 what film genre is French Connection II?	Drama, Action, Crime
+1 what is the genre of the film A Case of You?	Comedy, Romance
+1 what genre of film is Charlie Chan at Treasure Island?	Comedy, Crime, Horror
+1 what genre does The Rack fall under?	Drama, War
+1 what is the genre for Mega Python vs. Gatoroid?	Action, Sci-Fi, Horror
+1 what was the genre of the film Bad Boys?	Drama, Thriller, Crime
+1 what was the genre of Mezzo Forte?	Comedy, Crime, Animation
+1 what is the genre of A Dog of Flanders?	Drama, Family
+1 what was the genre of Furry Vengeance?	Comedy, Family
+1 what is the genre of the film On Moonlight Bay?	Comedy, Romance, Musical
+1 what type of movie is The Master?	Drama
+1 what was the genre of the film Crimson Tide?	Drama, Action, Thriller
+1 what is the genre of the film The Last Airbender?	Action, Adventure, Family
+1 what was the genre of the movie Autopsy?	Thriller, Mystery, Horror
+1 what genre of film is Scent of a Woman?	Drama
+1 what film genre is Cockfighter?	Drama
+1 what is the genre of The Little Foxes?	Drama, Romance
+1 what was the genre of the film Ride Lonesome?	Drama, Western
+1 what sort of film is Cockneys vs Zombies?	Comedy, Horror
+1 what type of movie is Fear of a Black Hat?	Comedy, Music
+1 what was the genre of Good Evening, Mr. Wallenberg?	Drama, Biography, War
+1 what kind of movie is Sidewalks of London?	Comedy
+1 what is the genre for the film The Next Karate Kid?	Drama, Action, Family
+1 what film genre is Mammoth?	Drama
+1 what is the genre of the film American Friends?	Drama, Comedy
+1 what genre of film is Letter Never Sent?	Drama, Adventure, Romance
+1 what is the genre of The White Sheik?	Drama, Comedy
+1 what kind of film is Dark Matter?	Drama
+1 what is the genre for the movie Where's Poppa??	Comedy
+1 what is the genre for the movie I Was an Adventuress?	Drama, Comedy, Crime
+1 what is the genre for the film Bellissima?	Drama, Comedy
+1 what was the genre of the film Enchanted?	Comedy, Fantasy, Family
+1 what was the genre of Restless?	Drama, Romance
+1 what film genre is Cleopatra?	Drama, Comedy
+1 what is the genre of the film I Don't Want to Be a Man?	Comedy, Romance
+1 what is the genre of The Faculty?	Sci-Fi, Mystery, Horror
+1 what is the genre for the movie Alex Cross?	Action, Crime, Mystery
+1 what type of film is The Chair?	Drama, Thriller, Horror
+1 what kind of film is Canvas?	Drama
+1 what film genre is Cotton Comes to Harlem?	Comedy, Action
+1 what genre is Deep Blue in?	Documentary
+1 what was the genre of the movie The Tortured?	Thriller, Horror
+1 what genre of film is Delhi Belly?	Drama, Comedy, Crime
+1 what genre of film is Nightfall?	Drama, Crime, Film-Noir
+1 what sort of movie is The Grand Maneuver?	Drama, Comedy, Romance
+1 what type of film is Winter's Bone?	Drama
+1 what film genre is Crimes of the Heart?	Drama, Comedy
+1 what was the genre of the movie Mallrats?	Comedy, Romance
+1 what kind of movie is About Elly?	Drama, Mystery
+1 what was the genre of the film The God of Cookery?	Comedy, Action
+1 what is the genre for the movie Hellboy?	Action, Sci-Fi, Fantasy
+1 what is the genre of Chasers?	Comedy
+1 what genre of film is Bounty Killer?	Action, Thriller, Sci-Fi
+1 what genre of movie is Titan A.E.?	Action, Adventure, Animation
+1 what kind of movie is Can't Help Singing?	Western, Musical
+1 what type of movie is Rescue Dawn?	Drama, Adventure, Biography
+1 what sort of movie is Mad City?	Drama, Thriller, Crime
+1 what is the genre for the film Body Count?	Drama, Thriller, Crime
+1 what type of film is Animal House?	Comedy
+1 what is the genre for The Rugrats Movie?	Comedy, Adventure, Animation
+1 what genre of film is Creature?	Horror
+1 what type of movie is The Rebel?	Drama, Action, Romance
+1 what is the genre for Dr. Jekyll and Mr. Hyde?	Sci-Fi, Horror
+1 what was the genre of Cocoon?	Sci-Fi
+1 what was the genre of the movie Mrs Henderson Presents?	Drama, Comedy, Music
+1 what genre of movie is National Treasure?	Action, Adventure, Mystery
+1 what type of movie is The Reincarnation of Peter Proud?	Mystery, Horror
+1 what genre does Wife vs. Secretary fall under?	Drama, Comedy, Romance
+1 what is the genre for the film Rebirth of Mothra?	Action, Sci-Fi, Fantasy
+1 what type of movie is Summer Storm?	Drama, Comedy, Romance
+1 what was the genre of the film Love Walked In?	Drama, Thriller
+1 what genre is Vera Cruz in?	Adventure, Western
+1 what genre is The Boxer in?	Drama, Romance, Sport
+1 what genre of film is Bonnie and Clyde?	Drama, Crime, Biography
+1 what is the genre of Sweet Smell of Success?	Drama, Film-Noir
+1 what genre of movie is How High?	Comedy
+1 what genre of movie is Undercover Blues?	Comedy, Crime
+1 what kind of movie is V/H/S?	Thriller, Horror
+1 what genre of movie is War of the Worlds?	Adventure, Thriller, Sci-Fi
+1 what is the genre for the film Rebellion?	Drama, Action, History
+1 what is the genre for the movie The Manchurian Candidate?	Drama, Sci-Fi, Mystery
+1 what kind of film is Gosford Park?	Drama, Mystery
+1 what genre of movie is The Vanishing American?	Western
+1 what sort of movie is Volunteers?	Comedy
+1 what is the genre for the film Penitentiary?	Drama, Crime, Sport
+1 what is the genre of The Harry Hill Movie?	Comedy, Musical
+1 what is the genre for the movie Black Death?	Drama, Action, Horror
+1 what is the genre for the movie The Fighter?	Drama, Biography, Sport
+1 what is the genre of Hans Christian Andersen?	Biography, Family, Musical
+1 what type of movie is Latter Days?	Drama, Comedy, Romance
+1 what genre of movie is Comrade X?	Comedy, Romance
+1 what was the genre of the film César and Rosalie?	Drama, Romance
+1 what kind of film is Sliver?	Drama, Thriller
+1 what is the genre for Visions of Light?	History, Documentary
+1 what is the genre of The Sunshine Boys?	Comedy
+1 what was the genre of Ludwig?	Drama, Biography, History
+1 what is the genre for the film The Back-up Plan?	Comedy, Romance
+1 what is the genre of the movie Where the Sidewalk Ends?	Drama, Crime, Film-Noir
+1 what genre of film is Raiders of the Lost Ark?	Action, Adventure
+1 what genre of movie is Zoom?	Action, Adventure, Family
+1 what is the genre of the film Captain January?	Drama
+1 what kind of movie is Faithless?	Drama, Romance
+1 what sort of film is Down by Law?	Drama, Comedy, Crime
+1 what was the genre of the movie Karate-Robo Zaborgar?	Action, Sci-Fi
+1 what genre of film is Liberal Arts?	Drama, Comedy
+1 what genre of movie is Summer Lovers?	Drama, Comedy, Romance
+1 what sort of movie is Designing Woman?	Comedy, Romance
+1 what kind of movie is Sideways?	Drama, Comedy, Romance
+1 what is the genre for the film The Trotsky?	Comedy
+1 what genre does The Last Horror Movie fall under?	Thriller, Horror
+1 what was the genre of The Silencers?	Comedy, Action, Adventure
+1 what kind of movie is Son of a Gun?	Drama, Action, Crime
+1 what is the genre for the movie Never on Sunday?	Drama, Comedy, Romance
+1 what genre of movie is The Ghost and Mrs. Muir?	Drama, Fantasy, Mystery
+1 what is the genre of the film Willard?	Sci-Fi, Horror
+1 what genre of movie is The Whistleblower?	Action, Crime, Biography
+1 what is the genre of the film Night at the Museum?	Comedy, Action, Adventure
+1 what sort of movie is Lipstick?	Drama, Thriller
+1 what is the genre of The Net?	Drama, Action, Crime
+1 what genre is Unthinkable in?	Drama, Thriller
+1 what is the genre for Mail Order Bride?	Comedy, Western
+1 what is the genre for The Bourne Legacy?	Action, Adventure, Mystery
+1 what is the genre for Beauty and the Beast?	Romance, Fantasy
+1 what is the genre for the film Pool of London?	Drama, Crime
+1 what was the genre of Purple Noon?	Thriller, Crime
+1 what genre of film is The Private Life of Don Juan?	Drama, Comedy, Romance
+1 what film genre is Speedy?	Comedy, Action, Family
+1 what was the genre of the film Next Stop, Greenwich Village?	Drama, Comedy
+1 what genre is 100 Girls in?	Comedy, Romance
+1 what genre of movie is The Rookie?	Drama, Family, Sport
+1 what genre does Carmen Jones fall under?	Drama, Romance, Musical
+1 what sort of movie is Kiss Me, Guido?	Comedy
+1 what genre of movie is Oh, Susanna!?	Romance, Western
+1 what type of movie is Lethal Weapon 2?	Action, Thriller, Crime
+1 what type of film is The Arena?	Action, Adventure
+1 what is the genre for the film Waxworks?	Fantasy, Horror
+1 what is the genre for the movie Mirage?	Thriller, Mystery
+1 what kind of movie is The Shepherd of the Hills?	Drama, Adventure, Western
+1 what film genre is Coffy?	Action, Thriller, Crime
+1 what sort of film is Harvey?	Fantasy
+1 what is the genre for the movie I Bury the Living?	Thriller, Horror, Film-Noir
+1 what genre does The Lusty Men fall under?	Drama, Action, Western
+1 what is the genre of the movie Something Wicked This Way Comes?	Drama, Fantasy, Family
+1 what type of movie is Bewitched?	Comedy, Romance, Fantasy
+1 what is the genre for the film Blood on the Sun?	Drama, Thriller, Romance
+1 what genre does Nights and Weekends fall under?	Drama
+1 what kind of film is Three Monkeys?	Drama
+1 what was the genre of the film Black God, White Devil?	Drama, Adventure, Crime
+1 what genre of film is Ali G Indahouse?	Comedy
+1 what was the genre of the movie Eternally Yours?	Drama, Comedy
+1 what is the genre of Children of Paradise?	Drama, Romance
+1 what is the genre of the movie 23 Paces to Baker Street?	Thriller, Mystery
+1 what film genre is Disco Godfather?	Drama, Action, Crime
+1 what kind of film is Out for Justice?	Drama, Action, Crime
+1 what was the genre of the movie Milk?	Drama, Biography, History
+1 what film genre is How to Make Love to a Woman?	Comedy
+1 what genre does The Private Eyes fall under?	Comedy, Mystery
+1 what genre does The Square fall under?	Drama, Thriller, Crime
+1 what was the genre of Dear John?	Drama, Romance, War
+1 what film genre is The Believers?	Drama, Crime, Horror
+1 what genre is Gone with the Wind in?	Drama, Romance, War
+1 what is the genre of the film Scorned?	Thriller
+1 what was the genre of the film Sabrina?	Drama, Comedy, Romance
+1 what was the genre of the film Nirvana?	Drama, Thriller, Sci-Fi
+1 what is the genre of the movie The Godfather?	Drama, Crime
+1 what is the genre of Wild Horses?	Drama, Comedy, Romance
+1 what genre of film is Trust?	Drama, Thriller, Crime
+1 what was the genre of the film Jaws 2?	Thriller, Horror
+1 what is the genre of the film Jack the Giant Slayer?	Adventure, Fantasy
+1 what was the genre of Errors of the Human Body?	Drama, Thriller, Sci-Fi
+1 what is the genre for Irma la Douce?	Comedy, Romance
+1 what is the genre for the film Memories of Me?	Drama, Comedy
+1 what is the genre of The SpongeBob SquarePants Movie?	Comedy, Adventure, Animation
+1 what type of movie is In a Lonely Place?	Drama, Mystery, Film-Noir
+1 what is the genre of the film Wings of Courage?	Adventure, Romance, Short
+1 what genre of movie is Teenage Mutant Ninja Turtles?	Comedy, Action, Adventure
+1 what type of movie is Sound of My Voice?	Drama, Sci-Fi, Mystery
+1 what genre is The Raid in?	Drama, Action, War
+1 what type of film is My Best Friend?	Comedy
+1 what genre of film is Beginning of the End?	Sci-Fi
+1 what is the genre of The Legend of Suriyothai?	Drama, Action, Adventure
+1 what is the genre of the movie Fort Bliss?	Drama, War
+1 what kind of film is Cape Fear?	Drama, Thriller
+1 what is the genre of the film First Monday in October?	Drama, Comedy
+1 what is the genre of Year of the Dog?	Drama, Comedy
+1 what was the genre of the movie Hero?	Action, Adventure, History
+1 what genre of movie is Johnny Mad Dog?	Drama, War
+1 what genre is Le Boucher in?	Thriller
+1 what is the genre for the film Saturday the 14th?	Comedy, Fantasy, Horror
+1 what was the genre of A Room with a View?	Drama, Romance
+1 what type of film is Scorpio Rising?	Short
+1 what film genre is Happy Accidents?	Comedy, Romance
+1 what type of film is I'm Not Scared?	Drama, Crime, Mystery
+1 what genre is Played in?	Thriller, Crime
+1 what was the genre of Explorers?	Comedy, Adventure, Family
+1 what kind of movie is Two Rode Together?	Western
+1 what kind of film is Cesar Chavez?	Biography
+1 what is the genre for The Secret of Moonacre?	Adventure, Fantasy, Family
+1 what genre is The Perfume of the Lady in Black in?	Thriller, Mystery, Horror
+1 what type of movie is Ishtar?	Comedy, Action, Adventure
+1 what is the genre of the film The Man Who Saw Tomorrow?	Drama, Biography, History
+1 what kind of film is These Three?	Drama, Romance
+1 what kind of film is Lost Christmas?	Drama
+1 what sort of film is Very Annie Mary?	Comedy, Musical
+1 what genre is In Bloom in?	Drama
+1 what is the genre of the movie Any Wednesday?	Comedy
+1 what type of movie is Gentlemen Broncos?	Comedy, Adventure
+1 what type of movie is The Last Flight of Noah's Ark?	Adventure, Family
+1 what genre of movie is The Prestige?	Drama, Thriller, Mystery
+1 what film genre is Soap Girl?	Drama, Romance
+1 what was the genre of the movie The Chapman Report?	Drama, Romance
+1 what was the genre of the movie Pawn?	Thriller, Crime, Mystery
+1 what is the genre of Ender's Game?	Action, Sci-Fi
+1 what kind of movie is Top Gun?	Drama, Action, Romance
+1 what sort of movie is Day Watch?	Action, Thriller, Fantasy
+1 what sort of movie is Kamikaze Girls?	Comedy
+1 what was the genre of the movie Do the Right Thing?	Drama, Comedy, Crime
+1 what type of film is Dirty Filthy Love?	Drama, Romance
+1 what type of movie is Once Upon a Time in China III?	Action, Adventure, Biography
+1 what type of film is Me You Them?	Drama, Comedy, Romance
+1 what is the genre of the film The Body Snatcher?	Thriller, Horror
+1 what type of movie is Donovan's Brain?	Sci-Fi, Horror
+1 what genre of film is Saving General Yang?	Adventure, History
+1 what genre is Undisputed in?	Drama, Action, Crime
+1 what is the genre for the film Beauty and the Beast?	Romance, Fantasy
+1 what type of movie is The Incredible Petrified World?	Adventure, Sci-Fi
+1 what kind of movie is Electric Dragon 80.000 V?	Drama, Sci-Fi, Fantasy
+1 what genre is That Lady in Ermine in?	Comedy, Fantasy, Musical
+1 what was the genre of the film Éxtasis?	Drama
+1 what type of film is Monsieur Verdoux?	Drama, Comedy, Crime
+1 what was the genre of A Circle of Deception?	Drama, War
+1 what sort of film is Desk Set?	Comedy, Romance
+1 what kind of movie is Jessabelle?	Thriller, Horror
+1 what kind of film is Snakes on a Plane?	Action, Thriller
+1 what type of film is Murphy's Romance?	Drama, Comedy, Romance
+1 what is the genre for Godzilla Raids Again?	Action, Adventure, Horror
+1 what was the genre of the film Non pensarci?	Drama, Comedy
+1 what genre is The Spiral Staircase in?	Thriller, Mystery
+1 what genre of film is Laura?	Romance, Mystery, Film-Noir
+1 what type of movie is Teen Witch?	Comedy, Romance, Fantasy
+1 what sort of film is Agent Vinod?	Action
+1 what sort of film is Nights in Rodanthe?	Drama, Romance
+1 what film genre is Denise Calls Up?	Comedy
+1 what was the genre of the movie Staying Alive?	Drama, Romance, Music
+1 what film genre is Westfront 1918?	Drama, Romance, War
+1 what genre does Last Life in the Universe fall under?	Drama, Comedy, Romance
+1 what kind of movie is Elevator?	Thriller
+1 what film genre is The Cemetery Club?	Comedy
+1 what film genre is White Sands?	Drama, Action, Crime
+1 what genre of movie is Nightmares?	Sci-Fi, Horror
+1 what kind of movie is I Am Cuba?	Drama, War, Music
+1 what is the genre for the movie Peyton Place?	Drama, Romance
+1 what kind of movie is The James Dean Story?	Biography, Documentary
+1 what is the genre for the movie Rawhead Rex?	Fantasy, Mystery, Horror
+1 what was the genre of the film The Great Ziegfeld?	Drama, Biography, Musical
+1 what was the genre of the film Miami Rhapsody?	Comedy
+1 what kind of movie is The Ward?	Thriller, Horror
+1 what was the genre of the film What's Up, Doc??	Comedy, Romance
+1 what kind of movie is A Man and a Woman?	Drama, Romance
+1 what is the genre for the film The First Wives Club?	Comedy
+1 what genre of film is Elephant Boy?	Drama, Adventure, Family
+1 what is the genre of Betrayed?	Drama, Action, Romance
+1 what type of film is Wing Commander?	Action, Adventure, Sci-Fi
+1 what genre of movie is The Sex and Violence Family Hour?	Comedy
+1 what was the genre of the movie Excision?	Drama, Horror
+1 what genre is The Cat in the Hat in?	Animation, Family, Short
+1 what sort of movie is Page Eight?	Drama, Thriller, Mystery
+1 what genre of film is Invasion U.S.A.?	Action, Thriller
+1 what is the genre of the film Prince of Foxes?	Drama, Adventure, History
+1 what genre does Thoroughbreds Don't Cry fall under?	Drama, Comedy, Music
+1 what film genre is Before the Fall?	Drama, War, Sport
+1 what genre does Venom fall under?	Thriller, Horror
+1 what was the genre of the movie Kenny Begins?	Comedy, Action, Sci-Fi
+1 what kind of movie is Man Facing Southeast?	Drama, Sci-Fi
+1 what is the genre of Before Sunrise?	Drama, Romance
+1 what is the genre of the movie The Clique?	Drama, Comedy, Family
+1 what was the genre of the movie The Testament of Dr. Mabuse?	Crime, Horror
+1 what was the genre of the film King of Jazz?	Animation, Music
+1 what is the genre for the film Zabriskie Point?	Drama
+1 what genre is La journée de la jupe in?	Drama
+1 what sort of movie is The Guest?	Action, Thriller, Mystery
+1 what kind of film is For the Love of Benji?	Drama, Comedy, Adventure
+1 what is the genre for the film The Best Man?	Drama
+1 what sort of film is Shane?	Drama, Romance, Western
+1 what was the genre of the film Don't Go Near the Water?	Comedy, Adventure, Romance
+1 what was the genre of the movie Test Pilot?	Drama, Romance
+1 what was the genre of 13 Tzameti?	Drama, Thriller, Crime
+1 what sort of movie is Darkest Night?	Drama, Thriller, Horror
+1 what sort of movie is Pleasure Party?	Drama
+1 what is the genre of the movie The Sentinel?	Horror
+1 what genre of film is The Unholy Three?	Drama, Crime, Romance
+1 what genre does Caged Heat fall under?	Drama, Action
+1 what was the genre of Stoned?	Drama, Biography, Music
+1 what kind of film is Innocence?	Drama, Mystery
+1 what genre does Angel Dog fall under?	Drama, Family
+1 what type of film is The Day After?	Drama, Sci-Fi
+1 what kind of film is A Lesson Before Dying?	Drama
+1 what is the genre of the movie Butterfly Kiss?	Drama, Comedy, Thriller
+1 what is the genre of the movie Woman Thou Art Loosed?	Drama
+1 what type of movie is Sands of Iwo Jima?	Drama, Action, War
+1 what genre does That Obscure Object of Desire fall under?	Drama, Comedy, Romance
+1 what type of film is Dahmer?	Drama, Crime, Biography
+1 what was the genre of the movie No Looking Back?	Drama, Comedy, Romance
+1 what sort of film is The Trials of Oscar Wilde?	Drama, Biography, History
+1 what is the genre of the movie Inglourious Basterds?	Drama, Adventure, War
+1 what is the genre for the film Match Point?	Drama, Thriller, Romance
+1 what kind of movie is Night of the Living Dead 3D?	Horror
+1 what is the genre of the movie Howl?	Drama, Biography
+1 what is the genre for Ex-Lady?	Drama, Comedy
+1 what type of film is Two Drifters?	Drama
+1 what type of movie is The Fly II?	Sci-Fi, Horror
+1 what sort of movie is Clifford?	Comedy
+1 what is the genre for the movie Radio Free Albemuth?	Drama, Sci-Fi
+1 what genre is As Cool as I Am in?	Drama, Comedy
+1 what genre is Land of the Lost in?	Comedy, Adventure, Sci-Fi
+1 what genre of film is Tattoo?	Drama, Thriller, Horror
+1 what genre of movie is Martial Arts of Shaolin?	Drama, Action
+1 what type of movie is Flood?	Drama, Action, Thriller
+1 what is the genre for the film From Here to Eternity?	Drama, Romance, War
+1 what is the genre of the film Who Killed the Electric Car??	Documentary
+1 what was the genre of the movie Oblivion?	Action, Adventure, Mystery
+1 what kind of movie is Addams Family Values?	Comedy, Fantasy
+1 what film genre is Dr. Goldfoot and the Girl Bombs?	Comedy, Adventure, Sci-Fi
+1 what film genre is Girls in Prison?	Drama, Thriller, Crime
+1 what is the genre of the film Date and Switch?	Comedy
+1 what genre is Whatever It Takes in?	Drama, Comedy, Romance
+1 what was the genre of the movie Casper?	Comedy, Fantasy, Family
+1 what type of movie is The Crush?	Drama, Thriller, Romance
+1 what genre is It's Christmastime Again, Charlie Brown in?	Comedy, Animation, Short
+1 what genre does Benji fall under?	Adventure, Romance, Family
+1 what is the genre for the movie Dangerous Game?	Drama
+1 what genre of film is Day and Night?	Drama
+1 what was the genre of the film The Barber of Siberia?	Drama, Comedy, Romance
+1 what film genre is Raising Victor Vargas?	Drama, Romance
+1 what is the genre of the movie Proof?	Drama, Mystery
+1 what type of film is Suicide Kings?	Drama, Comedy, Mystery
+1 what sort of movie is Christopher Strong?	Drama
+1 what is the genre for the movie The Redhead from Wyoming?	Western
+1 what was the genre of the movie Crime of Passion?	Drama, Crime, Film-Noir
+1 what sort of film is Battle of the Bulge?	Drama, Action, War
+1 what was the genre of Ride Along?	Comedy, Action
+1 what genre of movie is The Man Who Played God?	Drama, Romance
+1 what was the genre of the film Born Reckless?	Action, Adventure, Crime
+1 what was the genre of the movie The Switch?	Drama, Comedy, Romance
+1 what genre of film is None But the Brave?	Drama, War
+1 what film genre is Something Wild?	Drama
+1 what is the genre for the movie The Forbidden Door?	Thriller, Mystery, Horror
+1 what kind of movie is Liliom?	Drama, Fantasy
+1 what is the genre of The Chocolate Soldier?	Comedy, Family, Musical
+1 what kind of movie is Red Corner?	Drama, Action, Crime
+1 what is the genre of Paris, je t'aime?	Drama, Comedy, Romance
+1 what was the genre of Our Fathers?	Drama
+1 what is the genre of the film Edge of Darkness?	Drama, War
+1 what was the genre of A Resurrection?	Thriller, Horror
+1 what was the genre of the movie Bear's Kiss?	Drama, Romance, Fantasy
+1 what genre of film is Snake Eyes?	Drama, Action, Crime
+1 what kind of movie is The Bridge of San Luis Rey?	Drama, Romance
+1 what genre does A Cat in Paris fall under?	Crime, Animation, Family
+1 what is the genre for the film Fanny?	Drama, Comedy
+1 what was the genre of the movie Melissa P.?	Drama
+1 what is the genre of Victim?	Drama, Crime
+1 what genre of movie is Bullet in the Head?	Drama, Action, Crime
+1 what was the genre of The Brothers Rico?	Drama, Crime, Film-Noir
+1 what is the genre of Flash Gordon's Trip to Mars?	Action, Adventure, Sci-Fi
+1 what is the genre for the movie Double or Nothing?	Comedy, Romance, Musical
+1 what is the genre of the movie Tall Story?	Comedy, Sport
+1 what is the genre for the movie Better Than Chocolate?	Drama, Comedy, Romance
+1 what kind of movie is Stalker?	Drama, Sci-Fi
+1 what kind of movie is The First Nudie Musical?	Comedy, Musical
+1 what is the genre of the film The Horse Whisperer?	Drama, Romance, Western
+1 what is the genre of the film The Devil Wears Prada?	Drama, Comedy, Romance
+1 what is the genre of the movie Sharpay's Fabulous Adventure?	Drama, Comedy, Family
+1 what genre of film is Sister My Sister?	Drama, Thriller
+1 what genre is Dracula Has Risen from the Grave in?	Drama, Fantasy, Horror
+1 what kind of movie is Employees' Entrance?	Drama, Romance
+1 what is the genre for When Dinosaurs Ruled the Earth?	Adventure, Sci-Fi, Fantasy
+1 what kind of movie is As Above, So Below?	Thriller, Mystery, Horror
+1 what sort of movie is Lisbon Story?	Drama, Music
+1 what is the genre for the movie Memoirs of an Invisible Man?	Comedy, Romance, Sci-Fi
+1 what film genre is The Story of Us?	Drama, Comedy, Romance
+1 what is the genre of Plastic?	Comedy, Action, Crime
+1 what genre of movie is Songcatcher?	Drama, Music
+1 what sort of movie is 44 Inch Chest?	Drama, Crime
+1 what genre does Agnes of God fall under?	Drama, Thriller, Mystery
+1 what was the genre of the movie A Christmas Carol?	Drama, Fantasy, Family
+1 what was the genre of the film The Gang's All Here?	Comedy, Romance, Musical
+1 what is the genre for The Picture of Dorian Gray?	Drama, Fantasy, Horror
+1 what kind of film is Chill?	Thriller, Horror
+1 what type of movie is Speechless?	Comedy, Romance
+1 what genre of movie is In America?	Drama
+1 what is the genre of the movie The Beast from 20,000 Fathoms?	Adventure, Sci-Fi, Horror
+1 what type of film is The Oak?	Drama, Comedy
+1 what was the genre of the film No Rest for the Wicked?	Thriller
+1 what film genre is Class Act?	Comedy
+1 what film genre is Baby Take a Bow?	Drama, Comedy, Family
+1 what genre of movie is The Mighty Macs?	Drama, Sport
+1 what was the genre of The Mummy's Shroud?	Horror
+1 what is the genre for the film Punishment Park?	Drama, Thriller
+1 what type of film is The Rise of Catherine the Great?	Drama, Biography
+1 what is the genre of the film True Lies?	Comedy, Action, Thriller
+1 what kind of movie is Day of the Animals?	Thriller, Sci-Fi, Horror
+1 what film genre is Dead Bang?	Drama, Action, Crime
+1 what was the genre of the movie King of Thorn?	Adventure, Horror, Animation
+1 what film genre is You Ain't Seen Nothin' Yet?	Drama
+1 what sort of film is The Whole Wide World?	Drama, Romance, Biography
+1 what was the genre of The Secret Lives of Dentists?	Drama
+1 what genre of movie is Paradise, Hawaiian Style?	Comedy, Musical
+1 what is the genre for the film Electrick Children?	Drama
+1 what sort of movie is The Spanish Prisoner?	Drama, Thriller, Mystery
+1 what genre of film is The Adventures of Pinocchio?	Adventure, Fantasy, Family
+1 what is the genre of the movie The Shop on Main Street?	Drama
+1 what sort of movie is It Came from Hollywood?	Comedy, Documentary
+1 what was the genre of the film Corpse Bride?	Fantasy, Animation, Musical
+1 what is the genre for M. Butterfly?	Drama, Romance
+1 what genre of movie is Cousins?	Comedy, Romance
+1 what sort of movie is Saving Grace?	Comedy, Crime
+1 what type of movie is The Philadelphia Story?	Comedy, Romance
+1 what type of film is Incendies?	Drama, Mystery, War
+1 what was the genre of the film The Glass Menagerie?	Drama
+1 what is the genre for the film White Water Summer?	Drama, Adventure
+1 what is the genre of the film Happy Endings?	Drama, Comedy, Music
+1 what sort of movie is A Monster in Paris?	Comedy, Adventure, Animation
+1 what sort of film is The Last September?	Drama, Romance, History
+1 what film genre is 7 Faces of Dr. Lao?	Fantasy, Mystery, Western
+1 what genre is Black Rain in?	Action, Thriller, Crime
+1 what is the genre for the movie American Son?	Drama, Romance, War
+1 what was the genre of the movie Edison, the Man?	Drama, Biography
+1 what film genre is Callan?	Thriller
+1 what type of movie is The Cheerleaders?	Comedy, Sport
+1 what genre is The We and the I in?	Drama
+1 what was the genre of the movie Ghost World?	Drama, Comedy
+1 what is the genre for the film The Clairvoyant?	Drama, Romance, Mystery
+1 what is the genre for Klimt?	Drama, Biography
+1 what genre does Examined Life fall under?	Documentary
+1 what is the genre for The Room?	Drama
+1 what genre of movie is Cleanskin?	Drama, Thriller, Crime
+1 what is the genre for Kinatay?	Drama, Crime, Horror
+1 what genre of movie is The Draughtsman's Contract?	Drama, Comedy, Mystery
+1 what was the genre of the movie You Got Served?	Drama, Music
+1 what sort of film is The Kid Stays in the Picture?	Biography, Documentary
+1 what is the genre of the movie Begin Again?	Drama, Music
+1 what is the genre for Sunshine?	Adventure, Thriller, Sci-Fi
+1 what is the genre for the film RocketMan?	Comedy, Sci-Fi, Family
+1 what was the genre of Grand Piano?	Thriller, Mystery, Music
+1 what genre does The Quatermass Xperiment fall under?	Sci-Fi, Horror
+1 what genre of movie is Silent Fall?	Drama, Thriller, Mystery
+1 what kind of film is Black Pond?	Drama, Comedy, Thriller
+1 what kind of film is The Parallax View?	Thriller
+1 what is the genre of the film A Summer Place?	Drama, Romance
+1 what sort of movie is A Marine Story?	Drama
+1 what kind of movie is Jade?	Drama, Action, Crime
+1 what is the genre of the film Family Law?	Drama, Comedy
+1 what is the genre of The Shipping News?	Drama, Romance
+1 what is the genre of The Other Boleyn Girl?	Drama, Biography, History
+1 what kind of film is Cube Zero?	Thriller, Sci-Fi, Mystery
+1 what was the genre of the film The Crow?	Action, Fantasy
+1 what genre of film is Stoker?	Drama, Thriller, Mystery
+1 what type of movie is Sadako 3D?	Horror
+1 what was the genre of Mondo?	Drama
+1 what genre of film is The Doll Squad?	Action, Adventure, Thriller
+1 what is the genre of the movie The Haunting?	Fantasy, Mystery, Horror
+1 what sort of movie is The January Man?	Action, Crime, Mystery
+1 what genre is Boom! in?	Drama, Thriller
+1 what kind of movie is Bullet Ballet?	Drama, Crime, Sci-Fi
+1 what genre of movie is Ploy?	Drama
+1 what genre does Turn the River fall under?	Drama
+1 what was the genre of Guernica?	Short
+1 what was the genre of the film Billy Budd?	Drama, Adventure, History
+1 what was the genre of The First Deadly Sin?	Thriller
+1 what is the genre for the movie Legally Blonde?	Comedy, Romance
+1 what is the genre for the movie Domino?	Action, Crime, Biography
+1 what genre of movie is Tracers?	Action
+1 what was the genre of the film Air America?	Comedy, Action
+1 what film genre is Save the Date?	Comedy, Romance
+1 what was the genre of the movie Friends with Benefits?	Comedy, Romance
+1 what sort of film is Inferno?	Mystery, Horror
+1 what type of movie is The Smiling Lieutenant?	Comedy, Romance, Musical
+1 what genre of movie is Open Water?	Drama, Horror, Biography
+1 what is the genre of The Invisible Man?	Drama, Sci-Fi, Horror
+1 what is the genre of the movie Labyrinth?	Adventure, Fantasy, Family
+1 what kind of film is Son of the Bride?	Drama, Comedy
+1 what genre does Goodbye Charlie fall under?	Comedy, Romance, Fantasy
+1 what genre of film is Vampires Suck?	Comedy
+1 what kind of film is Arizona?	Western
+1 what is the genre of the film Becky Sharp?	Drama, Romance, War
+1 what genre of film is The Tall Man?	Drama, Crime, Horror
+1 what was the genre of the film Hot Saturday?	Drama, Romance
+1 what is the genre for the film Bitter Victory?	Drama, War
+1 what was the genre of Good News?	Comedy, Romance, Musical
+1 what sort of film is Best Man Down?	Drama, Comedy
+1 what type of film is Querelle?	Drama
+1 what was the genre of the movie Tekken?	Drama, Action, Crime
+1 what was the genre of the film A Cinderella Story?	Comedy, Romance, Family
+1 what sort of film is The Trouble with Harry?	Comedy, Mystery
+1 what sort of movie is Start the Revolution Without Me?	Comedy, History
+1 what was the genre of the movie Time Out?	Drama
+1 what sort of film is Lourdes?	Drama
+1 what kind of movie is The Man with the Golden Arm?	Drama
+1 what genre is The Front Line in?	Drama, Thriller
+1 what type of film is Sleepwalking?	Drama
+1 what is the genre for Comanche Territory?	Drama, War
+1 what is the genre of Kind Lady?	Drama, Thriller, Crime
+1 what is the genre of the film Reds?	Drama, Biography, History
+1 what is the genre of the movie Gamer?	Action, Thriller, Sci-Fi
+1 what genre is Curly Top in?	Romance, Family, Musical
+1 what kind of film is Bandit Queen?	Drama, Crime, Biography
+1 what type of film is Secret Window?	Thriller, Mystery
+1 what type of film is Clouds of Sils Maria?	Drama
+1 what sort of film is It Could Happen to You?	Drama, Comedy, Romance
+1 what is the genre of Valhalla?	Adventure, Animation, Family
+1 what was the genre of Girl Play?	Comedy
+1 what type of film is National Security?	Comedy, Action, Crime
+1 what kind of film is 48 Shades?	Drama, Comedy
+1 what is the genre of the movie White Heat?	Drama, Crime, Film-Noir
+1 what kind of film is The Other?	Drama, Mystery, Horror
+1 what film genre is The Garden of Words?	Drama, Romance, Animation
+1 what genre does The Countess fall under?	Drama, Biography, History
+1 what is the genre of the movie The Positively True Adventures of the Alleged Texas Cheerleader-Murdering Mom?	Comedy, Thriller, Biography
+1 what is the genre for Son of Paleface?	Comedy, Romance, Western
+1 what is the genre of the film Janie Jones?	Drama, Music
+1 what is the genre of the film Efectos secundarios?	Comedy
+1 what kind of film is Back to School with Franklin?	Family
+1 what kind of film is The Hit List?	Action, Thriller
+1 what was the genre of the movie Danton?	Drama, Biography, History
+1 what is the genre of the film Walker?	Drama, Biography, History
+1 what kind of movie is Long John Silver?	Drama, Action, Adventure
+1 what is the genre of the movie The Amityville Curse?	Horror
+1 what type of movie is Surviving Progress?	Documentary
+1 what is the genre of Narc?	Thriller, Crime, Mystery
+1 what type of film is True Colors?	Drama
+1 what kind of film is Shutter?	Thriller, Mystery, Horror
+1 what was the genre of One in the Chamber?	Action, Thriller, Crime
+1 what kind of movie is The Muse?	Comedy
+1 what type of film is The Town That Dreaded Sundown?	Drama, Crime, Mystery
+1 what is the genre of the movie Ride the Pink Horse?	Drama, Mystery, Film-Noir
+1 what was the genre of the movie Trader Horn?	Adventure, Romance
+1 what genre of film is Strayed?	Drama, Romance, War
+1 what film genre is Two Little Boys?	Comedy
+1 what sort of movie is Kamchatka?	Drama
+1 what genre of movie is Road Trip?	Comedy, Adventure
+1 what was the genre of No Small Affair?	Drama, Comedy, Music
+1 what kind of movie is The Guardian?	Drama, Mystery, Horror
+1 what was the genre of the film Heartless?	Drama, Fantasy, Horror
+1 what type of movie is Hook?	Comedy, Adventure, Family
+1 what genre of film is Arena?	Action, Thriller
+1 what is the genre of the film Skyline?	Action, Thriller, Sci-Fi
+1 what sort of film is Death to Smoochy?	Drama, Comedy, Crime
+1 what genre of movie is Dracula?	Horror
+1 what type of film is Shoot 'Em Up?	Comedy, Action, Crime
+1 what genre of movie is Show Me?	Drama, Thriller
+1 what sort of film is Imitation of Life?	Drama, Romance
+1 what genre of movie is Being Flynn?	Drama
+1 what was the genre of the film Reform School Girls?	Drama, Thriller, Crime
+1 what was the genre of the film Jane Eyre?	Drama, Romance
+1 what is the genre of Lacombe, Lucien?	Drama, War
+1 what is the genre of the film World War Z?	Action, Adventure, Horror
+1 what is the genre for the movie The Pleasure Garden?	Drama, Comedy, Crime
+1 what genre of movie is How Much Do You Love Me??	Drama, Comedy, Romance
+1 what is the genre for The Tree of Wooden Clogs?	Drama, History
+1 what was the genre of the film Batch '81?	Drama
+1 what genre is Legend of the Lost in?	Drama, Adventure
+1 what sort of film is Loggerheads?	Drama
+1 what genre does The Gauntlet fall under?	Action, Thriller
+1 what was the genre of Tales That Witness Madness?	Horror
+1 what genre of movie is The Wild Blue Yonder?	Sci-Fi
+1 what genre is Good in?	Drama, Romance, War
+1 what was the genre of Tentação?	Drama, Romance
+1 what is the genre for the movie The Public Enemy?	Drama, Crime
+1 what type of film is Highlander?	Action, Adventure, Fantasy
+1 what sort of movie is Once Upon a Time in the West?	Western
+1 what type of film is Dennis the Menace?	Comedy, Family
+1 what is the genre of the movie Yentl?	Drama, Romance, Musical
+1 what genre of movie is Our Day Will Come?	Drama
+1 what was the genre of the film Rolling?	Drama
+1 what is the genre for the film Entre nos?	Drama
+1 what is the genre of the movie The Horse Soldiers?	Adventure, War, Western
+1 what sort of movie is Toy Soldiers?	Drama, Action, Thriller
+1 what type of film is Hoffman?	Comedy
+1 what is the genre of Guns of the Magnificent Seven?	Western
+1 what kind of film is Set It Off?	Drama, Action, Crime
+1 what genre of film is Eve and the Fire Horse?	Drama
+1 what genre is The Longest Yard in?	Comedy, Crime, Sport
+1 what type of movie is Moloch?	Drama
+1 what genre of movie is The Fallen?	Drama, Action, War
+1 what film genre is All Night Long?	Drama
+1 what was the genre of Best Friends?	Drama, Comedy, Romance
+1 what is the genre of We Have a Pope?	Drama, Comedy
+1 what kind of film is Miracle in Milan?	Drama, Comedy, Fantasy
+1 what type of film is The Day?	Drama, Action, Horror
+1 what genre is The Bells of St. Mary's in?	Drama, Family
+1 what sort of film is The Last Time I Saw Archie?	Comedy, Romance, War
+1 what is the genre for the movie Hunky Dory?	Drama, Music
+1 what genre is Her Highness and the Bellboy in?	Comedy, Romance
+1 what is the genre of the film Chouchou?	Comedy
+1 what is the genre for Purple Butterfly?	Drama, War, History
+1 what film genre is Aces 'N' Eights?	Drama, Action, Adventure
+1 what is the genre for the movie Blonde and Blonder?	Comedy, Crime
+1 what is the genre for The Climax?	Thriller, Horror, Musical
+1 what was the genre of the movie Three Kings?	Comedy, Action, Adventure
+1 what was the genre of The Gamers?	Comedy, Adventure, Fantasy
+1 what type of film is The Prince and the Pauper?	Comedy, Animation, Family
+1 what kind of film is Marnie?	Drama, Thriller
+1 what kind of movie is Miss Julie?	Drama
+1 what genre of film is Sheitan?	Comedy, Thriller, Horror
+1 what was the genre of the movie A Tree Grows in Brooklyn?	Drama
+1 what kind of movie is Air Force?	Drama, Action, History
+1 what is the genre of the film Will Penny?	Romance, Western
+1 what genre of film is Poor White Trash?	Comedy, Crime

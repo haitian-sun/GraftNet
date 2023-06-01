@@ -1,0 +1,378 @@
+1 which films can be described by romeo and juliet?	Shakespeare in Love, West Side Story
+1 which movies can be described by harry connick jr.?	Memphis Belle, New in Town
+1 what movies can be described with immortality?	Mr. Nobody
+1 what movies can be described by nora ephron?	You've Got Mail, When Harry Met Sally..., Sleepless in Seattle, Bewitched, Michael, Mixed Nuts
+1 which movies are about jonathan silverman?	Weekend at Bernie's, Weekend at Bernie's II
+1 which films are about reunion?	American Reunion, Romy and Michele's High School Reunion
+1 which films can be described by new wave?	The 400 Blows
+1 what films can be described by nina hoss?	Atomised, We Are the Night
+1 what movies can be described by terry gilliam?	Monty Python and the Holy Grail, Fear and Loathing in Las Vegas, Brazil, The Imaginarium of Doctor Parnassus, The Brothers Grimm, The Fisher King, Time Bandits, The Adventures of Baron Munchausen, The Zero Theorem, Tideland, Jabberwocky
+1 which films can be described by petter næss?	Into the White, Elling, Mozart and the Whale
+1 which movies are about clyde geronimi?	Cinderella, Sleeping Beauty
+1 what movies can be described by giants?	Jack the Giant Slayer
+1 which movies are about interrogation?	Zero Dark Thirty, The Interview
+1 which movies can be described by jesus?	The Passion of the Christ, The Last Temptation of Christ, Jesus Christ Superstar, The Gospel According to St. Matthew, The Greatest Story Ever Told, Jesus of Montreal
+1 what movies can be described with cormac mccarthy?	No Country for Old Men, The Road, The Counselor, The Sunset Limited, All the Pretty Horses
+1 which films are about submarine?	The Abyss, Crimson Tide, U-571, Down Periscope, Phantom, The Enemy Below, 20, 000 Leagues Under the Sea, The Damned
+1 what movies can be described by siddig?	Syriana
+1 which films can be described by luis mandoki?	Angel Eyes, Trapped
+1 which films can be described by nebraska?	Nebraska, Children of the Corn
+1 which movies are about seven?	Seven Samurai, The Seventh Seal
+1 which films are about james wong?	Final Destination, Final Destination 3, The One
+1 which films can be described by strange?	Eternal Sunshine of the Spotless Mind, Antichrist, Jacob's Ladder, Strange Days, Daisies
+1 what movies are about incest?	Bad Boy Bubby, Savage Grace, The War Zone, Sister My Sister
+1 what films are about kaiju?	Pacific Rim, Godzilla, Godzilla 2000, King of the Monsters!, King Kong vs. Godzilla, Godzilla 1985, Godzilla vs. Mechagodzilla, Godzilla vs. King Ghidorah, Godzilla vs. Destoroyah, Godzilla vs. Megalon, Godzilla vs. Biollante, Invasion of Astro-Monster, Destroy All Monsters, Ghidorah, the Three-Headed Monster, Godzilla Raids Again, Godzilla vs. the Sea Monster, Godzilla vs. Mechagodzilla II, Godzilla vs. Gigan, Terror of Mechagodzilla, Son of Godzilla, Mothra, Godzilla vs. Megaguirus, The War of the Gargantuas, King Kong Escapes, Frankenstein Conquers the World, Rebirth of Mothra, The X from Outer Space
+1 which movies are about joe dante?	Gremlins, Small Soldiers, The 'Burbs, Innerspace, The Howling, The Hole, Explorers, Piranha, The Second Civil War
+1 what films can be described by asperger syndrome?	Adam
+1 which films can be described by rick moranis?	Ghostbusters, Spaceballs, Honey, I Shrunk the Kids, The Flintstones, Little Shop of Horrors, Parenthood, Little Giants, Strange Brew
+1 which films can be described by michael palin?	Monty Python and the Holy Grail, Brazil, A Fish Called Wanda, Fierce Creatures, Jabberwocky
+1 which movies can be described by chiwetel ejiofor?	12 Years a Slave, Children of Men, American Gangster, 2012, Salt, Redbelt
+1 which films can be described by john mcclane?	Die Hard, A Good Day to Die Hard
+1 what movies can be described by empire state building?	Sleepless in Seattle
+1 which films are about cruise?	A Few Good Men
+1 which films can be described by play?	Casablanca, Synecdoche, New York
+1 which movies can be described by charles bronson?	Once Upon a Time in the West, The Magnificent Seven, The Dirty Dozen, Death Wish, Death Wish II, Death Wish 3, The Mechanic, Mr. Majestyk, Telefon, Chato's Land
+1 what films can be described by mcg?	Terminator Salvation, Charlie's Angels, We Are Marshall
+1 which films can be described by frank herbert?	Dune
+1 what films are about peter dinklage?	Penelope, Death at a Funeral, Knights of Badassdom
+1 which movies are about oscar?	Django Unchained, Silver Linings Playbook
+1 what films can be described by lily collins?	Mirror Mirror
+1 which movies are about gregory la cava?	My Man Godfrey
+1 what films are about walter lang?	The King and I, Desk Set, The Little Princess, State Fair, Sitting Pretty, The Blue Bird, With a Song in My Heart, Call Me Madam, On the Riviera, Susannah of the Mounties
+1 which movies can be described by timothy spall?	Enchanted
+1 which films are about georgia?	Midnight in the Garden of Good and Evil
+1 what movies are about roy rowland?	Our Vines Have Tender Grapes, A Stranger in Town
+1 which films can be described by tarantino?	Pulp Fiction, Inglourious Basterds, Reservoir Dogs, Jackie Brown, Death Proof, Grindhouse, Four Rooms, The Inglorious Bastards
+1 which films are about earth?	After Earth, Another Earth, Earth
+1 which films can be described by death of a child?	Don't Look Now
+1 which films are about hal holbrook?	Into the Wild, The Fog
+1 what movies can be described with brian robbins?	A Thousand Words, Good Burger
+1 which movies can be described by roland emmerich?	Independence Day, The Day After Tomorrow, 2012, The Patriot, Godzilla, 10, 000 BC, Universal Soldier
+1 which movies can be described by john carney?	Once, Begin Again, On the Edge
+1 which movies can be described by jeremy renner?	The Avengers, American Hustle, The Hurt Locker, The Town, The Bourne Legacy, Dahmer
+1 what films are about alexis bledel?	Sin City, The Sisterhood of the Traveling Pants, The Sisterhood of the Traveling Pants 2, Post Grad, I'm Reed Fish
+1 which films can be described by peter lord?	Chicken Run
+1 which films can be described by gina gershon?	Bound
+1 what movies are about pow?	The Great Escape
+1 which movies can be described by strike?	Billy Elliot, Germinal
+1 what movies can be described by hugh jackman?	The Prestige, X-Men, Prisoners, The Wolverine, Real Steel, Les Misérables, The Fountain, Van Helsing, Swordfish, Australia, Scoop, Deception, Butter
+1 what films can be described by matheson?	I Am Legend, What Dreams May Come, Stir of Echoes, The Omega Man, The Last Man on Earth, The Incredible Shrinking Man, The Incredible Shrinking Woman
+1 which movies can be described by norah jones?	My Blueberry Nights
+1 what movies are about time machine?	Back to the Future Part II
+1 what movies can be described by elizabeth taylor?	Who's Afraid of Virginia Woolf?, Cat on a Hot Tin Roof, Giant, Cleopatra, A Place in the Sun, Suddenly, Last Summer, National Velvet, Reflections in a Golden Eye
+1 what movies can be described by jack arnold?	The Incredible Shrinking Man, The Mouse That Roared
+1 what movies can be described by olivia wilde?	The Incredible Burt Wonderstone, Drinking Buddies, Butter, Third Person, Better Living Through Chemistry
+1 what movies can be described by rodeo?	8 Seconds
+1 what movies can be described with korea?	Oldboy
+1 what films can be described by rocky?	Rocky II
+1 which films can be described by mark steven johnson?	Ghost Rider, Daredevil, Simon Birch
+1 what movies can be described with savannah?	Midnight in the Garden of Good and Evil
+1 which movies can be described by nuns?	Black Narcissus, Nuns on the Run, Dark Habits, The Trouble with Angels
+1 what movies can be described by frankenstein's monster?	Van Helsing, Frankenstein Meets the Wolf Man, House of Frankenstein
+1 what movies can be described with fugitive?	The Fugitive, Running on Empty, I Am a Fugitive from a Chain Gang, Seems Like Old Times
+1 which movies can be described by himalayas?	Himalaya
+1 which movies are about robert louis stevenson?	Treasure Planet, Muppet Treasure Island, Dr. Jekyll and Mr. Hyde, Treasure Island, Jekyll and Hyde... Together Again, The Strange Case of Dr. Jekyll and Mr. Hyde
+1 what movies can be described by howard hawks?	The Big Sleep, Bringing Up Baby, Rio Bravo, His Girl Friday, To Have and Have Not, Gentlemen Prefer Blondes, Red River, Scarface, El Dorado, Sergeant York, Monkey Business, Hatari!, Only Angels Have Wings, Ball of Fire, I Was a Male War Bride, Twentieth Century, Man's Favorite Sport?, The Big Sky, Air Force, A Song Is Born, Come and Get It, The Dawn Patrol, The Criminal Code, The Road to Glory
+1 what movies can be described by christopher lambert?	Highlander, Mortal Kombat, Mean Guns, Absolon
+1 which films can be described by jason biggs?	American Pie, My Best Friend's Girl, Prozac Nation
+1 what films are about disney renaissance?	The Lion King, Beauty and the Beast, Aladdin, The Little Mermaid, Mulan, Tarzan, The Hunchback of Notre Dame
+1 which movies are about vincenzo natali?	Cube, Splice, Cypher, Nothing
+1 what movies can be described by albert finney?	Big Fish, Before the Devil Knows You're Dead, A Good Year, Murder on the Orient Express, Annie, Two for the Road, Scrooge, Saturday Night and Sunday Morning
+1 what movies can be described by seth macfarlane?	Ted, A Million Ways to Die in the West
+1 what movies can be described with david hewlett?	Nothing, A Dog's Breakfast
+1 which films can be described by irwin winkler?	The Net, Life as a House
+1 what films can be described by berlin?	The Lives of Others, Downfall, Wings of Desire, Cabaret, Chasing Liberty, The Good German, One, Two, Three, The Tunnel
+1 what films can be described by robert townsend?	The Meteor Man, Hollywood Shuffle
+1 which films are about pat morita?	The Karate Kid, Part II, The Next Karate Kid
+1 what movies can be described with nick frost?	Shaun of the Dead, Hot Fuzz, Paul, The Adventures of Tintin, The World's End, Attack the Block
+1 which movies are about jerry zucker?	Airplane!, Ghost, Rat Race, Top Secret!
+1 what films can be described by monte hellman?	Two-Lane Blacktop, The Shooting, Ride in the Whirlwind, Cockfighter
+1 what films are about ice?	Frozen, Ice Age, King Arthur, Big Miracle, Chasing Ice
+1 what movies can be described by dakota fanning?	War of the Worlds, Man on Fire, I Am Sam, Push, Hide and Seek, The Runaways, Uptown Girls, Now Is Good, The Secret Life of Bees
+1 what movies can be described with vincent ward?	What Dreams May Come, Map of the Human Heart
+1 what movies can be described with lake tahoe?	Smokin' Aces
+1 what movies can be described by moritz bleibtreu?	Run Lola Run, The Baader Meinhof Complex, Soul Kitchen, Knockin' on Heaven's Door, Atomised, Solino
+1 what films can be described by billy dee williams?	Nighthawks, Lady Sings the Blues
+1 what films can be described by wayne knight?	To Die For
+1 which movies are about morten tyldum?	The Imitation Game, Headhunters, Buddy, Fallen Angels
+1 what movies can be described with jean harlow?	The Public Enemy, Wife vs. Secretary, Platinum Blonde
+1 which films can be described by shannon elizabeth?	American Pie, Night of the Demons
+1 which films can be described by james wan?	Saw, The Conjuring, Insidious, Dead Silence, Death Sentence
+1 what movies can be described with stoner?	Dude, Where's My Car?, Grandma's Boy, Friday
+1 which movies are about bolivia?	Butch Cassidy and the Sundance Kid, Even the Rain
+1 which films can be described by peter fonda?	Ghost Rider, Easy Rider, Ulee's Gold
+1 which movies can be described by snow?	Frozen, Snowpiercer, The Great Silence
+1 what movies can be described with charles laughton?	Spartacus, The Night of the Hunter, Witness for the Prosecution, Mutiny on the Bounty, Island of Lost Souls, The Canterville Ghost, Captain Kidd
+1 what films are about ss?	The Eagle Has Landed, The Odessa File
+1 what films can be described by frank pierson?	Conspiracy, Citizen Cohn
+1 which films are about january jones?	Unknown, Seeking Justice
+1 what movies are about busby berkeley?	42nd Street, For Me and My Gal, Gold Diggers of 1935, They Made Me a Criminal, Dames, Girl Crazy, Strike Up the Band, Wonder Bar
+1 what movies can be described by mads brügger?	The Ambassador
+1 what movies can be described with luke wilson?	The Royal Tenenbaums, Old School, Legally Blonde, Idiocracy, Bottle Rocket, The Family Stone, Meeting Evil, The Wendell Baker Story
+1 what films are about eugene forde?	Charlie Chan in London, Charlie Chan at Monte Carlo
+1 what movies can be described with barbara hershey?	The Right Stuff, Hoosiers, Beaches, The Entity
+1 what movies are about denis lavant?	Mister Lonely
+1 what movies are about super panavision 70?	Lawrence of Arabia, West Side Story, Ice Station Zebra, Ryan's Daughter, Grand Prix, Mackenna's Gold
+1 what movies can be described by janet jackson?	Why Did I Get Married?
+1 which movies can be described by knights?	Season of the Witch
+1 what movies are about medical?	Hysteria
+1 what movies are about toronto?	Enemy, Exotica, Toronto Stories
+1 which films can be described by peter macnicol?	Dragonslayer
+1 which movies can be described by dublin?	Once, The Commitments, Goldfish Memory
+1 what films are about robert mulligan?	To Kill a Mockingbird, The Man in the Moon, Summer of '42, Same Time, Next Year
+1 which movies are about phil joanou?	State of Grace
+1 what films are about bruce willis?	The Sixth Sense, Sin City, Die Hard, Looper, Live Free or Die Hard, The Fifth Element, Armageddon, Lucky Number Slevin, Die Hard 2, Unbreakable, The Expendables 2, Planet Terror, A Good Day to Die Hard, Surrogates, Over the Hedge, 16 Blocks, Hostage, Tears of the Sun, The Whole Nine Yards, Alpha Dog, The Jackal, Cop Out, Death Becomes Her, The Last Boy Scout, Look Who's Talking, The Siege, Bandits, Mercury Rising, The Whole Ten Yards, Last Man Standing, Hart's War, Hudson Hawk, Perfect Stranger, Striking Distance, The Story of Us, The Bonfire of the Vanities, Blind Date, North, Billy Bathgate, Lay the Favorite
+1 what movies can be described with cyd charisse?	Brigadoon, That's Entertainment! III
+1 what movies are about alex segal?	Death of a Salesman
+1 what movies can be described with abbas kiarostami?	Certified Copy, Taste of Cherry, Close-Up, Like Someone in Love, The Wind Will Carry Us, Ten, Through the Olive Trees, Life, and Nothing More..., Tickets, The Traveler, The Report
+1 which movies are about gunfight?	The Good, the Bad and the Ugly, Tombstone, Hard Boiled
+1 what films are about christine jeffs?	Sunshine Cleaning, Sylvia
+1 what films are about autism?	Mercury Rising, Temple Grandin, Ben X, Snow Cake
+1 what movies can be described by peyton reed?	Yes Man, The Break-Up, Bring It On
+1 what movies can be described by sniper?	Shooter, Phone Booth, Enemy at the Gates
+1 what movies can be described with little red riding hood?	Red Riding Hood, Hoodwinked!
+1 which films are about betrayal?	The Social Network
+1 what movies can be described by h. r. giger?	Alien
+1 what movies are about protest?	V for Vendetta, Battle in Seattle
+1 what films can be described by claude sautet?	The Things of Life, Classe Tous Risques, César and Rosalie
+1 which films can be described by coal miners?	Matewan
+1 which films can be described by apes?	Rise of the Planet of the Apes, Planet of the Apes
+1 what movies are about sex comedy?	Zack and Miri Make a Porno, A Dirty Shame
+1 which films are about shia labeouf?	Transformers, Indiana Jones and the Kingdom of the Crystal Skull, Disturbia, Lawless, Eagle Eye, Surf's Up, New York, I Love You, A Guide to Recognizing Your Saints
+1 which movies are about jan de bont?	Speed, Twister, The Haunting
+1 what films are about kevin costner?	Man of Steel, The Untouchables, Dances with Wolves, Waterworld, Mr. Brooks, JFK, The Bodyguard, Field of Dreams, The Guardian, 3 Days to Kill, A Perfect World, The Postman, Open Range, Thirteen Days, Rumor Has It..., 3000 Miles to Graceland, Bull Durham, Wyatt Earp, Dragonfly, Silverado, No Way Out, The Upside of Anger, Fandango, American Flyers
+1 what films are about orphan?	All Dogs Go to Heaven
+1 which movies can be described by michael winner?	Death Wish, Death Wish II, The Mechanic, Chato's Land, Lawman, I'll Never Forget What's'isname
+1 what movies can be described by jason robards?	Once Upon a Time in the West, Julia, The Ballad of Cable Hogue
+1 what films are about 15th century?	Andrei Rublev, The Hunchback of Notre Dame
+1 which movies can be described by robert redford?	The Sting, Butch Cassidy and the Sundance Kid, Spy Game, All the President's Men, The Last Castle, All Is Lost, Quiz Show, Out of Africa, Indecent Proposal, Sneakers, Lions for Lambs, A River Runs Through It, A Bridge Too Far, The Natural, Ordinary People, Three Days of the Condor, The Horse Whisperer, The Conspirator, An Unfinished Life, Jeremiah Johnson, The Great Gatsby, The Candidate, The Chase, The Milagro Beanfield War, The Hot Rock
+1 what movies are about stanley kramer?	Judgment at Nuremberg, It's a Mad, Mad, Mad World, Guess Who's Coming to Dinner, Inherit the Wind, The Defiant Ones, On the Beach, Ship of Fools, The Secret of Santa Vittoria
+1 what films are about kazuo mori?	Samurai Vendetta
+1 what films are about neil burger?	Limitless, The Illusionist, The Lucky Ones
+1 which films are about spaghetti?	A Fistful of Dollars
+1 which films are about weatherman?	Groundhog Day
+1 which movies are about river phoenix?	Indiana Jones and the Last Crusade, Sneakers, My Own Private Idaho, The Mosquito Coast, Running on Empty, Dogfight
+1 which movies can be described by peter sellers?	Lolita, Being There, The Pink Panther, The Party, Murder by Death, Casino Royale, The Ladykillers, The Return of the Pink Panther, A Shot in the Dark, Revenge of the Pink Panther, The Life and Death of Peter Sellers, Trail of the Pink Panther, The Mouse That Roared, I'm All Right Jack, The World of Henry Orient, Hoffman
+1 which movies can be described by mimi rogers?	Desperate Hours
+1 which movies are about alan lowery?	The New Rulers of the World
+1 what movies can be described with alain corneau?	Série noire, Police Python 357
+1 which films can be described by topher grace?	Spider-Man 3, Predators, In Good Company, Take Me Home Tonight, Win a Date with Tad Hamilton!
+1 what movies can be described by xavier dolan?	Heartbeats, I Killed My Mother, Mommy, Laurence Anyways, Tom at the Farm
+1 which films are about oded fehr?	The Mummy Returns
+1 what movies can be described by ejaculation?	9 Songs
+1 what movies can be described with immigration?	Moscow on the Hudson
+1 what movies can be described with jonathan pryce?	Brazil, The Adventures of Baron Munchausen, Leatherheads
+1 what movies can be described by welsh?	How Green Was My Valley
+1 which films are about gabriel byrne?	The Usual Suspects, The Man in the Iron Mask, Miller's Crossing, End of Days
+1 what movies can be described with jonah hill?	The Wolf of Wall Street, How to Train Your Dragon, Superbad, 21 Jump Street, This Is the End, Moneyball, 22 Jump Street, How to Train Your Dragon 2, Megamind, Get Him to the Greek, Funny People, The Watch, The Invention of Lying, Grandma's Boy, Cyrus, Strange Wilderness
+1 what movies can be described by deforest kelley?	Night of the Lepus
+1 which movies are about tina fey?	Mean Girls, Date Night, The Invention of Lying, Baby Mama
+1 what movies can be described with non-linear?	Pulp Fiction, Memento, Eternal Sunshine of the Spotless Mind
+1 what films are about roy william neill?	Terror by Night, Black Angel, The Black Room
+1 what movies are about mining?	Avatar, Pride, The Molly Maguires, The Last Mountain
+1 what movies can be described by allison janney?	American Beauty
+1 which movies are about maggie gyllenhaal?	The Dark Knight, Donnie Darko, World Trade Center, Secretary, Crazy Heart, Mona Lisa Smile, Away We Go, Frank, Hysteria, Happy Endings
+1 what films can be described by memories?	The Forgotten, Solaris
+1 which films can be described by robert stevenson?	Mary Poppins, Bedknobs and Broomsticks, Old Yeller, Jane Eyre, Darby O'Gill and the Little People, Back Street
+1 what movies can be described by wikileaks?	The Fifth Estate
+1 what movies can be described by face?	Eyes Without a Face
+1 what movies can be described with stallone?	Rocky, Rocky II, Judge Dredd, Cop Land, Nighthawks
+1 which movies are about poland?	Schindler's List, The Pianist, In Darkness, Ashes and Diamonds, Danton, Teddy Bear
+1 what movies can be described with nicole kidman?	The Others, Moulin Rouge!, Batman Forever, Just Go with It, The Golden Compass, Cold Mountain, Dogville, Australia, The Hours, The Interpreter, Stoker, The Invasion, Bewitched, Practical Magic, The Stepford Wives, The Peacemaker, Far and Away, Rabbit Hole, Trespass, Before I Go to Sleep, Birth, Dead Calm, The Paperboy, The Human Stain, The Railway Man, Birthday Girl, Billy Bathgate
+1 which films can be described by gérard blain?	The Pelican
+1 what films can be described by gretchen mol?	The Thirteenth Floor, The Shape of Things
+1 which movies can be described by george lazenby?	On Her Majesty's Secret Service, The Kentucky Fried Movie
+1 what films are about bonneville salt flats?	The World's Fastest Indian
+1 what movies are about gillies mackinnon?	Pure, Small Faces
+1 what movies can be described by marijuana?	Easy Rider, Grass
+1 what films can be described by nicholson?	The Shining, As Good as It Gets, Chinatown
+1 what movies can be described by philip seymour hoffman?	The Big Lebowski, Magnolia, Red Dragon, Scent of a Woman, Cold Mountain, Mary and Max, Punch-Drunk Love, Doubt, The Master, Capote, Charlie Wilson's War, Before the Devil Knows You're Dead, Synecdoche, New York, A Most Wanted Man, The Savages, Hard Eight, State and Main, When a Man Loves a Woman, Flawless, Owning Mahowny, Jack Goes Boating, Love Liza, God's Pocket
+1 what movies are about alberto cavalcanti?	Dead of Night, Went the Day Well?
+1 what films can be described by richard lester?	A Hard Day's Night, Help!, The Three Musketeers, Robin and Marian, A Funny Thing Happened on the Way to the Forum, Petulia, The Ritz
+1 what films can be described by cary fukunaga?	Jane Eyre
+1 which movies are about outback?	Wake in Fright, Razorback, Dingo
+1 what films can be described by joseph conrad?	Apocalypse Now, The Duellists, Sabotage, Amy Foster, The Secret Agent
+1 what movies can be described with cole hauser?	Pitch Black, 2 Fast 2 Furious
+1 what movies are about ellen burstyn?	Requiem for a Dream, The Exorcist, Alice Doesn't Live Here Anymore
+1 which films are about s?	A Short Film About Love
+1 what movies are about taxi driver?	Taxi Driver, Collateral
+1 which movies are about beauty pageant?	Drop Dead Gorgeous, Smile
+1 what films can be described by dc?	Batman Begins, Batman, Batman Returns, Batman Forever, Superman, Catwoman, Superman III
+1 which films are about sophie marceau?	Beyond the Clouds
+1 what films can be described by bizarre?	Alice
+1 which films can be described by peter segal?	50 First Dates, Anger Management, Tommy Boy
+1 which films are about peter hewitt?	Tom and Huck
+1 which films can be described by glam rock?	Velvet Goldmine
+1 what movies can be described by john woo?	Face/Off, Broken Arrow, Windtalkers, Hard Boiled, The Killer, Red Cliff, Hard Target, A Better Tomorrow, Bullet in the Head, Reign of Assassins, Once a Thief, Blackjack
+1 which films are about marlene dietrich?	Witness for the Prosecution, Stage Fright, Destry Rides Again, Shanghai Express, The Scarlet Empress, Morocco, Dishonored, Golden Earrings
+1 what movies can be described by jaco van dormael?	Mr. Nobody, The Eighth Day, Toto the Hero
+1 what movies are about brian cox?	Match Point, The Escapist
+1 which movies are about austin?	Chef
+1 which movies can be described by jodorowsky?	The Holy Mountain, El Topo, Santa Sangre
+1 which films can be described by john moore?	A Good Day to Die Hard, Behind Enemy Lines
+1 what movies can be described with f. murray abraham?	Finding Forrester
+1 what films are about genndy tartakovsky?	Hotel Transylvania
+1 what films can be described by kat dennings?	Thor, Defendor, Daydream Nation
+1 which films are about guy ritchie?	Sherlock Holmes, Lock, Stock and Two Smoking Barrels, RocknRolla, Revolver, Swept Away
+1 what films can be described by doug pray?	Surfwise
+1 what movies are about crusades?	Kingdom of Heaven
+1 what movies can be described by car accident?	Crash, Snow Cake
+1 what movies are about joseph cross?	Untraceable, Running with Scissors, Wide Awake
+1 what films are about dana andrews?	The Best Years of Our Lives, Laura, Ball of Fire
+1 which films can be described by fellini?	8½, La Strada, Amarcord
+1 which movies are about murder mystery?	Manhattan Murder Mystery
+1 what movies are about poetry?	Dead Poets Society, Slam
+1 which films can be described by asylum?	Quills, Session 9, Asylum
+1 what movies can be described with peter greenaway?	The Pillow Book, The Draughtsman's Contract, Drowning by Numbers, The Belly of an Architect, The Falls
+1 what movies can be described by affair?	Notes on a Scandal, The Bridges of Madison County
+1 which movies can be described by robert pattinson?	Twilight, Remember Me, Water for Elephants, Cosmopolis, The Rover, How to Be
+1 what movies are about finland?	Hanna, The Unknown Soldier, Lights in the Dusk, The Punk Syndrome
+1 which films are about anne baxter?	All About Eve, The Ten Commandments
+1 which movies can be described by iowa?	The Crazies, The Bridges of Madison County, Sleeping with the Enemy, 16 to Life
+1 what films can be described by jennifer ehle?	Paradise Road
+1 what movies can be described by satsuo yamamoto?	Zatoichi the Outlaw
+1 which films are about audrey tautou?	Amélie, The Da Vinci Code, A Very Long Engagement, Coco Before Chanel, Priceless, He Loves Me... He Loves Me Not, Mood Indigo, Hunting and Gathering, Happenstance
+1 which films are about anna chlumsky?	My Girl, My Girl 2
+1 what films can be described by groucho marx?	A Night at the Opera, Monkey Business
+1 which movies can be described by quarantine?	State of Emergency
+1 what films can be described by 4?	Spirited Away, Shrek 2, The Game, Seven Samurai, Clerks, Shark Tale, The Unbearable Lightness of Being, Buena Vista Social Club
+1 which movies are about saturday night live?	Ghostbusters, Mean Girls, The Blues Brothers, Wayne's World, Wayne's World 2, A Night at the Roxbury, Coneheads, MacGruber, Superstar, The Ladies Man, It's Pat, Stuart Saves His Family
+1 what movies can be described by hebrew?	The Bubble, Yossi
+1 what movies can be described by famke janssen?	Taken, Taken 2, House on Haunted Hill, The Wackness, Deep Rising
+1 what movies are about osama bin laden?	Zero Dark Thirty
+1 which films can be described by jonathan lynn?	The Whole Nine Yards, My Cousin Vinny, Wild Target, Greedy, Nuns on the Run
+1 what movies can be described with ninja?	Teenage Mutant Ninja Turtles, Ninja Assassin, TMNT, Beverly Hills Ninja, Ninja Scroll, American Ninja, Enter the Ninja
+1 what movies can be described with sally field?	Forrest Gump, The Amazing Spider-Man, Lincoln, Mrs. Doubtfire, Absence of Malice, Norma Rae, Kiss Me Goodbye
+1 which films can be described by omar sy?	The Intouchables
+1 which films are about panda?	Kung Fu Panda
+1 which films can be described by hayao miyazaki?	Spirited Away, Princess Mononoke, Howl's Moving Castle, My Neighbor Totoro, Castle in the Sky, Nausicaä of the Valley of the Wind, Ponyo, Kiki's Delivery Service, Porco Rosso, The Wind Rises, Whisper of the Heart, The Castle of Cagliostro
+1 what movies can be described with ray liotta?	Goodfellas, Identity, Smokin' Aces, Field of Dreams, Revolver, Cop Land, Youth in Revolt, Heartbreakers, No Escape
+1 what movies are about benny chan?	Who Am I?, New Police Story, Shaolin
+1 which movies can be described by traps?	Cube
+1 which films are about cameos?	The Muppet Movie
+1 what movies are about coincidences?	Lovers of the Arctic Circle
+1 what films can be described by ken watanabe?	Inception, The Last Samurai, Godzilla, Letters from Iwo Jima, Memoirs of a Geisha, Tampopo
+1 what films can be described by crude humor?	Transformers
+1 which films can be described by alain prost?	Senna
+1 what films can be described by deer?	Bambi
+1 what movies are about dean koontz?	Phantoms, Hideaway
+1 which films are about government?	The U.S. vs. John Lennon
+1 what films are about marcel carné?	Children of Paradise, Port of Shadows, Les Visiteurs du Soir
+1 what films can be described by winona ryder?	Edward Scissorhands, Beetlejuice, Girl, Interrupted, Mr. Deeds, A Scanner Darkly, Heathers, The Dilemma, Little Women, Reality Bites, Mermaids, Autumn in New York, The House of the Spirits, Lucas, Sex and Death 101
+1 which films are about larry clark?	Kids, Bully
+1 what movies can be described with julianne moore?	The Big Lebowski, Children of Men, Magnolia, Hannibal, Don Jon, Next, Evolution, The Hours, Blindness, The Forgotten, Chloe, Far from Heaven, Short Cuts, Still Alice, Nine Months, The Shipping News, Maps to the Stars, Laws of Attraction, Game Change, An Ideal Husband, Trust the Man
+1 what movies can be described with edward zwick?	Blood Diamond, The Last Samurai, Defiance, Legends of the Fall, Glory, The Siege, Courage Under Fire
+1 what movies can be described with alida valli?	The Third Man, Senso
+1 what films are about sleeping beauty?	Maleficent
+1 which films are about 9/11?	Fahrenheit 9/11, World Trade Center, The Visitor, 9/11
+1 what films are about mark ruffalo?	The Avengers, Eternal Sunshine of the Spotless Mind, Now You See Me, Zodiac, 13 Going on 30, Foxcatcher, Begin Again, Blindness, The Brothers Bloom, Rumor Has It..., You Can Count on Me, My Life Without Me, Reservation Road, What Doesn't Kill You
+1 which films can be described by gorilla?	King Kong, Gorillas in the Mist, Buddy
+1 which movies are about jennifer aniston?	Horrible Bosses, We're the Millers, Office Space, Just Go with It, He's Just Not That Into You, The Iron Giant, Along Came Polly, The Break-Up, The Bounty Hunter, The Switch, Wanderlust, Rumor Has It..., The Good Girl, Love Happens, The Object of My Affection, Picture Perfect, Management, She's the One
+1 what films are about robbie coltrane?	Nuns on the Run
+1 which films can be described by demon?	Hellboy
+1 which movies can be described by fred niblo?	The Mysterious Lady, The Temptress
+1 what films can be described by daryl duke?	The Silent Partner, Payday
+1 which movies can be described by paul dano?	There Will Be Blood, Little Miss Sunshine, The Ballad of Jack and Rose, L.I.E., Gigantic, The Good Heart
+1 what movies can be described with dirty harry?	Dirty Harry, Magnum Force, The Enforcer, The Dead Pool, Sudden Impact
+1 what movies can be described with scott hicks?	No Reservations, Shine, Hearts in Atlantis
+1 what movies can be described with glenn close?	Mars Attacks!, Air Force One, 101 Dalmatians, Dangerous Liaisons, Fatal Attraction, Hoodwinked!, The Natural, The Big Chill, Hamlet, The House of the Spirits, Heights, Paradise Road, The Safety of Objects, Anne Frank Remembered
+1 what movies can be described by general motors?	Who Killed the Electric Car?
+1 what films are about peter graves?	Beginning of the End, Killers from Space
+1 what movies are about comet?	Deep Impact
+1 which films can be described by christopher smith?	Triangle, Black Death
+1 what movies are about damon wayans?	Major Payne, Celtic Pride
+1 which movies are about johnny cash?	Walk the Line
+1 what movies are about arms dealer?	Lord of War
+1 what movies can be described with golshifteh farahani?	The Patience Stone
+1 what movies can be described by gérard depardieu?	Jean de Florette, Cyrano de Bergerac, 1900, The Last Metro, A Pure Formality, Going Places, Bogus, Camille Claudel, My Afternoons with Margueritte, CQ, Danton, Loulou, Colonel Chabert, Maîtresse
+1 which movies can be described by mike leigh?	Happy-Go-Lucky, Another Year, Naked, Vera Drake, Mr. Turner, Topsy-Turvy, All or Nothing, Life Is Sweet, Career Girls, High Hopes, Meantime, Bleak Moments, Four Days in July
+1 what films are about david fincher?	Fight Club, The Social Network, The Curious Case of Benjamin Button, Gone Girl, The Girl with the Dragon Tattoo, Zodiac, The Game, Panic Room
+1 what movies can be described with manoel de oliveira?	A Talking Picture, I'm Going Home, The Strange Case of Angelica, Abraham's Valley, Voyage to the Beginning of the World
+1 what films are about mathematics?	Good Will Hunting
+1 which films are about 1920s?	The Princess and the Frog, Zelig, Raise the Red Lantern, Let the Bullets Fly
+1 what movies are about gizmo?	Gremlins
+1 what movies are about bob balaban?	No Reservations, My Boyfriend's Back
+1 which movies are about captain america?	The Avengers, Captain America
+1 what movies can be described with playwright?	Finding Neverland, Somewhere in Time, Prick Up Your Ears
+1 what movies are about slavery?	Gladiator, 12 Years a Slave, Belle
+1 what movies are about christoph waltz?	Django Unchained, Inglourious Basterds, The Green Hornet, Water for Elephants, Big Eyes
+1 what movies can be described with justice?	Red
+1 which films can be described by christopher reeve?	Superman, Superman II, Superman III, The Remains of the Day
+1 what films are about acting debut?	Precious
+1 which movies are about larry peerce?	The Incident, One Potato, Two Potato
+1 what movies are about japanese?	Spirited Away, The Ring, Princess Mononoke, Letters from Iwo Jima, Memoirs of a Geisha, Castle in the Sky, The Girl Who Leapt Through Time, Throne of Blood, Tora! Tora! Tora!, Confessions, 5 Centimeters Per Second, Sanjuro, Mystery Train, Harakiri, Summer Wars, Casshern, In the Realm of the Senses, Wolf Children, Pulse, Returner, Last Life in the Universe, House, Tampopo, Norwegian Wood, Survive Style 5+, Heaven Knows, Mr. Allison, Kamikaze Girls, The Sky Crawlers, Memories of Matsuko, An Autumn Afternoon, Kids Return, The Burmese Harp, After the Rain, King Kong Escapes
+1 what movies can be described by science?	The Matrix, Avatar, Gravity, Jurassic Park, Prometheus, Moon, Contact, Deep Impact, Primer, I Origins, The Lawnmower Man, Temple Grandin, Demon Seed, The Unbelievers, A Brief History of Time, The Killer Shrews
+1 what movies can be described with harvey fierstein?	Torch Song Trilogy
+1 which films are about mary steenburgen?	Back to the Future Part III, Parenthood, Goin' South
+1 what films are about 12th century?	Kingdom of Heaven
+1 what films can be described by bill melendez?	A Charlie Brown Christmas, It's the Great Pumpkin, Charlie Brown
+1 what films are about jules dassin?	Rififi, The Naked City, Night and the City, Topkapi, Brute Force, Never on Sunday, Thieves' Highway, The Canterville Ghost, Phaedra
+1 which films can be described by hotel?	The Shining, The Grand Budapest Hotel, Hotel Rwanda, The Graduate, 1408, Hotel Transylvania, Barton Fink, Four Rooms, Hotel Chevalier, Somewhere in Time, Hotel for Dogs, Room in Rome, California Suite, Hotel
+1 which films are about raw?	Tomorrow, When the War Began
+1 what movies can be described with david s. goyer?	Batman Begins, Man of Steel, The Unborn
+1 what movies can be described by triad?	Election
+1 what movies are about dracula?	Dracula, Dracula Untold, Blood for Dracula, Dracula Has Risen from the Grave, House of Frankenstein, The Satanic Rites of Dracula, Dracula A.D. 1972, Taste the Blood of Dracula, The Return of Dracula
+1 which films can be described by assassination?	Vantage Point, In the Line of Fire, Malcolm X, Blow Out
+1 which films are about lou reed?	Blue in the Face
+1 what films are about haunting?	The Conjuring
+1 which movies are about direction?	Alien, Harry Potter and the Half-Blood Prince, Hugo
+1 which movies are about hitmen?	In Bruges, Vengeance
+1 what movies can be described by wolfgang murnberger?	The Bone Man
+1 which movies can be described by warwick davis?	Willow
+1 what films can be described by health?	Super Size Me
+1 what movies are about stanley kubrick?	The Shining, A Clockwork Orange, Full Metal Jacket, A.I. Artificial Intelligence, Eyes Wide Shut, Paths of Glory, Spartacus, Barry Lyndon, Lolita, The Killing, Killer's Kiss, Fear and Desire
+1 what films are about afghanistan?	Lone Survivor, Charlie Wilson's War, Rambo III, The Kite Runner, The Man Who Would Be King, Osama, The Tillman Story, Kabul Express
+1 what films can be described by new year's eve?	New Year's Eve, A Long Way Down
+1 what movies can be described by julian schnabel?	The Diving Bell and the Butterfly, Before Night Falls, Basquiat
+1 what films are about korean war?	MASH, The Bridges at Toko-Ri
+1 what movies can be described by hoodoo?	The Skeleton Key
+1 what films are about ricardo montalban?	Battleground, Border Incident, The Reluctant Saint
+1 what films are about timothy olyphant?	I Am Number Four, The Girl Next Door, Hitman, The Crazies, Go, A Perfect Getaway, Catch and Release, High Life
+1 what movies are about pete docter?	Up, Monsters, Inc.
+1 what films can be described by paranoia?	The Thing
+1 what films can be described by british comedy?	Monty Python and the Holy Grail, Death at a Funeral, The Full Monty, Starter for 10, Saving Grace, Quartet, Blow Dry, School for Scoundrels, The Captain's Paradise
+1 which movies can be described by dan curtis?	Burnt Offerings, The Night Strangler, The Love Letter, Our Fathers
+1 what movies are about eastwood?	Unforgiven, For a Few Dollars More, Dirty Harry, In the Line of Fire, The Outlaw Josey Wales, Where Eagles Dare
+1 what films can be described by 60s?	Girl, Interrupted, Down with Love
+1 what films can be described by anton corbijn?	The American, Control, A Most Wanted Man, Joy Division
+1 what films can be described by palestine?	Munich, Palestine Is Still the Issue
+1 what movies are about joan crawford?	What Ever Happened to Baby Jane?, Johnny Guitar, The Women, The Unknown, Strait-Jacket, Rain
+1 which films are about amy heckerling?	Clueless, Fast Times at Ridgemont High, Look Who's Talking, Look Who's Talking Too, I Could Never Be Your Woman, Johnny Dangerously
+1 what movies are about new jersey?	American Hustle, Garden State, Just Friends, Cop Land, Jersey Boys, Street Fight
+1 what movies can be described by nuclear?	Godzilla, Silkwood
+1 which movies are about mads mikkelsen?	The Hunt, Valhalla Rising, Adam's Apples, A Royal Affair, After the Wedding, The Salvation, Flickering Lights, The Green Butchers, Open Hearts
+1 which movies are about snowboarding?	The Crash Reel
+1 which movies can be described by warriors?	Kung Fu Panda
+1 what movies can be described with jon stewart?	The Faculty, Rosewater
+1 what films are about ulrich thomsen?	Adam's Apples, In a Better World, Flickering Lights, Brothers, The Inheritance
+1 what movies are about keith david?	The Princess and the Frog, They Live
+1 what films can be described by julie christie?	Doctor Zhivago, Fahrenheit 451, Don't Look Now, Away from Her
+1 which films can be described by jaume balagueró?	Sleep Tight, Darkness
+1 what films can be described by scientology?	Battlefield Earth
+1 which movies can be described by homeless?	The Pursuit of Happyness, The Soloist, My Man Godfrey, Down and Out in Beverly Hills, Ironweed
+1 what movies are about cigarettes?	Thank You for Smoking
+1 which movies are about dwayne johnson?	Fast Five, The Other Guys, Hercules, Faster, Race to Witch Mountain, Southland Tales, Tooth Fairy
+1 what films can be described by underdog?	The Karate Kid
+1 what films can be described by george kennedy?	Cool Hand Luke
+1 which movies can be described by axe?	Dementia 13
+1 which movies are about rock hudson?	Giant, Pillow Talk, All That Heaven Allows, Ice Station Zebra, Send Me No Flowers, Magnificent Obsession
+1 which films can be described by gene kelly?	Singin' in the Rain, An American in Paris, On the Town, Hello, Dolly!, Brigadoon, Anchors Aweigh, Cover Girl, The Pirate, It's Always Fair Weather, Les Girls, That's Entertainment, Part II, That's Entertainment! III, Gigot
+1 which movies can be described by michael nyqvist?	The Girl with the Dragon Tattoo
+1 which films are about hackers?	Hackers
+1 which movies can be described by fabulous?	Amélie
+1 which films can be described by elia suleiman?	Divine Intervention
+1 which films can be described by brainwashing?	The Manchurian Candidate
+1 what films can be described by patient?	The English Patient, Persona, The Princess and the Warrior
+1 what movies are about prep school?	The Emperor's Club
+1 which films are about paz vega?	Spanglish, 10 Items or Less
+1 which movies can be described by hayley mills?	The Parent Trap, Pollyanna, That Darn Cat!, Summer Magic
+1 which films can be described by andrew klavan?	Don't Say a Word, True Crime
+1 what movies are about john malkovich?	Being John Malkovich, Burn After Reading, Con Air, Changeling, Beowulf, The Man in the Iron Mask, Johnny English, Eragon, Empire of the Sun, In the Line of Fire, Dangerous Liaisons, Jonah Hex, The Killing Fields, Shadow of the Vampire, The Libertine, Of Mice and Men, Knockaround Guys, Art School Confidential, Ripley's Game, Jennifer 8, Mary Reilly, The Portrait of a Lady, The Sheltering Sky, The Dancer Upstairs, Disgrace, Beyond the Clouds, Making Mr. Right, The Object of Beauty, Queens Logic, The Convent
+1 what movies can be described by raoul walsh?	White Heat, High Sierra, The Roaring Twenties, They Drive by Night, Captain Horatio Hornblower R.N., They Died with Their Boots On, Objective, Burma!, The Enforcer, The Big Trail, Gentleman Jim, The Strawberry Blonde, Pursued, Colorado Territory, Going Hollywood
+1 which films can be described by andrew lloyd webber?	The Phantom of the Opera, Evita, Jesus Christ Superstar, Joseph and the Amazing Technicolor Dreamcoat
+1 what movies can be described by hope davis?	The Nines
+1 which movies can be described by psychoanalysis?	A Dangerous Method
+1 which films can be described by brian helgeland?	A Knight's Tale, Payback, 42
+1 what movies can be described by ginnifer goodwin?	He's Just Not That Into You
+1 what movies can be described by alien abduction?	Mysterious Skin, Altered
+1 what movies are about buenos aires?	The Tango Lesson

@@ -8,6 +8,7 @@ from graftnet import GraftNet
 from util import use_cuda, save_model, load_model, get_config, load_dict, cal_accuracy
 from util import load_documents, index_document_entities, output_pred_dist
 
+import pickle
 
 def train(cfg):
     print("training ...")
@@ -93,23 +94,40 @@ def inference(my_model, valid_data, entity2id, cfg, log_info=False):
     eval_loss, eval_acc, eval_max_acc = [], [], []
     id2entity = {idx: entity for entity, idx in entity2id.items()}
     valid_data.reset_batches(is_sequential = True)
-    test_batch_size = 20
+
+    ## TEST_BATCH SIZE SET TO 1
+    test_batch_size = 1
+
     if log_info:
         f_pred = open(cfg['pred_file'], 'w')
     for iteration in tqdm(range(valid_data.num_data // test_batch_size)):
         batch = valid_data.get_batch(iteration, test_batch_size, fact_dropout=0.0)
-        loss, pred, pred_dist = my_model(batch)
+
+        doc_indexes_score_wise = valid_data.rel_document_ids
+        
+        loss, pred, pred_dist, doc_score = my_model(batch)
+        doc_score = doc_score.detach().cpu().numpy()
+
+        doc_index_score = np.array(zip(doc_indexes_score_wise[0], doc_score[0]))
+        doc_id_sorted = [x for x,_ in sorted(doc_index_score, key=lambda x:x[1], reverse=True)]
+        print(doc_id_sorted)
+
         pred = pred.data.cpu().numpy()
         acc, max_acc = cal_accuracy(pred, batch[-1])
+
         if log_info: 
             output_pred_dist(pred_dist, batch[-1], id2entity, iteration * test_batch_size, valid_data, f_pred)
+        
         eval_loss.append(loss.data[0])
         eval_acc.append(acc)
         eval_max_acc.append(max_acc)
 
-    print('avg_loss', sum(eval_loss) / len(eval_loss))
-    print('max_acc', sum(eval_max_acc) / len(eval_max_acc))
-    print('avg_acc', sum(eval_acc) / len(eval_acc))
+    if eval_loss:
+        print('avg_loss', sum(eval_loss) / len(eval_loss))
+    if eval_max_acc:
+        print('max_acc', sum(eval_max_acc) / len(eval_max_acc))
+    if eval_acc:
+        print('avg_acc', sum(eval_acc) / len(eval_acc))
 
     return sum(eval_acc) / len(eval_acc)
 
@@ -122,7 +140,24 @@ def test(cfg):
     test_document_entity_indices, test_document_texts = index_document_entities(test_documents, word2id, entity2id, cfg['max_document_word'])
     test_data = DataLoader(cfg['data_folder'] + cfg['test_data'], test_documents, test_document_entity_indices, test_document_texts, word2id, relation2id, entity2id, cfg['max_query_word'], cfg['max_document_word'], cfg['use_kb'], cfg['use_doc'], cfg['use_inverse_relation'])
 
+    # print("----TEXTS----")
+    # print(test_document_texts)
+    # print("-------")
+    # print(test_data)
+    # with open(r'/home/tarun/ResearchWork/GraftNet/manually_created_files/read_test_try1_check', 'wb') as file1:
+    #     pickle.dump(test_data, file1)
+    
+    # print("TESTDATA", type(test_data))
+    # print(test_data.num_data, test_data.num_kb_relation)
+    
     my_model = get_model(cfg, test_data.num_kb_relation, len(entity2id), len(word2id))
+
+    # print(my_model)
+    # print(type(my_model))
+
+    # with open(r'/home/tarun/ResearchWork/GraftNet/manually_created_files/', 'wb') as file1:
+    #     pickle.dump(test_data, file1)
+
     test_acc = inference(my_model, test_data, entity2id, cfg, log_info=True)
     return test_acc
 
