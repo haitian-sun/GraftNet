@@ -1,1 +1,3 @@
 main.py inference test_batch_size set to 1 originially 20
+in the final training code, make sure that retrieval scores -1 are included unlike in the main.py test function. this is just for debugging
+will need to make some changes in the train function in main.py too just like in test func

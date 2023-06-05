@@ -102,7 +102,7 @@ class GraftNet(nn.Module):
         self.bce_loss = nn.BCELoss()
         self.bce_loss_logits = nn.BCEWithLogitsLoss()
 
-    def forward(self, batch):
+    def forward(self, batch, doc_ranking_original, rel_document_ids):
         """
         :local_entity: global_id of each entity                     (batch_size, max_local_entity)
         :q2e_adj_mat: adjacency matrices (dense)                    (batch_size, max_local_entity, 1)
@@ -112,6 +112,7 @@ class GraftNet(nn.Module):
         :document_text:                                             (batch_size, max_relevant_doc, max_document_word)
         :entity_pos: sparse entity_pos_mat                          (batch_size, max_local_entity, max_relevant_doc * max_document_word) 
         :answer_dist: an distribution over local_entity             (batch_size, max_local_entity)
+        :doc_ranking_original: the ground truth doc ranks
         """
         local_entity, q2e_adj_mat, kb_adj_mat, kb_fact_rel, query_text, document_text, entity_pos, answer_dist = batch
 
@@ -293,7 +294,15 @@ class GraftNet(nn.Module):
 
         # calculate loss and make prediction
         score = self.score_func(self.linear_drop(local_entity_emb)).squeeze(dim=2) # batch_size, max_local_entity
-        score2 = self.score_func(self.linear_drop(document_node_emb)).squeeze(dim=2)
+
+        doc_score = self.score_func(self.linear_drop(document_node_emb)).squeeze(dim=2)
+        doc_score = doc_score.detach().cpu().numpy()
+        doc_indexes_score_wise = rel_document_ids
+        doc_index_score = sorted(set(zip(doc_indexes_score_wise[0], doc_score[0])), key=lambda x:x[1], reverse=True)
+        doc_id_sorted = [x for x,_ in doc_index_score]
+
+        print(doc_ranking_original)
+        print(doc_id_sorted)
 
         loss = self.bce_loss_logits(score, answer_dist)
 
@@ -305,7 +314,7 @@ class GraftNet(nn.Module):
         pred_dist = self.sigmoid(score) * local_entity_mask
         pred = torch.max(score, dim=1)[1]
 
-        return loss, pred, pred_dist, score2
+        return loss, pred, pred_dist, doc_score
 
 
     def init_hidden(self, num_layer, batch_size, hidden_size):

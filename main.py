@@ -103,14 +103,21 @@ def inference(my_model, valid_data, entity2id, cfg, log_info=False):
     for iteration in tqdm(range(valid_data.num_data // test_batch_size)):
         batch = valid_data.get_batch(iteration, test_batch_size, fact_dropout=0.0)
 
-        doc_indexes_score_wise = valid_data.rel_document_ids
-        
-        loss, pred, pred_dist, doc_score = my_model(batch)
-        doc_score = doc_score.detach().cpu().numpy()
+        print(type(batch))
 
-        doc_index_score = np.array(zip(doc_indexes_score_wise[0], doc_score[0]))
-        doc_id_sorted = [x for x,_ in sorted(doc_index_score, key=lambda x:x[1], reverse=True)]
-        print(doc_id_sorted)
+        doc_descending_original = valid_data.data[0]['passages']
+        doc_descending_original.sort(key = lambda x:x['retrieval_score'], reverse=True)
+        doc_ranking_original = [x['document_id'] for x in doc_descending_original if x['retrieval_score']!=-1]
+        
+        loss, pred, pred_dist, doc_score = my_model(batch, doc_ranking_original, valid_data.rel_document_ids)
+
+        # doc_score = doc_score.detach().cpu().numpy()
+        # doc_indexes_score_wise = valid_data.rel_document_ids
+        # doc_index_score = sorted(set(zip(doc_indexes_score_wise[0], doc_score[0])), key=lambda x:x[1], reverse=True)
+        # doc_id_sorted = [x for x,_ in doc_index_score]
+
+        # print(doc_ranking_original)
+        # print(doc_id_sorted)
 
         pred = pred.data.cpu().numpy()
         acc, max_acc = cal_accuracy(pred, batch[-1])
@@ -140,9 +147,6 @@ def test(cfg):
     test_document_entity_indices, test_document_texts = index_document_entities(test_documents, word2id, entity2id, cfg['max_document_word'])
     test_data = DataLoader(cfg['data_folder'] + cfg['test_data'], test_documents, test_document_entity_indices, test_document_texts, word2id, relation2id, entity2id, cfg['max_query_word'], cfg['max_document_word'], cfg['use_kb'], cfg['use_doc'], cfg['use_inverse_relation'])
 
-    # print("----TEXTS----")
-    # print(test_document_texts)
-    # print("-------")
     # print(test_data)
     # with open(r'/home/tarun/ResearchWork/GraftNet/manually_created_files/read_test_try1_check', 'wb') as file1:
     #     pickle.dump(test_data, file1)
