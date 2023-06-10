@@ -2,6 +2,7 @@ import torch
 import numpy as np
 from torch.autograd import Variable
 import torch.nn as nn
+import torch.nn.functional as F
 from util import use_cuda, sparse_bmm, read_padded
 
 VERY_SMALL_NUMBER = 1e-10
@@ -101,8 +102,9 @@ class GraftNet(nn.Module):
         self.kld_loss = nn.KLDivLoss()
         self.bce_loss = nn.BCELoss()
         self.bce_loss_logits = nn.BCEWithLogitsLoss()
+        self.MSEloss = nn.MSELoss()
 
-    def forward(self, batch, doc_ranking_original, rel_document_ids):
+    def forward(self, batch, doc_score_original):
         """
         :local_entity: global_id of each entity                     (batch_size, max_local_entity)
         :q2e_adj_mat: adjacency matrices (dense)                    (batch_size, max_local_entity, 1)
@@ -112,7 +114,7 @@ class GraftNet(nn.Module):
         :document_text:                                             (batch_size, max_relevant_doc, max_document_word)
         :entity_pos: sparse entity_pos_mat                          (batch_size, max_local_entity, max_relevant_doc * max_document_word) 
         :answer_dist: an distribution over local_entity             (batch_size, max_local_entity)
-        :doc_ranking_original: the ground truth doc ranks
+        :doc_score_original: the ground truth doc scores
         """
         local_entity, q2e_adj_mat, kb_adj_mat, kb_fact_rel, query_text, document_text, entity_pos, answer_dist = batch
 
@@ -293,28 +295,61 @@ class GraftNet(nn.Module):
         # print(local_entity_emb)
 
         # calculate loss and make prediction
+
+        # print('---------------')
+        # print(len(query_node_emb[0][0]))
+        # print(len(document_node_emb[0][0]))
+        # print('-----------------')
+
+        
+
         score = self.score_func(self.linear_drop(local_entity_emb)).squeeze(dim=2) # batch_size, max_local_entity
 
         doc_score = self.score_func(self.linear_drop(document_node_emb)).squeeze(dim=2)
-        doc_score = doc_score.detach().cpu().numpy()
-        doc_indexes_score_wise = rel_document_ids
-        doc_index_score = sorted(set(zip(doc_indexes_score_wise[0], doc_score[0])), key=lambda x:x[1], reverse=True)
-        doc_id_sorted = [x for x,_ in doc_index_score]
 
-        print(doc_ranking_original)
-        print(doc_id_sorted)
+        # print(score.shape)
+        # print(query_node_emb.shape)
+        # print(query_node_emb[0][0])
+        # print(document_node_emb.shape)
 
-        loss = self.bce_loss_logits(score, answer_dist)
+        qne_normalized = F.normalize(query_node_emb.float(), p=2, dim=2)
+        dne_normalized = F.normalize(document_node_emb.float(), p=2, dim=2)
+        score2 = F.cosine_similarity(qne_normalized, dne_normalized, dim=2)
+        print(score2)
+
+        # print(doc_score)
+
+        doc_score_original_np = np.zeros([len(doc_score_original),len(max(doc_score_original,key = lambda x: len(x)))], dtype='float32')
+        for i,j in enumerate(doc_score_original):
+            doc_score_original_np[i][0:len(j)] = j
+        
+        doc_score_original = use_cuda(Variable(torch.from_numpy(doc_score_original_np).type('torch.FloatTensor'), requires_grad=False))
+        doc_score_original = F.normalize(doc_score_original.float(), p=2, dim=-1)
+        print(doc_score_original)
+        
+        # doc_score = doc_score.detach().cpu().numpy()
+        # doc_indexes_score_wise = rel_document_ids
+        # doc_index_score = sorted(set(zip(doc_indexes_score_wise[0], doc_score[0])), key=lambda x:x[1], reverse=True)
+        # doc_id_sorted = [x for x,_ in doc_index_score]
+
+        # print(doc_score)
+        # print(doc_score_original)
+        # print(type(doc_score), type(doc_score_original))
+        # print(doc_score.size(), doc_score_original.size())
+
+        # print(doc_ranking_original)
+        # print(doc_id_sorted)
+
+        # loss = self.bce_loss_logits(score, answer_dist)
+        loss = self.MSEloss(score2, doc_score_original)
+        print(loss)
 
         score = score + (1 - local_entity_mask) * VERY_NEG_NUMBER
-        # print("SCORE")
-        # print(score)
-        # print("----")
 
         pred_dist = self.sigmoid(score) * local_entity_mask
         pred = torch.max(score, dim=1)[1]
 
-        return loss, pred, pred_dist, doc_score
+        return loss, pred, pred_dist
 
 
     def init_hidden(self, num_layer, batch_size, hidden_size):

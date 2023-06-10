@@ -194,14 +194,15 @@ class DataLoader():
         """
         sample_ids = self.batches[batch_size * iteration: batch_size * (iteration + 1)]
         
-        return self.local_entities[sample_ids], \
+        return (self.local_entities[sample_ids], \
                self.q2e_adj_mats[sample_ids], \
                (self._build_kb_adj_mat(sample_ids, fact_dropout=fact_dropout)), \
                self.kb_fact_rels[sample_ids], \
                self.query_texts[sample_ids], \
                self._build_document_text(sample_ids), \
                (self._build_entity_pos(sample_ids)), \
-               self.answer_dists[sample_ids]
+               self.answer_dists[sample_ids]), \
+               sample_ids
 
 
     def _build_document_text(self, sample_ids):

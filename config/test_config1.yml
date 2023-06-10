@@ -1,8 +1,8 @@
 name: 'wikimovie'
 data_folder: 'datasets/wikimovie/10k_train_kb_03/'
-train_data: 'train.json'
+train_data: 'train_try1.json'
 train_documents: 'documents.json'
-dev_data: 'dev.json'
+dev_data: 'dev_try1.json'
 dev_documents: 'documents.json'
 test_data: 'test_try1.json'
 test_documents: 'documents.json'
@@ -17,8 +17,8 @@ relation_emb_file: null
 relation_kge_file: null 
 
 to_save_model: True
-save_model_file: "model/repro/wikimovie/testrunmovies1"
-pred_file: "model/repro/wikimovie/predmovies1"
+save_model_file: "model/repro/wikimovie/testrunmovies2"
+pred_file: "model/repro/wikimovie/predmovies2"
 load_model_file: "model/repro/wikimovie/best_model_hybrid"
 
 # graph options
@@ -39,9 +39,11 @@ use_inverse_relation: True
 
 # optimization
 num_epoch: 1
-batch_size: 120
 gradient_clip: 1
 learning_rate: 0.01
 lstm_dropout: 0.3
 linear_dropout: 0.2
 is_debug: False
+
+train_batch_size: 2
+testndev_batch_size: 2
