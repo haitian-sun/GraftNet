@@ -1,7 +1,0 @@
-main.py inference test_batch_size set to 1 originially 20
-in the final training code, make sure that retrieval scores -1 are included unlike in the main.py test function. this is just for debugging
-will need to make some changes in the train function in main.py too just like in test func
-in inference function try ceil and then edit get_batches for cases where data size less than batch size
-normalize our doc scores?
-does it compute one kg for each batch?
-scoring function nn.liner? try cosine similarity?
