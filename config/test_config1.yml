@@ -38,12 +38,12 @@ fact_scale: 1
 use_inverse_relation: True
 
 # optimization
-num_epoch: 1
+num_epoch: 2
 gradient_clip: 1
 learning_rate: 0.01
 lstm_dropout: 0.3
 linear_dropout: 0.2
 is_debug: False
 
-train_batch_size: 2
-testndev_batch_size: 2
+train_batch_size: 3
+testndev_batch_size: 3

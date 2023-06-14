@@ -54,17 +54,20 @@ def train(cfg):
             for iteration in tqdm(range(train_data.num_data // cfg['train_batch_size'])):
                 batch, sample_ids = train_data.get_batch(iteration, cfg['train_batch_size'], cfg['fact_dropout'])
 
-                print('---------')
-                print(type(batch))
-                print(len(batch))
+                print('sample ids', sample_ids)
+
+                # print('---------')
+                # print(type(batch))
+                # print(len(batch))
                 sample_ids = sample_ids.tolist()
-                print(type(sample_ids), len(sample_ids))
+                # print(type(sample_ids), len(sample_ids))
 
                 doc_score_original_train = []
                 for i in sample_ids:
+                    # print(i, len(train_data.data[i]['passages']))
                     doc_score_original_train.append([x['retrieval_score'] for x in train_data.data[i]['passages']])
 
-                print('--------------')
+                # print('--------------')
                 loss, _, _ = my_model(batch, doc_score_original_train)
                 # pred = pred.data.cpu().numpy()
                 
@@ -116,6 +119,7 @@ def inference(my_model, valid_data, entity2id, cfg, log_info=False):
         batch, sample_ids = valid_data.get_batch(iteration, testndev_batch_size, fact_dropout=0.0)
 
         sample_ids = sample_ids.tolist()
+        # print(sample_ids, batch)
 
         # print(type(sample_ids), sample_ids)
         doc_score_original = []

@@ -157,6 +157,7 @@ class DataLoader():
         vals1 = np.array([], dtype=float)
 
         for i, sample_id in enumerate(sample_ids):
+            print(i)
             (mat0_0, mat0_1, val0), (mat1_0, mat1_1, val1) = self.kb_adj_mats[sample_id]
             assert len(val0) == len(val1)
             num_fact = len(val0)

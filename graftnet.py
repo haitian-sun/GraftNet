@@ -118,9 +118,14 @@ class GraftNet(nn.Module):
         """
         local_entity, q2e_adj_mat, kb_adj_mat, kb_fact_rel, query_text, document_text, entity_pos, answer_dist = batch
 
+        # print(kb_adj_mat.shape)
+
         batch_size, max_local_entity = local_entity.shape
         _, max_relevant_doc, max_document_word = document_text.shape
         _, max_fact = kb_fact_rel.shape
+
+        print(document_text[0].shape)
+        # print(document_text)
 
         # numpy to tensor
         local_entity = use_cuda(Variable(torch.from_numpy(local_entity).type('torch.LongTensor'), requires_grad=False))
@@ -150,6 +155,7 @@ class GraftNet(nn.Module):
         if self.use_kb:
             # build kb_adj_matrix from sparse matrix
             (e2f_batch, e2f_f, e2f_e, e2f_val), (f2e_batch, f2e_e, f2e_f, f2e_val) = kb_adj_mat
+            print([e2f_batch, e2f_f, e2f_e])
             entity2fact_index = torch.LongTensor([e2f_batch, e2f_f, e2f_e])
             entity2fact_val = torch.FloatTensor(e2f_val)
             entity2fact_mat = use_cuda(torch.sparse.FloatTensor(entity2fact_index, entity2fact_val, torch.Size([batch_size, max_fact, max_local_entity]))) # batch_size, max_fact, max_local_entity
@@ -310,12 +316,14 @@ class GraftNet(nn.Module):
         # print(score.shape)
         # print(query_node_emb.shape)
         # print(query_node_emb[0][0])
-        # print(document_node_emb.shape)
+        # print(document_node_emb[0])
+        # print(document_textual_emb.shape)
 
         qne_normalized = F.normalize(query_node_emb.float(), p=2, dim=2)
         dne_normalized = F.normalize(document_node_emb.float(), p=2, dim=2)
+        # print(qne_normalized.shape, document_node_emb.shape)
         score2 = F.cosine_similarity(qne_normalized, dne_normalized, dim=2)
-        print(score2)
+        # print(score2.shape)
 
         # print(doc_score)
 
@@ -324,8 +332,10 @@ class GraftNet(nn.Module):
             doc_score_original_np[i][0:len(j)] = j
         
         doc_score_original = use_cuda(Variable(torch.from_numpy(doc_score_original_np).type('torch.FloatTensor'), requires_grad=False))
+        doc_score_original = F.pad(doc_score_original, (0, (score2.shape[1]-doc_score_original.shape[1])))
+
         doc_score_original = F.normalize(doc_score_original.float(), p=2, dim=-1)
-        print(doc_score_original)
+        # print(doc_score_original.shape)
         
         # doc_score = doc_score.detach().cpu().numpy()
         # doc_indexes_score_wise = rel_document_ids
@@ -342,7 +352,7 @@ class GraftNet(nn.Module):
 
         # loss = self.bce_loss_logits(score, answer_dist)
         loss = self.MSEloss(score2, doc_score_original)
-        print(loss)
+        # print(loss)
 
         score = score + (1 - local_entity_mask) * VERY_NEG_NUMBER
 
