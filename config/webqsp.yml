@@ -17,12 +17,12 @@ relation_emb_file: "relation_emb_100d.npy"
 relation_kge_file: "relation_kge_100d.npy"
 
 to_save_model: True
-save_model_file: "model/webqsp/best_model_hybrid"
-pred_file: "model/webqsp/pred_hybrid"
+save_model_file: "model/webqsp/testrun1model"
+pred_file: "model/webqsp/testrun1preds"
 load_model_file: "model/webqsp/best_model_hybrid"
 
 # graph options
-fact_dropout: 0.1
+fact_dropout: 0.2
 use_kb: True
 use_doc: True
 
